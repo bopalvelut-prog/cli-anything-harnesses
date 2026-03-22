@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sequelize = cli_anything.sequelize:cli

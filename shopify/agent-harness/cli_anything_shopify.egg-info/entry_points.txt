@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-shopify = cli_anything.shopify:cli

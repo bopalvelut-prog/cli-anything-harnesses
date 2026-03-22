@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zapier = cli_anything.zapier:cli

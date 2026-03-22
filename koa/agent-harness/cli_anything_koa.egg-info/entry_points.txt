@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-koa = cli_anything.koa:cli

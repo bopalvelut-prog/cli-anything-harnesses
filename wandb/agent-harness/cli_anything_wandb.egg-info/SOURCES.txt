@@ -1,0 +1,8 @@
+setup.py
+cli_anything/wandb/__init__.py
+cli_anything_wandb.egg-info/PKG-INFO
+cli_anything_wandb.egg-info/SOURCES.txt
+cli_anything_wandb.egg-info/dependency_links.txt
+cli_anything_wandb.egg-info/entry_points.txt
+cli_anything_wandb.egg-info/requires.txt
+cli_anything_wandb.egg-info/top_level.txt

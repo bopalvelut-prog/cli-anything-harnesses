@@ -1,8 +1,0 @@
-setup.py
-cli_anything/app_616/__init__.py
-cli_anything_app_616.egg-info/PKG-INFO
-cli_anything_app_616.egg-info/SOURCES.txt
-cli_anything_app_616.egg-info/dependency_links.txt
-cli_anything_app_616.egg-info/entry_points.txt
-cli_anything_app_616.egg-info/requires.txt
-cli_anything_app_616.egg-info/top_level.txt

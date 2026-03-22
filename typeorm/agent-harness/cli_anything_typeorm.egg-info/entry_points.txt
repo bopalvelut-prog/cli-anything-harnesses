@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-typeorm = cli_anything.typeorm:cli

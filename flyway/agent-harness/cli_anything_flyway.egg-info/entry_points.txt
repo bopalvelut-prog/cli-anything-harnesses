@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flyway = cli_anything.flyway:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/luigi/__init__.py
+cli_anything_luigi.egg-info/PKG-INFO
+cli_anything_luigi.egg-info/SOURCES.txt
+cli_anything_luigi.egg-info/dependency_links.txt
+cli_anything_luigi.egg-info/entry_points.txt
+cli_anything_luigi.egg-info/requires.txt
+cli_anything_luigi.egg-info/top_level.txt

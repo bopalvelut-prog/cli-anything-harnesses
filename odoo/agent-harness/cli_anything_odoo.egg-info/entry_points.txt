@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-odoo = cli_anything.odoo:cli

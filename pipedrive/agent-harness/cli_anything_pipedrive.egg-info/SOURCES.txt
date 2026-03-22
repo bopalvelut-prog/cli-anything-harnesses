@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pipedrive/__init__.py
+cli_anything_pipedrive.egg-info/PKG-INFO
+cli_anything_pipedrive.egg-info/SOURCES.txt
+cli_anything_pipedrive.egg-info/dependency_links.txt
+cli_anything_pipedrive.egg-info/entry_points.txt
+cli_anything_pipedrive.egg-info/requires.txt
+cli_anything_pipedrive.egg-info/top_level.txt

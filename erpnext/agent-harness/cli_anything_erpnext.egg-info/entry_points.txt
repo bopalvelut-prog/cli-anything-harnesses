@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-erpnext = cli_anything.erpnext:cli

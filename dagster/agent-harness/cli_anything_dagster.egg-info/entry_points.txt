@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dagster = cli_anything.dagster:cli

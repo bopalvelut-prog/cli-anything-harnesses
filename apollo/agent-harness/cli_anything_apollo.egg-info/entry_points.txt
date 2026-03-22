@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apollo = cli_anything.apollo:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/freshsales/__init__.py
+cli_anything_freshsales.egg-info/PKG-INFO
+cli_anything_freshsales.egg-info/SOURCES.txt
+cli_anything_freshsales.egg-info/dependency_links.txt
+cli_anything_freshsales.egg-info/entry_points.txt
+cli_anything_freshsales.egg-info/requires.txt
+cli_anything_freshsales.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kedro = cli_anything.kedro:cli

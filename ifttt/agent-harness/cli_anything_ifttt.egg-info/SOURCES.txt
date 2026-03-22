@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ifttt/__init__.py
+cli_anything_ifttt.egg-info/PKG-INFO
+cli_anything_ifttt.egg-info/SOURCES.txt
+cli_anything_ifttt.egg-info/dependency_links.txt
+cli_anything_ifttt.egg-info/entry_points.txt
+cli_anything_ifttt.egg-info/requires.txt
+cli_anything_ifttt.egg-info/top_level.txt

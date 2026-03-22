@@ -1,0 +1,8 @@
+setup.py
+cli_anything/symfony/__init__.py
+cli_anything_symfony.egg-info/PKG-INFO
+cli_anything_symfony.egg-info/SOURCES.txt
+cli_anything_symfony.egg-info/dependency_links.txt
+cli_anything_symfony.egg-info/entry_points.txt
+cli_anything_symfony.egg-info/requires.txt
+cli_anything_symfony.egg-info/top_level.txt

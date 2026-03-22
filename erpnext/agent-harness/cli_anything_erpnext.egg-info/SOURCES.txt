@@ -1,0 +1,8 @@
+setup.py
+cli_anything/erpnext/__init__.py
+cli_anything_erpnext.egg-info/PKG-INFO
+cli_anything_erpnext.egg-info/SOURCES.txt
+cli_anything_erpnext.egg-info/dependency_links.txt
+cli_anything_erpnext.egg-info/entry_points.txt
+cli_anything_erpnext.egg-info/requires.txt
+cli_anything_erpnext.egg-info/top_level.txt

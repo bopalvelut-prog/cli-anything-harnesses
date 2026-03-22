@@ -1,0 +1,8 @@
+setup.py
+cli_anything/flyway/__init__.py
+cli_anything_flyway.egg-info/PKG-INFO
+cli_anything_flyway.egg-info/SOURCES.txt
+cli_anything_flyway.egg-info/dependency_links.txt
+cli_anything_flyway.egg-info/entry_points.txt
+cli_anything_flyway.egg-info/requires.txt
+cli_anything_flyway.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-opencart = cli_anything.opencart:cli

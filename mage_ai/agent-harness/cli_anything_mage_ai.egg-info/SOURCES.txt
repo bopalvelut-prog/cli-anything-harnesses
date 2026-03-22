@@ -1,0 +1,8 @@
+setup.py
+cli_anything/mage_ai/__init__.py
+cli_anything_mage_ai.egg-info/PKG-INFO
+cli_anything_mage_ai.egg-info/SOURCES.txt
+cli_anything_mage_ai.egg-info/dependency_links.txt
+cli_anything_mage_ai.egg-info/entry_points.txt
+cli_anything_mage_ai.egg-info/requires.txt
+cli_anything_mage_ai.egg-info/top_level.txt

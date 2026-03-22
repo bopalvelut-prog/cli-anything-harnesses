@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-drizzle = cli_anything.drizzle:cli

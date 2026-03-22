@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vtiger = cli_anything.vtiger:cli

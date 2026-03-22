@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-wandb = cli_anything.wandb:cli

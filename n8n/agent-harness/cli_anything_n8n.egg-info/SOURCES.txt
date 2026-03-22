@@ -1,0 +1,8 @@
+setup.py
+cli_anything/n8n/__init__.py
+cli_anything_n8n.egg-info/PKG-INFO
+cli_anything_n8n.egg-info/SOURCES.txt
+cli_anything_n8n.egg-info/dependency_links.txt
+cli_anything_n8n.egg-info/entry_points.txt
+cli_anything_n8n.egg-info/requires.txt
+cli_anything_n8n.egg-info/top_level.txt

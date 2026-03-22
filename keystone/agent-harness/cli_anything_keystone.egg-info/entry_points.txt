@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-keystone = cli_anything.keystone:cli

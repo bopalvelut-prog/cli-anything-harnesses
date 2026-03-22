@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mlflow = cli_anything.mlflow:cli

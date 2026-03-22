@@ -1,8 +1,0 @@
-setup.py
-cli_anything/app_571/__init__.py
-cli_anything_app_571.egg-info/PKG-INFO
-cli_anything_app_571.egg-info/SOURCES.txt
-cli_anything_app_571.egg-info/dependency_links.txt
-cli_anything_app_571.egg-info/entry_points.txt
-cli_anything_app_571.egg-info/requires.txt
-cli_anything_app_571.egg-info/top_level.txt

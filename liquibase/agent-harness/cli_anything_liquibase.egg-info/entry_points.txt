@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-liquibase = cli_anything.liquibase:cli

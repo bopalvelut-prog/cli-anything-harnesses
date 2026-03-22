@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dvc = cli_anything.dvc:cli

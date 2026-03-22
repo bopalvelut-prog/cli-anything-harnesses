@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rails = cli_anything.rails:cli

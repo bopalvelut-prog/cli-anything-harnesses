@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zoho_crm = cli_anything.zoho_crm:cli

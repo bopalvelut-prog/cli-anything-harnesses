@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bigcommerce = cli_anything.bigcommerce:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ifttt = cli_anything.ifttt:cli

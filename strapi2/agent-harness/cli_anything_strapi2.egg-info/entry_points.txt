@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-strapi2 = cli_anything.strapi2:cli

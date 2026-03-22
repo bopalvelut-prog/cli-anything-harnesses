@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-spring = cli_anything.spring:cli

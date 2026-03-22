@@ -1,0 +1,8 @@
+setup.py
+cli_anything/opencart/__init__.py
+cli_anything_opencart.egg-info/PKG-INFO
+cli_anything_opencart.egg-info/SOURCES.txt
+cli_anything_opencart.egg-info/dependency_links.txt
+cli_anything_opencart.egg-info/entry_points.txt
+cli_anything_opencart.egg-info/requires.txt
+cli_anything_opencart.egg-info/top_level.txt

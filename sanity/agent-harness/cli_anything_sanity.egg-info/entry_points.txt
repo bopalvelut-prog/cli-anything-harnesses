@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sanity = cli_anything.sanity:cli

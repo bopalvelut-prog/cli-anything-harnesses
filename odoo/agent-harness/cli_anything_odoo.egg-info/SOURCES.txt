@@ -1,0 +1,8 @@
+setup.py
+cli_anything/odoo/__init__.py
+cli_anything_odoo.egg-info/PKG-INFO
+cli_anything_odoo.egg-info/SOURCES.txt
+cli_anything_odoo.egg-info/dependency_links.txt
+cli_anything_odoo.egg-info/entry_points.txt
+cli_anything_odoo.egg-info/requires.txt
+cli_anything_odoo.egg-info/top_level.txt

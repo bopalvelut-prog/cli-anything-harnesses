@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mage_ai = cli_anything.mage_ai:cli

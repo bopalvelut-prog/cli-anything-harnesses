@@ -1,0 +1,8 @@
+setup.py
+cli_anything/medusa/__init__.py
+cli_anything_medusa.egg-info/PKG-INFO
+cli_anything_medusa.egg-info/SOURCES.txt
+cli_anything_medusa.egg-info/dependency_links.txt
+cli_anything_medusa.egg-info/entry_points.txt
+cli_anything_medusa.egg-info/requires.txt
+cli_anything_medusa.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-node_red = cli_anything.node_red:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/salesforce/__init__.py
+cli_anything_salesforce.egg-info/PKG-INFO
+cli_anything_salesforce.egg-info/SOURCES.txt
+cli_anything_salesforce.egg-info/dependency_links.txt
+cli_anything_salesforce.egg-info/entry_points.txt
+cli_anything_salesforce.egg-info/requires.txt
+cli_anything_salesforce.egg-info/top_level.txt

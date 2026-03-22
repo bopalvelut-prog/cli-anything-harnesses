@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-suitecrm = cli_anything.suitecrm:cli

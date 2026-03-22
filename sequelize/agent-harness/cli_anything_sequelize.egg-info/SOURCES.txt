@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sequelize/__init__.py
+cli_anything_sequelize.egg-info/PKG-INFO
+cli_anything_sequelize.egg-info/SOURCES.txt
+cli_anything_sequelize.egg-info/dependency_links.txt
+cli_anything_sequelize.egg-info/entry_points.txt
+cli_anything_sequelize.egg-info/requires.txt
+cli_anything_sequelize.egg-info/top_level.txt

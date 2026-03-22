@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sanity/__init__.py
+cli_anything_sanity.egg-info/PKG-INFO
+cli_anything_sanity.egg-info/SOURCES.txt
+cli_anything_sanity.egg-info/dependency_links.txt
+cli_anything_sanity.egg-info/entry_points.txt
+cli_anything_sanity.egg-info/requires.txt
+cli_anything_sanity.egg-info/top_level.txt

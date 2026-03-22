@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flask = cli_anything.flask:cli

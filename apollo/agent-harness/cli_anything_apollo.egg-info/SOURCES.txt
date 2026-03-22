@@ -1,0 +1,8 @@
+setup.py
+cli_anything/apollo/__init__.py
+cli_anything_apollo.egg-info/PKG-INFO
+cli_anything_apollo.egg-info/SOURCES.txt
+cli_anything_apollo.egg-info/dependency_links.txt
+cli_anything_apollo.egg-info/entry_points.txt
+cli_anything_apollo.egg-info/requires.txt
+cli_anything_apollo.egg-info/top_level.txt

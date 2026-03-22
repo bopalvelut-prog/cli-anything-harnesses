@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alembic = cli_anything.alembic:cli

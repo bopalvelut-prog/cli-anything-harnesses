@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-n8n = cli_anything.n8n:cli

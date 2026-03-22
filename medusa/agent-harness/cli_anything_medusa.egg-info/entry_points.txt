@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-medusa = cli_anything.medusa:cli

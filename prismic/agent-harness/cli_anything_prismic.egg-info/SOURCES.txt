@@ -1,0 +1,8 @@
+setup.py
+cli_anything/prismic/__init__.py
+cli_anything_prismic.egg-info/PKG-INFO
+cli_anything_prismic.egg-info/SOURCES.txt
+cli_anything_prismic.egg-info/dependency_links.txt
+cli_anything_prismic.egg-info/entry_points.txt
+cli_anything_prismic.egg-info/requires.txt
+cli_anything_prismic.egg-info/top_level.txt

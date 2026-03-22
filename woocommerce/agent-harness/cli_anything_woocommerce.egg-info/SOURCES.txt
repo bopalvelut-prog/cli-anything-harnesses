@@ -1,0 +1,8 @@
+setup.py
+cli_anything/woocommerce/__init__.py
+cli_anything_woocommerce.egg-info/PKG-INFO
+cli_anything_woocommerce.egg-info/SOURCES.txt
+cli_anything_woocommerce.egg-info/dependency_links.txt
+cli_anything_woocommerce.egg-info/entry_points.txt
+cli_anything_woocommerce.egg-info/requires.txt
+cli_anything_woocommerce.egg-info/top_level.txt

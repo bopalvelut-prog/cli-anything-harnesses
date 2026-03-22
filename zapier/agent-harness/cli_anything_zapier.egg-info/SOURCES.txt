@@ -1,0 +1,8 @@
+setup.py
+cli_anything/zapier/__init__.py
+cli_anything_zapier.egg-info/PKG-INFO
+cli_anything_zapier.egg-info/SOURCES.txt
+cli_anything_zapier.egg-info/dependency_links.txt
+cli_anything_zapier.egg-info/entry_points.txt
+cli_anything_zapier.egg-info/requires.txt
+cli_anything_zapier.egg-info/top_level.txt

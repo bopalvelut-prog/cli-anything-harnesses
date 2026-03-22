@@ -1,0 +1,8 @@
+setup.py
+cli_anything/prefect/__init__.py
+cli_anything_prefect.egg-info/PKG-INFO
+cli_anything_prefect.egg-info/SOURCES.txt
+cli_anything_prefect.egg-info/dependency_links.txt
+cli_anything_prefect.egg-info/entry_points.txt
+cli_anything_prefect.egg-info/requires.txt
+cli_anything_prefect.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-spree = cli_anything.spree:cli

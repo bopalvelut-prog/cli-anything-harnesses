@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-make = cli_anything.make:cli

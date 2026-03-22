@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-django = cli_anything.django:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-symfony = cli_anything.symfony:cli

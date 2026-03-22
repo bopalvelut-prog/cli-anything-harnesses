@@ -1,0 +1,8 @@
+setup.py
+cli_anything/laravel/__init__.py
+cli_anything_laravel.egg-info/PKG-INFO
+cli_anything_laravel.egg-info/SOURCES.txt
+cli_anything_laravel.egg-info/dependency_links.txt
+cli_anything_laravel.egg-info/entry_points.txt
+cli_anything_laravel.egg-info/requires.txt
+cli_anything_laravel.egg-info/top_level.txt

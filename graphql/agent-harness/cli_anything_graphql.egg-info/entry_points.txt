@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-graphql = cli_anything.graphql:cli

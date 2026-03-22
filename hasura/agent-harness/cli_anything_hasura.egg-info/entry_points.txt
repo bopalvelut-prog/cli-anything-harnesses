@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hasura = cli_anything.hasura:cli

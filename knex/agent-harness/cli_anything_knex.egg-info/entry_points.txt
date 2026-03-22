@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-knex = cli_anything.knex:cli
