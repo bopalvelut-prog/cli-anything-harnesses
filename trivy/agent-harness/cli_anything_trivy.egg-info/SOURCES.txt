@@ -1,0 +1,8 @@
+setup.py
+cli_anything/trivy/__init__.py
+cli_anything_trivy.egg-info/PKG-INFO
+cli_anything_trivy.egg-info/SOURCES.txt
+cli_anything_trivy.egg-info/dependency_links.txt
+cli_anything_trivy.egg-info/entry_points.txt
+cli_anything_trivy.egg-info/requires.txt
+cli_anything_trivy.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/fortify/__init__.py
+cli_anything_fortify.egg-info/PKG-INFO
+cli_anything_fortify.egg-info/SOURCES.txt
+cli_anything_fortify.egg-info/dependency_links.txt
+cli_anything_fortify.egg-info/entry_points.txt
+cli_anything_fortify.egg-info/requires.txt
+cli_anything_fortify.egg-info/top_level.txt

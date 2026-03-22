@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-lacework = cli_anything.lacework:cli

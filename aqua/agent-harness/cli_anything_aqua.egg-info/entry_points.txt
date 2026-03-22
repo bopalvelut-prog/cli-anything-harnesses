@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aqua = cli_anything.aqua:cli

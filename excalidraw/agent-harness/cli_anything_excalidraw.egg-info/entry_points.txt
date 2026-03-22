@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-excalidraw = cli_anything.excalidraw:cli

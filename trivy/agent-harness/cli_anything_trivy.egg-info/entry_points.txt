@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-trivy = cli_anything.trivy:cli

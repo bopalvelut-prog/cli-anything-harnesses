@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-activitywatch = cli_anything.activitywatch:cli

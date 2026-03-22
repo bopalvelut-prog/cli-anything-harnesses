@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-drawio_online = cli_anything.drawio_online:cli

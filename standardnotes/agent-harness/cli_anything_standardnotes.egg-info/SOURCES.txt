@@ -1,0 +1,8 @@
+setup.py
+cli_anything/standardnotes/__init__.py
+cli_anything_standardnotes.egg-info/PKG-INFO
+cli_anything_standardnotes.egg-info/SOURCES.txt
+cli_anything_standardnotes.egg-info/dependency_links.txt
+cli_anything_standardnotes.egg-info/entry_points.txt
+cli_anything_standardnotes.egg-info/requires.txt
+cli_anything_standardnotes.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/hubstaff/__init__.py
+cli_anything_hubstaff.egg-info/PKG-INFO
+cli_anything_hubstaff.egg-info/SOURCES.txt
+cli_anything_hubstaff.egg-info/dependency_links.txt
+cli_anything_hubstaff.egg-info/entry_points.txt
+cli_anything_hubstaff.egg-info/requires.txt
+cli_anything_hubstaff.egg-info/top_level.txt

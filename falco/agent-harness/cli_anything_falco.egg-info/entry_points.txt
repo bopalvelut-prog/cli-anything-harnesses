@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-falco = cli_anything.falco:cli

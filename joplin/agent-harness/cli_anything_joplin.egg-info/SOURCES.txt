@@ -1,0 +1,8 @@
+setup.py
+cli_anything/joplin/__init__.py
+cli_anything_joplin.egg-info/PKG-INFO
+cli_anything_joplin.egg-info/SOURCES.txt
+cli_anything_joplin.egg-info/dependency_links.txt
+cli_anything_joplin.egg-info/entry_points.txt
+cli_anything_joplin.egg-info/requires.txt
+cli_anything_joplin.egg-info/top_level.txt

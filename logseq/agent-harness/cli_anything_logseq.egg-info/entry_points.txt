@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-logseq = cli_anything.logseq:cli

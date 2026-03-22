@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sysdig = cli_anything.sysdig:cli

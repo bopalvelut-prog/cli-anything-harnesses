@@ -1,0 +1,8 @@
+setup.py
+cli_anything/timular/__init__.py
+cli_anything_timular.egg-info/PKG-INFO
+cli_anything_timular.egg-info/SOURCES.txt
+cli_anything_timular.egg-info/dependency_links.txt
+cli_anything_timular.egg-info/entry_points.txt
+cli_anything_timular.egg-info/requires.txt
+cli_anything_timular.egg-info/top_level.txt

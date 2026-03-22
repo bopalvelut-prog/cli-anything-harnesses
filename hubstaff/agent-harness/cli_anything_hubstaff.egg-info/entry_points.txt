@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hubstaff = cli_anything.hubstaff:cli

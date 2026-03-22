@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-seafile = cli_anything.seafile:cli

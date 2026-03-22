@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-planka = cli_anything.planka:cli

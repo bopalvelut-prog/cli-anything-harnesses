@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-contrast = cli_anything.contrast:cli

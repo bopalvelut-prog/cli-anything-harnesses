@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-stackrox = cli_anything.stackrox:cli

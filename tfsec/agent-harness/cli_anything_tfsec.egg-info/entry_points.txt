@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-tfsec = cli_anything.tfsec:cli

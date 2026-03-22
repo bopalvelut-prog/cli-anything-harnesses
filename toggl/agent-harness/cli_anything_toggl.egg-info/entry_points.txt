@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-toggl = cli_anything.toggl:cli

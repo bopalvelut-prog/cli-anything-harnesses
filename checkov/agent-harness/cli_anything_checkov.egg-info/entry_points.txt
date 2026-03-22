@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-checkov = cli_anything.checkov:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-onlyoffice = cli_anything.onlyoffice:cli

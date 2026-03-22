@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bridgecrew = cli_anything.bridgecrew:cli

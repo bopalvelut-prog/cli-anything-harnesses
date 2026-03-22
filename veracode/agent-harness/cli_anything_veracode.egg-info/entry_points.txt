@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-veracode = cli_anything.veracode:cli

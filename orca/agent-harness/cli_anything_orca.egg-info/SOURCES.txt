@@ -1,0 +1,8 @@
+setup.py
+cli_anything/orca/__init__.py
+cli_anything_orca.egg-info/PKG-INFO
+cli_anything_orca.egg-info/SOURCES.txt
+cli_anything_orca.egg-info/dependency_links.txt
+cli_anything_orca.egg-info/entry_points.txt
+cli_anything_orca.egg-info/requires.txt
+cli_anything_orca.egg-info/top_level.txt

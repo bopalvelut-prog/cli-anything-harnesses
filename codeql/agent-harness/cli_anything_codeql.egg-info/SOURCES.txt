@@ -1,0 +1,8 @@
+setup.py
+cli_anything/codeql/__init__.py
+cli_anything_codeql.egg-info/PKG-INFO
+cli_anything_codeql.egg-info/SOURCES.txt
+cli_anything_codeql.egg-info/dependency_links.txt
+cli_anything_codeql.egg-info/entry_points.txt
+cli_anything_codeql.egg-info/requires.txt
+cli_anything_codeql.egg-info/top_level.txt

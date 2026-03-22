@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-clockify = cli_anything.clockify:cli

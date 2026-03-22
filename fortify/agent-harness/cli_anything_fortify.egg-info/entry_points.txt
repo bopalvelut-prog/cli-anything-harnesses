@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fortify = cli_anything.fortify:cli

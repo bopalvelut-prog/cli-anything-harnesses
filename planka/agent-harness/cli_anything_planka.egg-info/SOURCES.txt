@@ -1,0 +1,8 @@
+setup.py
+cli_anything/planka/__init__.py
+cli_anything_planka.egg-info/PKG-INFO
+cli_anything_planka.egg-info/SOURCES.txt
+cli_anything_planka.egg-info/dependency_links.txt
+cli_anything_planka.egg-info/entry_points.txt
+cli_anything_planka.egg-info/requires.txt
+cli_anything_planka.egg-info/top_level.txt

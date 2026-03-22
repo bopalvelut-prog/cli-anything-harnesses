@@ -1,0 +1,8 @@
+setup.py
+cli_anything/appflowy/__init__.py
+cli_anything_appflowy.egg-info/PKG-INFO
+cli_anything_appflowy.egg-info/SOURCES.txt
+cli_anything_appflowy.egg-info/dependency_links.txt
+cli_anything_appflowy.egg-info/entry_points.txt
+cli_anything_appflowy.egg-info/requires.txt
+cli_anything_appflowy.egg-info/top_level.txt

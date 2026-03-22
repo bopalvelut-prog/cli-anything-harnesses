@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-grype = cli_anything.grype:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/collabora/__init__.py
+cli_anything_collabora.egg-info/PKG-INFO
+cli_anything_collabora.egg-info/SOURCES.txt
+cli_anything_collabora.egg-info/dependency_links.txt
+cli_anything_collabora.egg-info/entry_points.txt
+cli_anything_collabora.egg-info/requires.txt
+cli_anything_collabora.egg-info/top_level.txt

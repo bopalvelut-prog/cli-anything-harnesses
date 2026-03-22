@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-semgrep = cli_anything.semgrep:cli

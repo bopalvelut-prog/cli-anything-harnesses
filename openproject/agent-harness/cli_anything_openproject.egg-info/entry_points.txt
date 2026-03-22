@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-openproject = cli_anything.openproject:cli

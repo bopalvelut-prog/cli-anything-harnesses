@@ -1,0 +1,8 @@
+setup.py
+cli_anything/taiga/__init__.py
+cli_anything_taiga.egg-info/PKG-INFO
+cli_anything_taiga.egg-info/SOURCES.txt
+cli_anything_taiga.egg-info/dependency_links.txt
+cli_anything_taiga.egg-info/entry_points.txt
+cli_anything_taiga.egg-info/requires.txt
+cli_anything_taiga.egg-info/top_level.txt

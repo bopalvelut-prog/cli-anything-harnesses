@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-filerun = cli_anything.filerun:cli

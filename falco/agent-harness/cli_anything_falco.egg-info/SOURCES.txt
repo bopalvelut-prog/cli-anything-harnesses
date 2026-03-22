@@ -1,0 +1,8 @@
+setup.py
+cli_anything/falco/__init__.py
+cli_anything_falco.egg-info/PKG-INFO
+cli_anything_falco.egg-info/SOURCES.txt
+cli_anything_falco.egg-info/dependency_links.txt
+cli_anything_falco.egg-info/entry_points.txt
+cli_anything_falco.egg-info/requires.txt
+cli_anything_falco.egg-info/top_level.txt

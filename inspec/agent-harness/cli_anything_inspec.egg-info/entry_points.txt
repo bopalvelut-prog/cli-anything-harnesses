@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-inspec = cli_anything.inspec:cli

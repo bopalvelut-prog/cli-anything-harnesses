@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-orca = cli_anything.orca:cli

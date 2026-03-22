@@ -1,0 +1,8 @@
+setup.py
+cli_anything/gitguardian/__init__.py
+cli_anything_gitguardian.egg-info/PKG-INFO
+cli_anything_gitguardian.egg-info/SOURCES.txt
+cli_anything_gitguardian.egg-info/dependency_links.txt
+cli_anything_gitguardian.egg-info/entry_points.txt
+cli_anything_gitguardian.egg-info/requires.txt
+cli_anything_gitguardian.egg-info/top_level.txt

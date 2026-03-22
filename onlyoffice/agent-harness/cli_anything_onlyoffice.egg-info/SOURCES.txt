@@ -1,0 +1,8 @@
+setup.py
+cli_anything/onlyoffice/__init__.py
+cli_anything_onlyoffice.egg-info/PKG-INFO
+cli_anything_onlyoffice.egg-info/SOURCES.txt
+cli_anything_onlyoffice.egg-info/dependency_links.txt
+cli_anything_onlyoffice.egg-info/entry_points.txt
+cli_anything_onlyoffice.egg-info/requires.txt
+cli_anything_onlyoffice.egg-info/top_level.txt

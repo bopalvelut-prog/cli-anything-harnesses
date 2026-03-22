@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-calcom = cli_anything.calcom:cli

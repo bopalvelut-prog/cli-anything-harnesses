@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-timular = cli_anything.timular:cli

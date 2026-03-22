@@ -1,0 +1,8 @@
+setup.py
+cli_anything/tfsec/__init__.py
+cli_anything_tfsec.egg-info/PKG-INFO
+cli_anything_tfsec.egg-info/SOURCES.txt
+cli_anything_tfsec.egg-info/dependency_links.txt
+cli_anything_tfsec.egg-info/entry_points.txt
+cli_anything_tfsec.egg-info/requires.txt
+cli_anything_tfsec.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/semgrep/__init__.py
+cli_anything_semgrep.egg-info/PKG-INFO
+cli_anything_semgrep.egg-info/SOURCES.txt
+cli_anything_semgrep.egg-info/dependency_links.txt
+cli_anything_semgrep.egg-info/entry_points.txt
+cli_anything_semgrep.egg-info/requires.txt
+cli_anything_semgrep.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rescuetime = cli_anything.rescuetime:cli

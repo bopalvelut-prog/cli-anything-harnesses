@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-prisma_cloud = cli_anything.prisma_cloud:cli

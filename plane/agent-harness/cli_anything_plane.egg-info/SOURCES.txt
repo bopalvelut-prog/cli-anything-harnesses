@@ -1,0 +1,8 @@
+setup.py
+cli_anything/plane/__init__.py
+cli_anything_plane.egg-info/PKG-INFO
+cli_anything_plane.egg-info/SOURCES.txt
+cli_anything_plane.egg-info/dependency_links.txt
+cli_anything_plane.egg-info/entry_points.txt
+cli_anything_plane.egg-info/requires.txt
+cli_anything_plane.egg-info/top_level.txt

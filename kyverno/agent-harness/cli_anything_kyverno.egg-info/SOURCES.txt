@@ -1,0 +1,8 @@
+setup.py
+cli_anything/kyverno/__init__.py
+cli_anything_kyverno.egg-info/PKG-INFO
+cli_anything_kyverno.egg-info/SOURCES.txt
+cli_anything_kyverno.egg-info/dependency_links.txt
+cli_anything_kyverno.egg-info/entry_points.txt
+cli_anything_kyverno.egg-info/requires.txt
+cli_anything_kyverno.egg-info/top_level.txt

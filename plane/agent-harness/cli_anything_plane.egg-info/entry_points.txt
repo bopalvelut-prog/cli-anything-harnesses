@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-plane = cli_anything.plane:cli

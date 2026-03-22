@@ -1,0 +1,8 @@
+setup.py
+cli_anything/drawio_online/__init__.py
+cli_anything_drawio_online.egg-info/PKG-INFO
+cli_anything_drawio_online.egg-info/SOURCES.txt
+cli_anything_drawio_online.egg-info/dependency_links.txt
+cli_anything_drawio_online.egg-info/entry_points.txt
+cli_anything_drawio_online.egg-info/requires.txt
+cli_anything_drawio_online.egg-info/top_level.txt

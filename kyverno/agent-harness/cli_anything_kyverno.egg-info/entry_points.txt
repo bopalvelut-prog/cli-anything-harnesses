@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kyverno = cli_anything.kyverno:cli

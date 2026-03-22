@@ -1,0 +1,8 @@
+setup.py
+cli_anything/aqua/__init__.py
+cli_anything_aqua.egg-info/PKG-INFO
+cli_anything_aqua.egg-info/SOURCES.txt
+cli_anything_aqua.egg-info/dependency_links.txt
+cli_anything_aqua.egg-info/entry_points.txt
+cli_anything_aqua.egg-info/requires.txt
+cli_anything_aqua.egg-info/top_level.txt

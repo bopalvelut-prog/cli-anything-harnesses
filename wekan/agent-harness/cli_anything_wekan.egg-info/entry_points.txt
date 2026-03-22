@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-wekan = cli_anything.wekan:cli

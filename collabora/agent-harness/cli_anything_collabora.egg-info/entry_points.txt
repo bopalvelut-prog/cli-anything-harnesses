@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-collabora = cli_anything.collabora:cli

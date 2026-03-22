@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ssl_cert = cli_anything.ssl_cert:cli

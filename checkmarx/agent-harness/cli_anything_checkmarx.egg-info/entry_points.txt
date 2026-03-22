@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-checkmarx = cli_anything.checkmarx:cli

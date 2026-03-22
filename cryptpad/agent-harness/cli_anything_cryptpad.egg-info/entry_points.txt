@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cryptpad = cli_anything.cryptpad:cli

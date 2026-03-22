@@ -1,0 +1,8 @@
+setup.py
+cli_anything/seafile/__init__.py
+cli_anything_seafile.egg-info/PKG-INFO
+cli_anything_seafile.egg-info/SOURCES.txt
+cli_anything_seafile.egg-info/dependency_links.txt
+cli_anything_seafile.egg-info/entry_points.txt
+cli_anything_seafile.egg-info/requires.txt
+cli_anything_seafile.egg-info/top_level.txt

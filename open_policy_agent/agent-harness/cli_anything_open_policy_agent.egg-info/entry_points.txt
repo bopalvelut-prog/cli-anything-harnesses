@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-open_policy_agent = cli_anything.open_policy_agent:cli

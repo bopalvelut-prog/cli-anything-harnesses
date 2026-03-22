@@ -1,0 +1,8 @@
+setup.py
+cli_anything/filerun/__init__.py
+cli_anything_filerun.egg-info/PKG-INFO
+cli_anything_filerun.egg-info/SOURCES.txt
+cli_anything_filerun.egg-info/dependency_links.txt
+cli_anything_filerun.egg-info/entry_points.txt
+cli_anything_filerun.egg-info/requires.txt
+cli_anything_filerun.egg-info/top_level.txt
