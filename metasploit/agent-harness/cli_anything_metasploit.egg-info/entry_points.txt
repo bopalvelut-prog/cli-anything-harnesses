@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-metasploit = cli_anything.metasploit:cli

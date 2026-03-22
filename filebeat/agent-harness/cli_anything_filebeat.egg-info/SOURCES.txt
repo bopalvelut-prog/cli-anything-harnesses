@@ -1,0 +1,8 @@
+setup.py
+cli_anything/filebeat/__init__.py
+cli_anything_filebeat.egg-info/PKG-INFO
+cli_anything_filebeat.egg-info/SOURCES.txt
+cli_anything_filebeat.egg-info/dependency_links.txt
+cli_anything_filebeat.egg-info/entry_points.txt
+cli_anything_filebeat.egg-info/requires.txt
+cli_anything_filebeat.egg-info/top_level.txt

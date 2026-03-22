@@ -1,0 +1,8 @@
+setup.py
+cli_anything/nextjs/__init__.py
+cli_anything_nextjs.egg-info/PKG-INFO
+cli_anything_nextjs.egg-info/SOURCES.txt
+cli_anything_nextjs.egg-info/dependency_links.txt
+cli_anything_nextjs.egg-info/entry_points.txt
+cli_anything_nextjs.egg-info/requires.txt
+cli_anything_nextjs.egg-info/top_level.txt

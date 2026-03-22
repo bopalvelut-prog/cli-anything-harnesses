@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-v2ray = cli_anything.v2ray:cli

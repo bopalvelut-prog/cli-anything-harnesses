@@ -1,0 +1,8 @@
+setup.py
+cli_anything/jest/__init__.py
+cli_anything_jest.egg-info/PKG-INFO
+cli_anything_jest.egg-info/SOURCES.txt
+cli_anything_jest.egg-info/dependency_links.txt
+cli_anything_jest.egg-info/entry_points.txt
+cli_anything_jest.egg-info/requires.txt
+cli_anything_jest.egg-info/top_level.txt

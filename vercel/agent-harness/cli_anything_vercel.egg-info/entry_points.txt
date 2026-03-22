@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vercel = cli_anything.vercel:cli

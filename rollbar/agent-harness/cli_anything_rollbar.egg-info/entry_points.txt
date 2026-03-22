@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rollbar = cli_anything.rollbar:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bugsnag = cli_anything.bugsnag:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-lint = cli_anything.lint:cli

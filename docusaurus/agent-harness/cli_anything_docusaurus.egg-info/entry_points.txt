@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-docusaurus = cli_anything.docusaurus:cli

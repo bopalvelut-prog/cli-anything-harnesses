@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-jaeger = cli_anything.jaeger:cli

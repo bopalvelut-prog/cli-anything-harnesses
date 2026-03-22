@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vault = cli_anything.vault:cli

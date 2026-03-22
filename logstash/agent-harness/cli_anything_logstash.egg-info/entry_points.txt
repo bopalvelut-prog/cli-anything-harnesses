@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-logstash = cli_anything.logstash:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/nomad/__init__.py
+cli_anything_nomad.egg-info/PKG-INFO
+cli_anything_nomad.egg-info/SOURCES.txt
+cli_anything_nomad.egg-info/dependency_links.txt
+cli_anything_nomad.egg-info/entry_points.txt
+cli_anything_nomad.egg-info/requires.txt
+cli_anything_nomad.egg-info/top_level.txt

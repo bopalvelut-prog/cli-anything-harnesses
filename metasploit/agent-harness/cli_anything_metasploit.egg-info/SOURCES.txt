@@ -1,0 +1,8 @@
+setup.py
+cli_anything/metasploit/__init__.py
+cli_anything_metasploit.egg-info/PKG-INFO
+cli_anything_metasploit.egg-info/SOURCES.txt
+cli_anything_metasploit.egg-info/dependency_links.txt
+cli_anything_metasploit.egg-info/entry_points.txt
+cli_anything_metasploit.egg-info/requires.txt
+cli_anything_metasploit.egg-info/top_level.txt

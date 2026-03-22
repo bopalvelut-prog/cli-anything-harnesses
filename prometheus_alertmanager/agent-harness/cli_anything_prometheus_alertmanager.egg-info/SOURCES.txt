@@ -1,0 +1,8 @@
+setup.py
+cli_anything/prometheus_alertmanager/__init__.py
+cli_anything_prometheus_alertmanager.egg-info/PKG-INFO
+cli_anything_prometheus_alertmanager.egg-info/SOURCES.txt
+cli_anything_prometheus_alertmanager.egg-info/dependency_links.txt
+cli_anything_prometheus_alertmanager.egg-info/entry_points.txt
+cli_anything_prometheus_alertmanager.egg-info/requires.txt
+cli_anything_prometheus_alertmanager.egg-info/top_level.txt

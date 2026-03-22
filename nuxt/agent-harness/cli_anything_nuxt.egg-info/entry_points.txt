@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nuxt = cli_anything.nuxt:cli

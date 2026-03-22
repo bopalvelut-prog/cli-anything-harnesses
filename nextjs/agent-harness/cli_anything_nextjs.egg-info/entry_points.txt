@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nextjs = cli_anything.nextjs:cli

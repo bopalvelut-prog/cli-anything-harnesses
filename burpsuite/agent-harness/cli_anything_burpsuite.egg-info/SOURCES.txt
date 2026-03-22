@@ -1,0 +1,8 @@
+setup.py
+cli_anything/burpsuite/__init__.py
+cli_anything_burpsuite.egg-info/PKG-INFO
+cli_anything_burpsuite.egg-info/SOURCES.txt
+cli_anything_burpsuite.egg-info/dependency_links.txt
+cli_anything_burpsuite.egg-info/entry_points.txt
+cli_anything_burpsuite.egg-info/requires.txt
+cli_anything_burpsuite.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kali = cli_anything.kali:cli

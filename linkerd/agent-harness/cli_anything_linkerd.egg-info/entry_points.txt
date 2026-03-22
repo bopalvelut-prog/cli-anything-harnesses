@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-linkerd = cli_anything.linkerd:cli

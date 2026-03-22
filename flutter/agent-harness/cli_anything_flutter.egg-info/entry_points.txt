@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flutter = cli_anything.flutter:cli

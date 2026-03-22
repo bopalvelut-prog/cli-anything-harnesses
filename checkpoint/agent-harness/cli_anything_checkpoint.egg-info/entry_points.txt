@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-checkpoint = cli_anything.checkpoint:cli

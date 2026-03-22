@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-gobuster = cli_anything.gobuster:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/v2ray/__init__.py
+cli_anything_v2ray.egg-info/PKG-INFO
+cli_anything_v2ray.egg-info/SOURCES.txt
+cli_anything_v2ray.egg-info/dependency_links.txt
+cli_anything_v2ray.egg-info/entry_points.txt
+cli_anything_v2ray.egg-info/requires.txt
+cli_anything_v2ray.egg-info/top_level.txt

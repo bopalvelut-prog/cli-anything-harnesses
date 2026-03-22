@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-burpsuite = cli_anything.burpsuite:cli

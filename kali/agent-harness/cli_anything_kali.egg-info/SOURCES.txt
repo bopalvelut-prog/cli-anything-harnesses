@@ -1,0 +1,8 @@
+setup.py
+cli_anything/kali/__init__.py
+cli_anything_kali.egg-info/PKG-INFO
+cli_anything_kali.egg-info/SOURCES.txt
+cli_anything_kali.egg-info/dependency_links.txt
+cli_anything_kali.egg-info/entry_points.txt
+cli_anything_kali.egg-info/requires.txt
+cli_anything_kali.egg-info/top_level.txt

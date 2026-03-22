@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-openwrt = cli_anything.openwrt:cli

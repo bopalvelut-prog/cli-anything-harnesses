@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-asciidoctor = cli_anything.asciidoctor:cli

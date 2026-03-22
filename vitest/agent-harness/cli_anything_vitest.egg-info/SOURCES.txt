@@ -1,0 +1,8 @@
+setup.py
+cli_anything/vitest/__init__.py
+cli_anything_vitest.egg-info/PKG-INFO
+cli_anything_vitest.egg-info/SOURCES.txt
+cli_anything_vitest.egg-info/dependency_links.txt
+cli_anything_vitest.egg-info/entry_points.txt
+cli_anything_vitest.egg-info/requires.txt
+cli_anything_vitest.egg-info/top_level.txt

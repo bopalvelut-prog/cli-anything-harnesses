@@ -1,0 +1,8 @@
+setup.py
+cli_anything/react/__init__.py
+cli_anything_react.egg-info/PKG-INFO
+cli_anything_react.egg-info/SOURCES.txt
+cli_anything_react.egg-info/dependency_links.txt
+cli_anything_react.egg-info/entry_points.txt
+cli_anything_react.egg-info/requires.txt
+cli_anything_react.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dart = cli_anything.dart:cli

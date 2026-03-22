@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-babel = cli_anything.babel:cli

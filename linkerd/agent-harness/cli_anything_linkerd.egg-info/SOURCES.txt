@@ -1,0 +1,8 @@
+setup.py
+cli_anything/linkerd/__init__.py
+cli_anything_linkerd.egg-info/PKG-INFO
+cli_anything_linkerd.egg-info/SOURCES.txt
+cli_anything_linkerd.egg-info/dependency_links.txt
+cli_anything_linkerd.egg-info/entry_points.txt
+cli_anything_linkerd.egg-info/requires.txt
+cli_anything_linkerd.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zerotier = cli_anything.zerotier:cli

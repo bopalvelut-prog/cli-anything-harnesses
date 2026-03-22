@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-amplify = cli_anything.amplify:cli

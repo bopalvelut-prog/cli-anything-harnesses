@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-httpx = cli_anything.httpx:cli

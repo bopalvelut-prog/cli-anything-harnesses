@@ -1,0 +1,8 @@
+setup.py
+cli_anything/maltego/__init__.py
+cli_anything_maltego.egg-info/PKG-INFO
+cli_anything_maltego.egg-info/SOURCES.txt
+cli_anything_maltego.egg-info/dependency_links.txt
+cli_anything_maltego.egg-info/entry_points.txt
+cli_anything_maltego.egg-info/requires.txt
+cli_anything_maltego.egg-info/top_level.txt

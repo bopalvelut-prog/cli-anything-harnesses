@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-clash = cli_anything.clash:cli

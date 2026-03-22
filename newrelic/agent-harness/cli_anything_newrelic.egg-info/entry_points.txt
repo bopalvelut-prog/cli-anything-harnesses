@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-newrelic = cli_anything.newrelic:cli

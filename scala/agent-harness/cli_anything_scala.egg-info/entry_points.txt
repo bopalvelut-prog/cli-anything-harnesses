@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-scala = cli_anything.scala:cli

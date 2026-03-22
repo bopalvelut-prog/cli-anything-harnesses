@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-opentelemetry = cli_anything.opentelemetry:cli

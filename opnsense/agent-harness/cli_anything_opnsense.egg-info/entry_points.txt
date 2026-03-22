@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-opnsense = cli_anything.opnsense:cli

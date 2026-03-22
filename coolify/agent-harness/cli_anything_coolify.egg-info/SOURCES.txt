@@ -1,0 +1,8 @@
+setup.py
+cli_anything/coolify/__init__.py
+cli_anything_coolify.egg-info/PKG-INFO
+cli_anything_coolify.egg-info/SOURCES.txt
+cli_anything_coolify.egg-info/dependency_links.txt
+cli_anything_coolify.egg-info/entry_points.txt
+cli_anything_coolify.egg-info/requires.txt
+cli_anything_coolify.egg-info/top_level.txt

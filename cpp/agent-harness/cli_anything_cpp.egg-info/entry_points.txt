@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cpp = cli_anything.cpp:cli

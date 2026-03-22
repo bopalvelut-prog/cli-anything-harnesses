@@ -1,0 +1,8 @@
+setup.py
+cli_anything/tailscale/__init__.py
+cli_anything_tailscale.egg-info/PKG-INFO
+cli_anything_tailscale.egg-info/SOURCES.txt
+cli_anything_tailscale.egg-info/dependency_links.txt
+cli_anything_tailscale.egg-info/entry_points.txt
+cli_anything_tailscale.egg-info/requires.txt
+cli_anything_tailscale.egg-info/top_level.txt

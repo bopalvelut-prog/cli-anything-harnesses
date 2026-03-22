@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-subfinder = cli_anything.subfinder:cli

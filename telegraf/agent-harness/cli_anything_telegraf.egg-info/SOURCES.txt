@@ -1,0 +1,8 @@
+setup.py
+cli_anything/telegraf/__init__.py
+cli_anything_telegraf.egg-info/PKG-INFO
+cli_anything_telegraf.egg-info/SOURCES.txt
+cli_anything_telegraf.egg-info/dependency_links.txt
+cli_anything_telegraf.egg-info/entry_points.txt
+cli_anything_telegraf.egg-info/requires.txt
+cli_anything_telegraf.egg-info/top_level.txt

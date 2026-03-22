@@ -1,0 +1,8 @@
+setup.py
+cli_anything/angular/__init__.py
+cli_anything_angular.egg-info/PKG-INFO
+cli_anything_angular.egg-info/SOURCES.txt
+cli_anything_angular.egg-info/dependency_links.txt
+cli_anything_angular.egg-info/entry_points.txt
+cli_anything_angular.egg-info/requires.txt
+cli_anything_angular.egg-info/top_level.txt

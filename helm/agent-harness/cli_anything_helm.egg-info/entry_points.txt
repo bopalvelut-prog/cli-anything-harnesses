@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-helm = cli_anything.helm:cli

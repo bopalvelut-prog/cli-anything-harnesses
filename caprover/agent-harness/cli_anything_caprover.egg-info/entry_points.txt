@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-caprover = cli_anything.caprover:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-naiveproxy = cli_anything.naiveproxy:cli

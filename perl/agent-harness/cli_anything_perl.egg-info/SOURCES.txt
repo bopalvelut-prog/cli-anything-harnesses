@@ -1,0 +1,8 @@
+setup.py
+cli_anything/perl/__init__.py
+cli_anything_perl.egg-info/PKG-INFO
+cli_anything_perl.egg-info/SOURCES.txt
+cli_anything_perl.egg-info/dependency_links.txt
+cli_anything_perl.egg-info/entry_points.txt
+cli_anything_perl.egg-info/requires.txt
+cli_anything_perl.egg-info/top_level.txt

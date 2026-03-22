@@ -1,0 +1,8 @@
+setup.py
+cli_anything/datadog/__init__.py
+cli_anything_datadog.egg-info/PKG-INFO
+cli_anything_datadog.egg-info/SOURCES.txt
+cli_anything_datadog.egg-info/dependency_links.txt
+cli_anything_datadog.egg-info/entry_points.txt
+cli_anything_datadog.egg-info/requires.txt
+cli_anything_datadog.egg-info/top_level.txt

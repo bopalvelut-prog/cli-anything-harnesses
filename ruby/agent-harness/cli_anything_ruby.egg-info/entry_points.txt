@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ruby = cli_anything.ruby:cli

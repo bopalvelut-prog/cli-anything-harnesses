@@ -1,0 +1,8 @@
+setup.py
+cli_anything/strapi/__init__.py
+cli_anything_strapi.egg-info/PKG-INFO
+cli_anything_strapi.egg-info/SOURCES.txt
+cli_anything_strapi.egg-info/dependency_links.txt
+cli_anything_strapi.egg-info/entry_points.txt
+cli_anything_strapi.egg-info/requires.txt
+cli_anything_strapi.egg-info/top_level.txt

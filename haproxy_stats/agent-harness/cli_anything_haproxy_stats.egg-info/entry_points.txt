@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-haproxy_stats = cli_anything.haproxy_stats:cli

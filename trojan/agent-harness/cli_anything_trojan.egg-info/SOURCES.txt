@@ -1,0 +1,8 @@
+setup.py
+cli_anything/trojan/__init__.py
+cli_anything_trojan.egg-info/PKG-INFO
+cli_anything_trojan.egg-info/SOURCES.txt
+cli_anything_trojan.egg-info/dependency_links.txt
+cli_anything_trojan.egg-info/entry_points.txt
+cli_anything_trojan.egg-info/requires.txt
+cli_anything_trojan.egg-info/top_level.txt

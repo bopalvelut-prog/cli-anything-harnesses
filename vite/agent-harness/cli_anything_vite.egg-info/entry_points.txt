@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vite = cli_anything.vite:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-istio = cli_anything.istio:cli

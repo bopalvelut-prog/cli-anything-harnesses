@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-eslint = cli_anything.eslint:cli

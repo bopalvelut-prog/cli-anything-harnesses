@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-gatsby = cli_anything.gatsby:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/openwrt/__init__.py
+cli_anything_openwrt.egg-info/PKG-INFO
+cli_anything_openwrt.egg-info/SOURCES.txt
+cli_anything_openwrt.egg-info/dependency_links.txt
+cli_anything_openwrt.egg-info/entry_points.txt
+cli_anything_openwrt.egg-info/requires.txt
+cli_anything_openwrt.egg-info/top_level.txt

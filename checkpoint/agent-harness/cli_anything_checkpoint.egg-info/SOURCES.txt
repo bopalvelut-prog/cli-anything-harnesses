@@ -1,0 +1,8 @@
+setup.py
+cli_anything/checkpoint/__init__.py
+cli_anything_checkpoint.egg-info/PKG-INFO
+cli_anything_checkpoint.egg-info/SOURCES.txt
+cli_anything_checkpoint.egg-info/dependency_links.txt
+cli_anything_checkpoint.egg-info/entry_points.txt
+cli_anything_checkpoint.egg-info/requires.txt
+cli_anything_checkpoint.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-datadog = cli_anything.datadog:cli

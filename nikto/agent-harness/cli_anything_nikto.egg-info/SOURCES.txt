@@ -1,0 +1,8 @@
+setup.py
+cli_anything/nikto/__init__.py
+cli_anything_nikto.egg-info/PKG-INFO
+cli_anything_nikto.egg-info/SOURCES.txt
+cli_anything_nikto.egg-info/dependency_links.txt
+cli_anything_nikto.egg-info/entry_points.txt
+cli_anything_nikto.egg-info/requires.txt
+cli_anything_nikto.egg-info/top_level.txt

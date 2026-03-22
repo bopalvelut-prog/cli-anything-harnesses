@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-prettier = cli_anything.prettier:cli

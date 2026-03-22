@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-playwright = cli_anything.playwright:cli

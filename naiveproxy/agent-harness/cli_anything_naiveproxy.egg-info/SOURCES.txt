@@ -1,0 +1,8 @@
+setup.py
+cli_anything/naiveproxy/__init__.py
+cli_anything_naiveproxy.egg-info/PKG-INFO
+cli_anything_naiveproxy.egg-info/SOURCES.txt
+cli_anything_naiveproxy.egg-info/dependency_links.txt
+cli_anything_naiveproxy.egg-info/entry_points.txt
+cli_anything_naiveproxy.egg-info/requires.txt
+cli_anything_naiveproxy.egg-info/top_level.txt

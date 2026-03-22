@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-katana = cli_anything.katana:cli

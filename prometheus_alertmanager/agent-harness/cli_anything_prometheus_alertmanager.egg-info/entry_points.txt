@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-prometheus_alertmanager = cli_anything.prometheus_alertmanager:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kustomize = cli_anything.kustomize:cli

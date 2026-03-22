@@ -1,0 +1,8 @@
+setup.py
+cli_anything/rst/__init__.py
+cli_anything_rst.egg-info/PKG-INFO
+cli_anything_rst.egg-info/SOURCES.txt
+cli_anything_rst.egg-info/dependency_links.txt
+cli_anything_rst.egg-info/entry_points.txt
+cli_anything_rst.egg-info/requires.txt
+cli_anything_rst.egg-info/top_level.txt

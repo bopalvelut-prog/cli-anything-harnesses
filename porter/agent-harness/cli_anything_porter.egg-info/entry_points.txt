@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-porter = cli_anything.porter:cli

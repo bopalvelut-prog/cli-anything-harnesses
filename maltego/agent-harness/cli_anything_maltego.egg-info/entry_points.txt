@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-maltego = cli_anything.maltego:cli

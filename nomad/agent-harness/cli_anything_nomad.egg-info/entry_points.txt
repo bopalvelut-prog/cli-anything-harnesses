@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nomad = cli_anything.nomad:cli

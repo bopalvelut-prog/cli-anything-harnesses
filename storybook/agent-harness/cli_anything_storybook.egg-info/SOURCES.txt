@@ -1,0 +1,8 @@
+setup.py
+cli_anything/storybook/__init__.py
+cli_anything_storybook.egg-info/PKG-INFO
+cli_anything_storybook.egg-info/SOURCES.txt
+cli_anything_storybook.egg-info/dependency_links.txt
+cli_anything_storybook.egg-info/entry_points.txt
+cli_anything_storybook.egg-info/requires.txt
+cli_anything_storybook.egg-info/top_level.txt

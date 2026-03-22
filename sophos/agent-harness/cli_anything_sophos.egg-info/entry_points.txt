@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sophos = cli_anything.sophos:cli

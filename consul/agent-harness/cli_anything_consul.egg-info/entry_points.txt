@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-consul = cli_anything.consul:cli

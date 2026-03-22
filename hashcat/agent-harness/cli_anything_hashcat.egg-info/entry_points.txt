@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hashcat = cli_anything.hashcat:cli

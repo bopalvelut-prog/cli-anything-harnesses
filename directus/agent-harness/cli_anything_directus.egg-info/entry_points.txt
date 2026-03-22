@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-directus = cli_anything.directus:cli

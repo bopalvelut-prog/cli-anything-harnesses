@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-netlify = cli_anything.netlify:cli

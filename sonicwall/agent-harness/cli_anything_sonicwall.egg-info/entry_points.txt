@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sonicwall = cli_anything.sonicwall:cli

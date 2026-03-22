@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fluentd = cli_anything.fluentd:cli

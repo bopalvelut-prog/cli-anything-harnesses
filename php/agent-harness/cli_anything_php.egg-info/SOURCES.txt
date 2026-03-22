@@ -1,0 +1,8 @@
+setup.py
+cli_anything/php/__init__.py
+cli_anything_php.egg-info/PKG-INFO
+cli_anything_php.egg-info/SOURCES.txt
+cli_anything_php.egg-info/dependency_links.txt
+cli_anything_php.egg-info/entry_points.txt
+cli_anything_php.egg-info/requires.txt
+cli_anything_php.egg-info/top_level.txt

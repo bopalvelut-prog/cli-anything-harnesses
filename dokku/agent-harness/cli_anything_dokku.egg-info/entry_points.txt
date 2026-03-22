@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dokku = cli_anything.dokku:cli

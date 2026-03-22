@@ -1,0 +1,15 @@
+import click, subprocess
+@click.group()
+def cli(): pass
+@cli.command()
+def status(): subprocess.run(['vault', 'status'])
+@cli.command()
+def login(): subprocess.run(['vault', 'login'])
+@cli.command()
+@click.argument('path')
+def read(path): subprocess.run(['vault', 'kv', 'get', path])
+@cli.command()
+@click.argument('path')
+@click.argument('kv', nargs=-1)
+def write(path, kv): subprocess.run(['vault', 'kv', 'put', path] + list(kv))
+if __name__ == '__main__': cli()

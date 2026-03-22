@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-openvpn_as = cli_anything.openvpn_as:cli

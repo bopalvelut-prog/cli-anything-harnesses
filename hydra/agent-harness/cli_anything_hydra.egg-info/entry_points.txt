@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hydra = cli_anything.hydra:cli

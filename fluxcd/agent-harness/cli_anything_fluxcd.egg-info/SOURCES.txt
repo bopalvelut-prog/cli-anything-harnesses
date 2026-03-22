@@ -1,0 +1,8 @@
+setup.py
+cli_anything/fluxcd/__init__.py
+cli_anything_fluxcd.egg-info/PKG-INFO
+cli_anything_fluxcd.egg-info/SOURCES.txt
+cli_anything_fluxcd.egg-info/dependency_links.txt
+cli_anything_fluxcd.egg-info/entry_points.txt
+cli_anything_fluxcd.egg-info/requires.txt
+cli_anything_fluxcd.egg-info/top_level.txt

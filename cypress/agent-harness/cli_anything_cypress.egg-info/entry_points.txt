@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cypress = cli_anything.cypress:cli

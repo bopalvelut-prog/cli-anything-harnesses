@@ -1,0 +1,8 @@
+setup.py
+cli_anything/asciidoctor/__init__.py
+cli_anything_asciidoctor.egg-info/PKG-INFO
+cli_anything_asciidoctor.egg-info/SOURCES.txt
+cli_anything_asciidoctor.egg-info/dependency_links.txt
+cli_anything_asciidoctor.egg-info/entry_points.txt
+cli_anything_asciidoctor.egg-info/requires.txt
+cli_anything_asciidoctor.egg-info/top_level.txt

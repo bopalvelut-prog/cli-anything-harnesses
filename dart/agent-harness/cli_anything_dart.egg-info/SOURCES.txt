@@ -1,0 +1,8 @@
+setup.py
+cli_anything/dart/__init__.py
+cli_anything_dart.egg-info/PKG-INFO
+cli_anything_dart.egg-info/SOURCES.txt
+cli_anything_dart.egg-info/dependency_links.txt
+cli_anything_dart.egg-info/entry_points.txt
+cli_anything_dart.egg-info/requires.txt
+cli_anything_dart.egg-info/top_level.txt

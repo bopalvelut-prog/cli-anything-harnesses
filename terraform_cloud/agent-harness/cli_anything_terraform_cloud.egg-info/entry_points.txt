@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-terraform_cloud = cli_anything.terraform_cloud:cli

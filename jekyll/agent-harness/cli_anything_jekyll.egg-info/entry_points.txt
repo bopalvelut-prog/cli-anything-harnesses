@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-jekyll = cli_anything.jekyll:cli

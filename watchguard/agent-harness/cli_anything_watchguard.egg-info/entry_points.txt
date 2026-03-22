@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-watchguard = cli_anything.watchguard:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/vue/__init__.py
+cli_anything_vue.egg-info/PKG-INFO
+cli_anything_vue.egg-info/SOURCES.txt
+cli_anything_vue.egg-info/dependency_links.txt
+cli_anything_vue.egg-info/entry_points.txt
+cli_anything_vue.egg-info/requires.txt
+cli_anything_vue.egg-info/top_level.txt

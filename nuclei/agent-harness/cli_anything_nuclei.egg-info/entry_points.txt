@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nuclei = cli_anything.nuclei:cli

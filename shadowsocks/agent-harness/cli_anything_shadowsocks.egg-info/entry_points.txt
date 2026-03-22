@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-shadowsocks = cli_anything.shadowsocks:cli

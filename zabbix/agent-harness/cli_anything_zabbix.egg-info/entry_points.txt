@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zabbix = cli_anything.zabbix:cli

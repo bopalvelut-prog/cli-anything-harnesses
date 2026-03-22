@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-webpack = cli_anything.webpack:cli

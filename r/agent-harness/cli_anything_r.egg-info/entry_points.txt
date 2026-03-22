@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-r = cli_anything.r:cli

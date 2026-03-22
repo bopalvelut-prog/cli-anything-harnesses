@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aircrack = cli_anything.aircrack:cli

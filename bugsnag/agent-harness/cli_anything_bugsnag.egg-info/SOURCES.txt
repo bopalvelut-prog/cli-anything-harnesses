@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bugsnag/__init__.py
+cli_anything_bugsnag.egg-info/PKG-INFO
+cli_anything_bugsnag.egg-info/SOURCES.txt
+cli_anything_bugsnag.egg-info/dependency_links.txt
+cli_anything_bugsnag.egg-info/entry_points.txt
+cli_anything_bugsnag.egg-info/requires.txt
+cli_anything_bugsnag.egg-info/top_level.txt

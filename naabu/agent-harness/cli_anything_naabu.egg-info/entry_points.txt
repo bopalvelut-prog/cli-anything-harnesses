@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-naabu = cli_anything.naabu:cli

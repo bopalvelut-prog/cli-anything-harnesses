@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sentry/__init__.py
+cli_anything_sentry.egg-info/PKG-INFO
+cli_anything_sentry.egg-info/SOURCES.txt
+cli_anything_sentry.egg-info/dependency_links.txt
+cli_anything_sentry.egg-info/entry_points.txt
+cli_anything_sentry.egg-info/requires.txt
+cli_anything_sentry.egg-info/top_level.txt

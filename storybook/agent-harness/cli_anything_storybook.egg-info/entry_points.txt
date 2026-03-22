@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-storybook = cli_anything.storybook:cli

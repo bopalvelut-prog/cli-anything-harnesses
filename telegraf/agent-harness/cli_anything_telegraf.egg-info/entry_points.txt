@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-telegraf = cli_anything.telegraf:cli

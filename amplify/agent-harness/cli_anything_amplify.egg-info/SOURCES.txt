@@ -1,0 +1,8 @@
+setup.py
+cli_anything/amplify/__init__.py
+cli_anything_amplify.egg-info/PKG-INFO
+cli_anything_amplify.egg-info/SOURCES.txt
+cli_anything_amplify.egg-info/dependency_links.txt
+cli_anything_amplify.egg-info/entry_points.txt
+cli_anything_amplify.egg-info/requires.txt
+cli_anything_amplify.egg-info/top_level.txt

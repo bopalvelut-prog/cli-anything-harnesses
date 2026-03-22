@@ -1,0 +1,8 @@
+setup.py
+cli_anything/babel/__init__.py
+cli_anything_babel.egg-info/PKG-INFO
+cli_anything_babel.egg-info/SOURCES.txt
+cli_anything_babel.egg-info/dependency_links.txt
+cli_anything_babel.egg-info/entry_points.txt
+cli_anything_babel.egg-info/requires.txt
+cli_anything_babel.egg-info/top_level.txt

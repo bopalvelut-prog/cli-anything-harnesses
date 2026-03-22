@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-swift = cli_anything.swift:cli

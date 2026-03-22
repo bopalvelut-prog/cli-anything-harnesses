@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sqlmap = cli_anything.sqlmap:cli

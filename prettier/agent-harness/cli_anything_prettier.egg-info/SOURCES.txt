@@ -1,0 +1,8 @@
+setup.py
+cli_anything/prettier/__init__.py
+cli_anything_prettier.egg-info/PKG-INFO
+cli_anything_prettier.egg-info/SOURCES.txt
+cli_anything_prettier.egg-info/dependency_links.txt
+cli_anything_prettier.egg-info/entry_points.txt
+cli_anything_prettier.egg-info/requires.txt
+cli_anything_prettier.egg-info/top_level.txt

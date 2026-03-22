@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vitest = cli_anything.vitest:cli

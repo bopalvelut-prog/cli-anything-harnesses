@@ -1,0 +1,8 @@
+setup.py
+cli_anything/shadowsocks/__init__.py
+cli_anything_shadowsocks.egg-info/PKG-INFO
+cli_anything_shadowsocks.egg-info/SOURCES.txt
+cli_anything_shadowsocks.egg-info/dependency_links.txt
+cli_anything_shadowsocks.egg-info/entry_points.txt
+cli_anything_shadowsocks.egg-info/requires.txt
+cli_anything_shadowsocks.egg-info/top_level.txt

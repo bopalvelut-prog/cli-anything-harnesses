@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nikto = cli_anything.nikto:cli

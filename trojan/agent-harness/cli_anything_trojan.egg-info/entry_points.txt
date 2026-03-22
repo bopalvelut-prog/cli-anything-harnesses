@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-trojan = cli_anything.trojan:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sophos/__init__.py
+cli_anything_sophos.egg-info/PKG-INFO
+cli_anything_sophos.egg-info/SOURCES.txt
+cli_anything_sophos.egg-info/dependency_links.txt
+cli_anything_sophos.egg-info/entry_points.txt
+cli_anything_sophos.egg-info/requires.txt
+cli_anything_sophos.egg-info/top_level.txt

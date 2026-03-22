@@ -1,0 +1,8 @@
+setup.py
+cli_anything/opnsense/__init__.py
+cli_anything_opnsense.egg-info/PKG-INFO
+cli_anything_opnsense.egg-info/SOURCES.txt
+cli_anything_opnsense.egg-info/dependency_links.txt
+cli_anything_opnsense.egg-info/entry_points.txt
+cli_anything_opnsense.egg-info/requires.txt
+cli_anything_opnsense.egg-info/top_level.txt

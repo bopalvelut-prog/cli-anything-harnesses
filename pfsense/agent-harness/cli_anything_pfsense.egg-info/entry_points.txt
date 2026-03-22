@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pfsense = cli_anything.pfsense:cli

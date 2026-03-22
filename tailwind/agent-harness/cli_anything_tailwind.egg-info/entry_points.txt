@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-tailwind = cli_anything.tailwind:cli

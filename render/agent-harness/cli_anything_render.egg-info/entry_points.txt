@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-render = cli_anything.render:cli

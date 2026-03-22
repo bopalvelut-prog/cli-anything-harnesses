@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-svelte = cli_anything.svelte:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pandoc_mkdocs/__init__.py
+cli_anything_pandoc_mkdocs.egg-info/PKG-INFO
+cli_anything_pandoc_mkdocs.egg-info/SOURCES.txt
+cli_anything_pandoc_mkdocs.egg-info/dependency_links.txt
+cli_anything_pandoc_mkdocs.egg-info/entry_points.txt
+cli_anything_pandoc_mkdocs.egg-info/requires.txt
+cli_anything_pandoc_mkdocs.egg-info/top_level.txt

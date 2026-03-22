@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sentry = cli_anything.sentry:cli

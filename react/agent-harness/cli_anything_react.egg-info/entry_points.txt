@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-react = cli_anything.react:cli

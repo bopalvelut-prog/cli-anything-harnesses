@@ -1,0 +1,8 @@
+setup.py
+cli_anything/vercel/__init__.py
+cli_anything_vercel.egg-info/PKG-INFO
+cli_anything_vercel.egg-info/SOURCES.txt
+cli_anything_vercel.egg-info/dependency_links.txt
+cli_anything_vercel.egg-info/entry_points.txt
+cli_anything_vercel.egg-info/requires.txt
+cli_anything_vercel.egg-info/top_level.txt
