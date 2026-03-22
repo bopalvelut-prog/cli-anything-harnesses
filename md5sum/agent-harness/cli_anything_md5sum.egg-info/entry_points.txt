@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-md5sum = cli_anything.md5sum:cli

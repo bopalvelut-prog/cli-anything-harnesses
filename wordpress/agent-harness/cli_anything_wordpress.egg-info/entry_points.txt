@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-wordpress = cli_anything.wordpress:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-icloud = cli_anything.icloud:cli

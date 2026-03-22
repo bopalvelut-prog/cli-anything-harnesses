@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cohesity = cli_anything.cohesity:cli

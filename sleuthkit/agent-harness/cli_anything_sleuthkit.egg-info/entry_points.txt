@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sleuthkit = cli_anything.sleuthkit:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-photoprism = cli_anything.photoprism:cli

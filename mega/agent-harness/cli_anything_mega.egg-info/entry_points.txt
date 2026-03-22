@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mega = cli_anything.mega:cli

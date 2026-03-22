@@ -1,0 +1,8 @@
+setup.py
+cli_anything/backblaze/__init__.py
+cli_anything_backblaze.egg-info/PKG-INFO
+cli_anything_backblaze.egg-info/SOURCES.txt
+cli_anything_backblaze.egg-info/dependency_links.txt
+cli_anything_backblaze.egg-info/entry_points.txt
+cli_anything_backblaze.egg-info/requires.txt
+cli_anything_backblaze.egg-info/top_level.txt

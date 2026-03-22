@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-backblaze = cli_anything.backblaze:cli

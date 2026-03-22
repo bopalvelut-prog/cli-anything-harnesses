@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-joomla = cli_anything.joomla:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-wikijs = cli_anything.wikijs:cli

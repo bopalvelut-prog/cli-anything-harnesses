@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-spideroak = cli_anything.spideroak:cli

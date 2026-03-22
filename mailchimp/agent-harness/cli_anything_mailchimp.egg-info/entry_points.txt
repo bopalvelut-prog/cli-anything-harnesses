@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mailchimp = cli_anything.mailchimp:cli

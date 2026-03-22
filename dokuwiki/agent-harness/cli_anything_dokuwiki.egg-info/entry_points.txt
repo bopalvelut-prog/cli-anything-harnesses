@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dokuwiki = cli_anything.dokuwiki:cli

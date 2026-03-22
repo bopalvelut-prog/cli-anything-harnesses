@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ghidra = cli_anything.ghidra:cli

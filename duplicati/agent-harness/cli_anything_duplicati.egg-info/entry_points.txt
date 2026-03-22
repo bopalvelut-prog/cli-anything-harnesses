@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-duplicati = cli_anything.duplicati:cli

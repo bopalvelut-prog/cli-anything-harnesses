@@ -1,0 +1,8 @@
+setup.py
+cli_anything/rspamd/__init__.py
+cli_anything_rspamd.egg-info/PKG-INFO
+cli_anything_rspamd.egg-info/SOURCES.txt
+cli_anything_rspamd.egg-info/dependency_links.txt
+cli_anything_rspamd.egg-info/entry_points.txt
+cli_anything_rspamd.egg-info/requires.txt
+cli_anything_rspamd.egg-info/top_level.txt

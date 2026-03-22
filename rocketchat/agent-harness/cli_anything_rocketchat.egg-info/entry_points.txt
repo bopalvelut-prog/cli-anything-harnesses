@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rocketchat = cli_anything.rocketchat:cli

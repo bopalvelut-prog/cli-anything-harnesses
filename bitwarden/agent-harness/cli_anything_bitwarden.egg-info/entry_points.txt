@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bitwarden = cli_anything.bitwarden:cli

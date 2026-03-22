@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-exim = cli_anything.exim:cli

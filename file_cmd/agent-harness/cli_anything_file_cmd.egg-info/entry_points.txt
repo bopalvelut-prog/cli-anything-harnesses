@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-file_cmd = cli_anything.file_cmd:cli

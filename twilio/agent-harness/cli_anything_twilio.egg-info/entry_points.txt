@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-twilio = cli_anything.twilio:cli

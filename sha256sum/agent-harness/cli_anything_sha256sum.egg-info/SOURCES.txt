@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sha256sum/__init__.py
+cli_anything_sha256sum.egg-info/PKG-INFO
+cli_anything_sha256sum.egg-info/SOURCES.txt
+cli_anything_sha256sum.egg-info/dependency_links.txt
+cli_anything_sha256sum.egg-info/entry_points.txt
+cli_anything_sha256sum.egg-info/requires.txt
+cli_anything_sha256sum.egg-info/top_level.txt

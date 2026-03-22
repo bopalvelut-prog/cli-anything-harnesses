@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-volatility = cli_anything.volatility:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-crashplan = cli_anything.crashplan:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ghidra/__init__.py
+cli_anything_ghidra.egg-info/PKG-INFO
+cli_anything_ghidra.egg-info/SOURCES.txt
+cli_anything_ghidra.egg-info/dependency_links.txt
+cli_anything_ghidra.egg-info/entry_points.txt
+cli_anything_ghidra.egg-info/requires.txt
+cli_anything_ghidra.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-plivo = cli_anything.plivo:cli

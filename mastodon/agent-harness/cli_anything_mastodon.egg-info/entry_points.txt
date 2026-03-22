@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mastodon = cli_anything.mastodon:cli

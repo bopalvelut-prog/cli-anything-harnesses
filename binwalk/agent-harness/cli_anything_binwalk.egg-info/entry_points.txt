@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-binwalk = cli_anything.binwalk:cli

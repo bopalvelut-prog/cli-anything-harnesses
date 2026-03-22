@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-irc = cli_anything.irc:cli

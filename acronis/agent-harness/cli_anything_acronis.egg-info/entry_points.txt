@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-acronis = cli_anything.acronis:cli

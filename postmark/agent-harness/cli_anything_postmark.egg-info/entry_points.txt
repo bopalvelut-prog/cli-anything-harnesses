@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-postmark = cli_anything.postmark:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/drupal/__init__.py
+cli_anything_drupal.egg-info/PKG-INFO
+cli_anything_drupal.egg-info/SOURCES.txt
+cli_anything_drupal.egg-info/dependency_links.txt
+cli_anything_drupal.egg-info/entry_points.txt
+cli_anything_drupal.egg-info/requires.txt
+cli_anything_drupal.egg-info/top_level.txt

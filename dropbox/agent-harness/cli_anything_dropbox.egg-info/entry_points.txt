@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dropbox = cli_anything.dropbox:cli

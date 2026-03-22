@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mailgun = cli_anything.mailgun:cli

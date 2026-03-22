@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sleuthkit/__init__.py
+cli_anything_sleuthkit.egg-info/PKG-INFO
+cli_anything_sleuthkit.egg-info/SOURCES.txt
+cli_anything_sleuthkit.egg-info/dependency_links.txt
+cli_anything_sleuthkit.egg-info/entry_points.txt
+cli_anything_sleuthkit.egg-info/requires.txt
+cli_anything_sleuthkit.egg-info/top_level.txt

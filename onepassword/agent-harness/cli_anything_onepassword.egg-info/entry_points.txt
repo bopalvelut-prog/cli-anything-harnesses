@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-onepassword = cli_anything.onepassword:cli

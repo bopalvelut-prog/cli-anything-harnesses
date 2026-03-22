@@ -1,0 +1,8 @@
+setup.py
+cli_anything/keepassxc/__init__.py
+cli_anything_keepassxc.egg-info/PKG-INFO
+cli_anything_keepassxc.egg-info/SOURCES.txt
+cli_anything_keepassxc.egg-info/dependency_links.txt
+cli_anything_keepassxc.egg-info/entry_points.txt
+cli_anything_keepassxc.egg-info/requires.txt
+cli_anything_keepassxc.egg-info/top_level.txt

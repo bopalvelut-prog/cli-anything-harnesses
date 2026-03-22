@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ida/__init__.py
+cli_anything_ida.egg-info/PKG-INFO
+cli_anything_ida.egg-info/SOURCES.txt
+cli_anything_ida.egg-info/dependency_links.txt
+cli_anything_ida.egg-info/entry_points.txt
+cli_anything_ida.egg-info/requires.txt
+cli_anything_ida.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cloudberry = cli_anything.cloudberry:cli

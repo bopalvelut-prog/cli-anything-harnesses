@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dattobackup = cli_anything.dattobackup:cli

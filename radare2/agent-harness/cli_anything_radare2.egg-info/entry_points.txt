@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-radare2 = cli_anything.radare2:cli

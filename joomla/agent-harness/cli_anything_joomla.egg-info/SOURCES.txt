@@ -1,0 +1,8 @@
+setup.py
+cli_anything/joomla/__init__.py
+cli_anything_joomla.egg-info/PKG-INFO
+cli_anything_joomla.egg-info/SOURCES.txt
+cli_anything_joomla.egg-info/dependency_links.txt
+cli_anything_joomla.egg-info/entry_points.txt
+cli_anything_joomla.egg-info/requires.txt
+cli_anything_joomla.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-element = cli_anything.element:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/autopsy/__init__.py
+cli_anything_autopsy.egg-info/PKG-INFO
+cli_anything_autopsy.egg-info/SOURCES.txt
+cli_anything_autopsy.egg-info/dependency_links.txt
+cli_anything_autopsy.egg-info/entry_points.txt
+cli_anything_autopsy.egg-info/requires.txt
+cli_anything_autopsy.egg-info/top_level.txt

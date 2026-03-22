@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-commvault = cli_anything.commvault:cli

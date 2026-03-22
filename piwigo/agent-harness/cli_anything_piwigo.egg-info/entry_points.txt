@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-piwigo = cli_anything.piwigo:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-wasabi = cli_anything.wasabi:cli

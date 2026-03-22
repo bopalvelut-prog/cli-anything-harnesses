@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-age = cli_anything.age:cli

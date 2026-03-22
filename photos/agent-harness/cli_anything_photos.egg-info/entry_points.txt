@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-photos = cli_anything.photos:cli

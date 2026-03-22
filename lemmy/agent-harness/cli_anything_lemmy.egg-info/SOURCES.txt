@@ -1,0 +1,8 @@
+setup.py
+cli_anything/lemmy/__init__.py
+cli_anything_lemmy.egg-info/PKG-INFO
+cli_anything_lemmy.egg-info/SOURCES.txt
+cli_anything_lemmy.egg-info/dependency_links.txt
+cli_anything_lemmy.egg-info/entry_points.txt
+cli_anything_lemmy.egg-info/requires.txt
+cli_anything_lemmy.egg-info/top_level.txt

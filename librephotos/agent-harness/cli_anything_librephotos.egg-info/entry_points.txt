@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-librephotos = cli_anything.librephotos:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-lastpass = cli_anything.lastpass:cli

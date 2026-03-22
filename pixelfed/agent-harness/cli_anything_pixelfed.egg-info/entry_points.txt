@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pixelfed = cli_anything.pixelfed:cli

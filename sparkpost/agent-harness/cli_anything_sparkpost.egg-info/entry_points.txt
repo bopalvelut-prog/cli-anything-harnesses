@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sparkpost = cli_anything.sparkpost:cli

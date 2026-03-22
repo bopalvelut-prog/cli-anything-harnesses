@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vembu = cli_anything.vembu:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/wikijs/__init__.py
+cli_anything_wikijs.egg-info/PKG-INFO
+cli_anything_wikijs.egg-info/SOURCES.txt
+cli_anything_wikijs.egg-info/dependency_links.txt
+cli_anything_wikijs.egg-info/entry_points.txt
+cli_anything_wikijs.egg-info/requires.txt
+cli_anything_wikijs.egg-info/top_level.txt

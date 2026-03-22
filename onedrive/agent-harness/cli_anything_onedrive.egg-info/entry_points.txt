@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-onedrive = cli_anything.onedrive:cli

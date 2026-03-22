@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dovecot = cli_anything.dovecot:cli

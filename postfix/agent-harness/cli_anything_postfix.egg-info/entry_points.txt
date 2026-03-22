@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-postfix = cli_anything.postfix:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-idrive = cli_anything.idrive:cli

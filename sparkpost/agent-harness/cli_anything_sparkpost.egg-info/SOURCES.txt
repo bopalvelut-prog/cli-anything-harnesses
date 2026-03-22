@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sparkpost/__init__.py
+cli_anything_sparkpost.egg-info/PKG-INFO
+cli_anything_sparkpost.egg-info/SOURCES.txt
+cli_anything_sparkpost.egg-info/dependency_links.txt
+cli_anything_sparkpost.egg-info/entry_points.txt
+cli_anything_sparkpost.egg-info/requires.txt
+cli_anything_sparkpost.egg-info/top_level.txt

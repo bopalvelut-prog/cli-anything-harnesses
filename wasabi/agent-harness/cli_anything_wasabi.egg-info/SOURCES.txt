@@ -1,0 +1,8 @@
+setup.py
+cli_anything/wasabi/__init__.py
+cli_anything_wasabi.egg-info/PKG-INFO
+cli_anything_wasabi.egg-info/SOURCES.txt
+cli_anything_wasabi.egg-info/dependency_links.txt
+cli_anything_wasabi.egg-info/entry_points.txt
+cli_anything_wasabi.egg-info/requires.txt
+cli_anything_wasabi.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zoom_cli = cli_anything.zoom_cli:cli

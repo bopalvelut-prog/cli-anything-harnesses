@@ -1,0 +1,8 @@
+setup.py
+cli_anything/dovecot/__init__.py
+cli_anything_dovecot.egg-info/PKG-INFO
+cli_anything_dovecot.egg-info/SOURCES.txt
+cli_anything_dovecot.egg-info/dependency_links.txt
+cli_anything_dovecot.egg-info/entry_points.txt
+cli_anything_dovecot.egg-info/requires.txt
+cli_anything_dovecot.egg-info/top_level.txt

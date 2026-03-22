@@ -1,0 +1,8 @@
+setup.py
+cli_anything/twilio/__init__.py
+cli_anything_twilio.egg-info/PKG-INFO
+cli_anything_twilio.egg-info/SOURCES.txt
+cli_anything_twilio.egg-info/dependency_links.txt
+cli_anything_twilio.egg-info/entry_points.txt
+cli_anything_twilio.egg-info/requires.txt
+cli_anything_twilio.egg-info/top_level.txt

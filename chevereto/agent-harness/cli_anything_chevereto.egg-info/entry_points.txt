@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-chevereto = cli_anything.chevereto:cli

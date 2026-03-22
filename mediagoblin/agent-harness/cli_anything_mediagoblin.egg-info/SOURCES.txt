@@ -1,0 +1,8 @@
+setup.py
+cli_anything/mediagoblin/__init__.py
+cli_anything_mediagoblin.egg-info/PKG-INFO
+cli_anything_mediagoblin.egg-info/SOURCES.txt
+cli_anything_mediagoblin.egg-info/dependency_links.txt
+cli_anything_mediagoblin.egg-info/entry_points.txt
+cli_anything_mediagoblin.egg-info/requires.txt
+cli_anything_mediagoblin.egg-info/top_level.txt

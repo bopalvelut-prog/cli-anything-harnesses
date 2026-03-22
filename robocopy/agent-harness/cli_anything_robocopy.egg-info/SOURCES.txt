@@ -1,0 +1,8 @@
+setup.py
+cli_anything/robocopy/__init__.py
+cli_anything_robocopy.egg-info/PKG-INFO
+cli_anything_robocopy.egg-info/SOURCES.txt
+cli_anything_robocopy.egg-info/dependency_links.txt
+cli_anything_robocopy.egg-info/entry_points.txt
+cli_anything_robocopy.egg-info/requires.txt
+cli_anything_robocopy.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dashlane = cli_anything.dashlane:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pcloud/__init__.py
+cli_anything_pcloud.egg-info/PKG-INFO
+cli_anything_pcloud.egg-info/SOURCES.txt
+cli_anything_pcloud.egg-info/dependency_links.txt
+cli_anything_pcloud.egg-info/entry_points.txt
+cli_anything_pcloud.egg-info/requires.txt
+cli_anything_pcloud.egg-info/top_level.txt

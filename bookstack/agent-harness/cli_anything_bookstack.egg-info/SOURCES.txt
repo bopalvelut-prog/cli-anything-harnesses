@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bookstack/__init__.py
+cli_anything_bookstack.egg-info/PKG-INFO
+cli_anything_bookstack.egg-info/SOURCES.txt
+cli_anything_bookstack.egg-info/dependency_links.txt
+cli_anything_bookstack.egg-info/entry_points.txt
+cli_anything_bookstack.egg-info/requires.txt
+cli_anything_bookstack.egg-info/top_level.txt

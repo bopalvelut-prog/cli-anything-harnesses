@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zulip = cli_anything.zulip:cli

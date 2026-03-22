@@ -1,0 +1,8 @@
+setup.py
+cli_anything/xxd/__init__.py
+cli_anything_xxd.egg-info/PKG-INFO
+cli_anything_xxd.egg-info/SOURCES.txt
+cli_anything_xxd.egg-info/dependency_links.txt
+cli_anything_xxd.egg-info/entry_points.txt
+cli_anything_xxd.egg-info/requires.txt
+cli_anything_xxd.egg-info/top_level.txt

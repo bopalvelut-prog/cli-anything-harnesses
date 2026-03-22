@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-borgbackup = cli_anything.borgbackup:cli

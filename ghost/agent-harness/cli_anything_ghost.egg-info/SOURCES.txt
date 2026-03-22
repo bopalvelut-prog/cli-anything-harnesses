@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ghost/__init__.py
+cli_anything_ghost.egg-info/PKG-INFO
+cli_anything_ghost.egg-info/SOURCES.txt
+cli_anything_ghost.egg-info/dependency_links.txt
+cli_anything_ghost.egg-info/entry_points.txt
+cli_anything_ghost.egg-info/requires.txt
+cli_anything_ghost.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rspamd = cli_anything.rspamd:cli

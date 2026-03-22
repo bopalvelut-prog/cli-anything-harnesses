@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bird = cli_anything.bird:cli

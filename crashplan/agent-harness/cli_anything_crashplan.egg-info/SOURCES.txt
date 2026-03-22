@@ -1,0 +1,8 @@
+setup.py
+cli_anything/crashplan/__init__.py
+cli_anything_crashplan.egg-info/PKG-INFO
+cli_anything_crashplan.egg-info/SOURCES.txt
+cli_anything_crashplan.egg-info/dependency_links.txt
+cli_anything_crashplan.egg-info/entry_points.txt
+cli_anything_crashplan.egg-info/requires.txt
+cli_anything_crashplan.egg-info/top_level.txt

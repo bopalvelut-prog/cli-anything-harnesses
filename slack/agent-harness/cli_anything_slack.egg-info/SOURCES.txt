@@ -1,0 +1,8 @@
+setup.py
+cli_anything/slack/__init__.py
+cli_anything_slack.egg-info/PKG-INFO
+cli_anything_slack.egg-info/SOURCES.txt
+cli_anything_slack.egg-info/dependency_links.txt
+cli_anything_slack.egg-info/entry_points.txt
+cli_anything_slack.egg-info/requires.txt
+cli_anything_slack.egg-info/top_level.txt

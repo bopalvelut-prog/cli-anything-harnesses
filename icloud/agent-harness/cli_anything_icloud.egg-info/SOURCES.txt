@@ -1,0 +1,8 @@
+setup.py
+cli_anything/icloud/__init__.py
+cli_anything_icloud.egg-info/PKG-INFO
+cli_anything_icloud.egg-info/SOURCES.txt
+cli_anything_icloud.egg-info/dependency_links.txt
+cli_anything_icloud.egg-info/entry_points.txt
+cli_anything_icloud.egg-info/requires.txt
+cli_anything_icloud.egg-info/top_level.txt

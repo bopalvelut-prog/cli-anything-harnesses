@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-veeam = cli_anything.veeam:cli

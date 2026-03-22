@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hexdump = cli_anything.hexdump:cli
