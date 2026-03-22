@@ -1,0 +1,8 @@
+setup.py
+cli_anything/prometheus/__init__.py
+cli_anything_prometheus.egg-info/PKG-INFO
+cli_anything_prometheus.egg-info/SOURCES.txt
+cli_anything_prometheus.egg-info/dependency_links.txt
+cli_anything_prometheus.egg-info/entry_points.txt
+cli_anything_prometheus.egg-info/requires.txt
+cli_anything_prometheus.egg-info/top_level.txt

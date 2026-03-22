@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nextcloud = cli_anything.nextcloud:cli

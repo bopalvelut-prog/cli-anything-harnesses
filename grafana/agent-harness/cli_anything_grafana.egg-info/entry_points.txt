@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-grafana = cli_anything.grafana:cli

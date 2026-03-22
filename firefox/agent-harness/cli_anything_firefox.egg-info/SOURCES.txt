@@ -1,0 +1,8 @@
+setup.py
+cli_anything/firefox/__init__.py
+cli_anything_firefox.egg-info/PKG-INFO
+cli_anything_firefox.egg-info/SOURCES.txt
+cli_anything_firefox.egg-info/dependency_links.txt
+cli_anything_firefox.egg-info/entry_points.txt
+cli_anything_firefox.egg-info/requires.txt
+cli_anything_firefox.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/elasticsearch/__init__.py
+cli_anything_elasticsearch.egg-info/PKG-INFO
+cli_anything_elasticsearch.egg-info/SOURCES.txt
+cli_anything_elasticsearch.egg-info/dependency_links.txt
+cli_anything_elasticsearch.egg-info/entry_points.txt
+cli_anything_elasticsearch.egg-info/requires.txt
+cli_anything_elasticsearch.egg-info/top_level.txt

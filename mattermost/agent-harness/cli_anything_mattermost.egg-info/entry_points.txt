@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mattermost = cli_anything.mattermost:cli

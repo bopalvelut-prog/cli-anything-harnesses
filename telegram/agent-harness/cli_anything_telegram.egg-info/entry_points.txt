@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-telegram = cli_anything.telegram:cli

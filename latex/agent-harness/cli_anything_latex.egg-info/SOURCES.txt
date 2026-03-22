@@ -1,0 +1,8 @@
+setup.py
+cli_anything/latex/__init__.py
+cli_anything_latex.egg-info/PKG-INFO
+cli_anything_latex.egg-info/SOURCES.txt
+cli_anything_latex.egg-info/dependency_links.txt
+cli_anything_latex.egg-info/entry_points.txt
+cli_anything_latex.egg-info/requires.txt
+cli_anything_latex.egg-info/top_level.txt

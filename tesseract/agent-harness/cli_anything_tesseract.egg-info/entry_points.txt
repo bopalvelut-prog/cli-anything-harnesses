@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-tesseract = cli_anything.tesseract:cli

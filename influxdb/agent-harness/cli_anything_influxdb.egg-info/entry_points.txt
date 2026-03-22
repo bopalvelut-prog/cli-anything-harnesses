@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-influxdb = cli_anything.influxdb:cli

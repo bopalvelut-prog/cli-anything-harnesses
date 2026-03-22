@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-redis = cli_anything.redis:cli

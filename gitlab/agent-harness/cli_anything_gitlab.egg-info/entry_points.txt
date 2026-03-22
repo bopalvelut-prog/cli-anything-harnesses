@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-gitlab = cli_anything.gitlab:cli

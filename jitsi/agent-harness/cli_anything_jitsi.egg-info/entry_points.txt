@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-jitsi = cli_anything.jitsi:cli

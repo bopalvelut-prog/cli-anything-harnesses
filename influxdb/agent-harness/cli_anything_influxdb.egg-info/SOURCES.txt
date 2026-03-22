@@ -1,0 +1,8 @@
+setup.py
+cli_anything/influxdb/__init__.py
+cli_anything_influxdb.egg-info/PKG-INFO
+cli_anything_influxdb.egg-info/SOURCES.txt
+cli_anything_influxdb.egg-info/dependency_links.txt
+cli_anything_influxdb.egg-info/entry_points.txt
+cli_anything_influxdb.egg-info/requires.txt
+cli_anything_influxdb.egg-info/top_level.txt

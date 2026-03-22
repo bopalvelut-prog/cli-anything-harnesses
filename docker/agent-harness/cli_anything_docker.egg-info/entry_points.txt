@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-docker = cli_anything.docker:cli

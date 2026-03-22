@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-firefox = cli_anything.firefox:cli

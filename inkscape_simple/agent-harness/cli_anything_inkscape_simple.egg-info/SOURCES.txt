@@ -1,0 +1,8 @@
+setup.py
+cli_anything/inkscape_simple/__init__.py
+cli_anything_inkscape_simple.egg-info/PKG-INFO
+cli_anything_inkscape_simple.egg-info/SOURCES.txt
+cli_anything_inkscape_simple.egg-info/dependency_links.txt
+cli_anything_inkscape_simple.egg-info/entry_points.txt
+cli_anything_inkscape_simple.egg-info/requires.txt
+cli_anything_inkscape_simple.egg-info/top_level.txt

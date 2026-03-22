@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zotero = cli_anything.zotero:cli

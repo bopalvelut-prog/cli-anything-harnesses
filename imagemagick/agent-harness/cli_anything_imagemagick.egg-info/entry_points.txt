@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-imagemagick = cli_anything.imagemagick:cli

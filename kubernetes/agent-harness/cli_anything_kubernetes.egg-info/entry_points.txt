@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kubernetes = cli_anything.kubernetes:cli

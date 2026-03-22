@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-inkscape_simple = cli_anything.inkscape_simple:cli

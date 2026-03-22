@@ -1,0 +1,8 @@
+setup.py
+cli_anything/signal/__init__.py
+cli_anything_signal.egg-info/PKG-INFO
+cli_anything_signal.egg-info/SOURCES.txt
+cli_anything_signal.egg-info/dependency_links.txt
+cli_anything_signal.egg-info/entry_points.txt
+cli_anything_signal.egg-info/requires.txt
+cli_anything_signal.egg-info/top_level.txt

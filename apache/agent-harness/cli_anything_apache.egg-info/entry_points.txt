@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache = cli_anything.apache:cli

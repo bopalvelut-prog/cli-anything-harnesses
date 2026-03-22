@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-prometheus = cli_anything.prometheus:cli

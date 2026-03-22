@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vlc = cli_anything.vlc:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-signal = cli_anything.signal:cli

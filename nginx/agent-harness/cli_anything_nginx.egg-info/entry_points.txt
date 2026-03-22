@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nginx = cli_anything.nginx:cli

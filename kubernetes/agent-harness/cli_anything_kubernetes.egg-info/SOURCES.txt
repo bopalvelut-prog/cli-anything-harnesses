@@ -1,0 +1,8 @@
+setup.py
+cli_anything/kubernetes/__init__.py
+cli_anything_kubernetes.egg-info/PKG-INFO
+cli_anything_kubernetes.egg-info/SOURCES.txt
+cli_anything_kubernetes.egg-info/dependency_links.txt
+cli_anything_kubernetes.egg-info/entry_points.txt
+cli_anything_kubernetes.egg-info/requires.txt
+cli_anything_kubernetes.egg-info/top_level.txt

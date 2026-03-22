@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pandoc = cli_anything.pandoc:cli
