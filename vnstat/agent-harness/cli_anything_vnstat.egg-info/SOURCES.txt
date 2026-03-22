@@ -1,0 +1,8 @@
+setup.py
+cli_anything/vnstat/__init__.py
+cli_anything_vnstat.egg-info/PKG-INFO
+cli_anything_vnstat.egg-info/SOURCES.txt
+cli_anything_vnstat.egg-info/dependency_links.txt
+cli_anything_vnstat.egg-info/entry_points.txt
+cli_anything_vnstat.egg-info/requires.txt
+cli_anything_vnstat.egg-info/top_level.txt

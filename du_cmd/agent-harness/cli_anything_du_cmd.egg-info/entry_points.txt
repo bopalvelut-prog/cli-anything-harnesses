@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-du_cmd = cli_anything.du_cmd:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/lidarr/__init__.py
+cli_anything_lidarr.egg-info/PKG-INFO
+cli_anything_lidarr.egg-info/SOURCES.txt
+cli_anything_lidarr.egg-info/dependency_links.txt
+cli_anything_lidarr.egg-info/entry_points.txt
+cli_anything_lidarr.egg-info/requires.txt
+cli_anything_lidarr.egg-info/top_level.txt

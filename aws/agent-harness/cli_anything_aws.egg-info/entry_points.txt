@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aws = cli_anything.aws:cli

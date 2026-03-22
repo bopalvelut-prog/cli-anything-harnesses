@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ncdu = cli_anything.ncdu:cli

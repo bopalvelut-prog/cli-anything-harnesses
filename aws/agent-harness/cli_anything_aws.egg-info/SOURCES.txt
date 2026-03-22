@@ -1,0 +1,8 @@
+setup.py
+cli_anything/aws/__init__.py
+cli_anything_aws.egg-info/PKG-INFO
+cli_anything_aws.egg-info/SOURCES.txt
+cli_anything_aws.egg-info/dependency_links.txt
+cli_anything_aws.egg-info/entry_points.txt
+cli_anything_aws.egg-info/requires.txt
+cli_anything_aws.egg-info/top_level.txt

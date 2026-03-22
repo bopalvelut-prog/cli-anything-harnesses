@@ -1,0 +1,8 @@
+setup.py
+cli_anything/zfs/__init__.py
+cli_anything_zfs.egg-info/PKG-INFO
+cli_anything_zfs.egg-info/SOURCES.txt
+cli_anything_zfs.egg-info/dependency_links.txt
+cli_anything_zfs.egg-info/entry_points.txt
+cli_anything_zfs.egg-info/requires.txt
+cli_anything_zfs.egg-info/top_level.txt

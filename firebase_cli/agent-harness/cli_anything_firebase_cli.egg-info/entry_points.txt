@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-firebase_cli = cli_anything.firebase_cli:cli

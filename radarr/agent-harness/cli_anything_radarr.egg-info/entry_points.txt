@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-radarr = cli_anything.radarr:cli

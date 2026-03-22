@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zfs = cli_anything.zfs:cli

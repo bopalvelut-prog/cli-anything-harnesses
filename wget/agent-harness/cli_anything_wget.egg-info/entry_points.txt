@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-wget = cli_anything.wget:cli

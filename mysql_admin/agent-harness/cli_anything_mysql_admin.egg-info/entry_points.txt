@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mysql_admin = cli_anything.mysql_admin:cli

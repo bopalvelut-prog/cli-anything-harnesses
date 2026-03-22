@@ -1,0 +1,8 @@
+setup.py
+cli_anything/xfs/__init__.py
+cli_anything_xfs.egg-info/PKG-INFO
+cli_anything_xfs.egg-info/SOURCES.txt
+cli_anything_xfs.egg-info/dependency_links.txt
+cli_anything_xfs.egg-info/entry_points.txt
+cli_anything_xfs.egg-info/requires.txt
+cli_anything_xfs.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/mysql_admin/__init__.py
+cli_anything_mysql_admin.egg-info/PKG-INFO
+cli_anything_mysql_admin.egg-info/SOURCES.txt
+cli_anything_mysql_admin.egg-info/dependency_links.txt
+cli_anything_mysql_admin.egg-info/entry_points.txt
+cli_anything_mysql_admin.egg-info/requires.txt
+cli_anything_mysql_admin.egg-info/top_level.txt

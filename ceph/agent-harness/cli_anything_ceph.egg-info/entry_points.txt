@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ceph = cli_anything.ceph:cli

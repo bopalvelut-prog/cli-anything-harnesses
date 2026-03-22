@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-btrfs = cli_anything.btrfs:cli

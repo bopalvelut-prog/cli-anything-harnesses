@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ext4 = cli_anything.ext4:cli

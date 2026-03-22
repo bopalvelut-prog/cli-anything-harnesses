@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-iftop = cli_anything.iftop:cli

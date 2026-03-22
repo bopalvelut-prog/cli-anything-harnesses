@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-curl_cmd = cli_anything.curl_cmd:cli

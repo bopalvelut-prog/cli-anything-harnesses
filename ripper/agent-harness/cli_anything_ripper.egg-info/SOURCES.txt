@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ripper/__init__.py
+cli_anything_ripper.egg-info/PKG-INFO
+cli_anything_ripper.egg-info/SOURCES.txt
+cli_anything_ripper.egg-info/dependency_links.txt
+cli_anything_ripper.egg-info/entry_points.txt
+cli_anything_ripper.egg-info/requires.txt
+cli_anything_ripper.egg-info/top_level.txt

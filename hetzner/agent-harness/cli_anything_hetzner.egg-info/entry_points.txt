@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hetzner = cli_anything.hetzner:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mysql_cl = cli_anything.mysql_cl:cli

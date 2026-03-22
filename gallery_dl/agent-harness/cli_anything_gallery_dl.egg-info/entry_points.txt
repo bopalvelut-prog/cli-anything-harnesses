@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-gallery_dl = cli_anything.gallery_dl:cli

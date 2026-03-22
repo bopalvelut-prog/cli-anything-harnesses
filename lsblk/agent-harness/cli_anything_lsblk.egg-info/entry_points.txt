@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-lsblk = cli_anything.lsblk:cli

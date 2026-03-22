@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sonarr/__init__.py
+cli_anything_sonarr.egg-info/PKG-INFO
+cli_anything_sonarr.egg-info/SOURCES.txt
+cli_anything_sonarr.egg-info/dependency_links.txt
+cli_anything_sonarr.egg-info/entry_points.txt
+cli_anything_sonarr.egg-info/requires.txt
+cli_anything_sonarr.egg-info/top_level.txt

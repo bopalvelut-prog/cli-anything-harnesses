@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-iotop = cli_anything.iotop:cli

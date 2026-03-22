@@ -1,0 +1,8 @@
+setup.py
+cli_anything/deluge/__init__.py
+cli_anything_deluge.egg-info/PKG-INFO
+cli_anything_deluge.egg-info/SOURCES.txt
+cli_anything_deluge.egg-info/dependency_links.txt
+cli_anything_deluge.egg-info/entry_points.txt
+cli_anything_deluge.egg-info/requires.txt
+cli_anything_deluge.egg-info/top_level.txt

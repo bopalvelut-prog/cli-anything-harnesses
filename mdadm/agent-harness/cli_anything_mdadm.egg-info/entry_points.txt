@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mdadm = cli_anything.mdadm:cli

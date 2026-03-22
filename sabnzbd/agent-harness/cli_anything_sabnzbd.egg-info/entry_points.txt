@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sabnzbd = cli_anything.sabnzbd:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sonarr = cli_anything.sonarr:cli

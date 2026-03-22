@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-qbittorrent = cli_anything.qbittorrent:cli

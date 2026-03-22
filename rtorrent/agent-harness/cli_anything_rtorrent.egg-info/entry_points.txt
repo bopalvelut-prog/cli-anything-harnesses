@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rtorrent = cli_anything.rtorrent:cli

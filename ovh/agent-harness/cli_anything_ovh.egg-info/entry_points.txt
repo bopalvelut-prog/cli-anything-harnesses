@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ovh = cli_anything.ovh:cli

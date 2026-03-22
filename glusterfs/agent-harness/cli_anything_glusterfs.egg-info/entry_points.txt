@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-glusterfs = cli_anything.glusterfs:cli

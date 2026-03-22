@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-lvm = cli_anything.lvm:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ceph/__init__.py
+cli_anything_ceph.egg-info/PKG-INFO
+cli_anything_ceph.egg-info/SOURCES.txt
+cli_anything_ceph.egg-info/dependency_links.txt
+cli_anything_ceph.egg-info/entry_points.txt
+cli_anything_ceph.egg-info/requires.txt
+cli_anything_ceph.egg-info/top_level.txt

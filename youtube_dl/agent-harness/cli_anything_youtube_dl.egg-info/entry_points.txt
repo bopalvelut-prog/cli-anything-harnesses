@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-youtube_dl = cli_anything.youtube_dl:cli

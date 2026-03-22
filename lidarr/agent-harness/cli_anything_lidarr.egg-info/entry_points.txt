@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-lidarr = cli_anything.lidarr:cli

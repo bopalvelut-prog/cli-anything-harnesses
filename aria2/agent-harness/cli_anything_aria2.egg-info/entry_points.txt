@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aria2 = cli_anything.aria2:cli

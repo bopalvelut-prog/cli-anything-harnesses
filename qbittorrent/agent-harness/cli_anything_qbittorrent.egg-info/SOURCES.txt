@@ -1,0 +1,8 @@
+setup.py
+cli_anything/qbittorrent/__init__.py
+cli_anything_qbittorrent.egg-info/PKG-INFO
+cli_anything_qbittorrent.egg-info/SOURCES.txt
+cli_anything_qbittorrent.egg-info/dependency_links.txt
+cli_anything_qbittorrent.egg-info/entry_points.txt
+cli_anything_qbittorrent.egg-info/requires.txt
+cli_anything_qbittorrent.egg-info/top_level.txt
