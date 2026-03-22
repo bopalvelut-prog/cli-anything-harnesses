@@ -1,0 +1,8 @@
+setup.py
+cli_anything/darktable/__init__.py
+cli_anything_darktable.egg-info/PKG-INFO
+cli_anything_darktable.egg-info/SOURCES.txt
+cli_anything_darktable.egg-info/dependency_links.txt
+cli_anything_darktable.egg-info/entry_points.txt
+cli_anything_darktable.egg-info/requires.txt
+cli_anything_darktable.egg-info/top_level.txt

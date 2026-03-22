@@ -1,0 +1,8 @@
+setup.py
+cli_anything/syncthing/__init__.py
+cli_anything_syncthing.egg-info/PKG-INFO
+cli_anything_syncthing.egg-info/SOURCES.txt
+cli_anything_syncthing.egg-info/dependency_links.txt
+cli_anything_syncthing.egg-info/entry_points.txt
+cli_anything_syncthing.egg-info/requires.txt
+cli_anything_syncthing.egg-info/top_level.txt

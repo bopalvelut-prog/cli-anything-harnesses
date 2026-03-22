@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-darktable = cli_anything.darktable:cli

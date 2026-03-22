@@ -1,0 +1,8 @@
+setup.py
+cli_anything/scribus/__init__.py
+cli_anything_scribus.egg-info/PKG-INFO
+cli_anything_scribus.egg-info/SOURCES.txt
+cli_anything_scribus.egg-info/dependency_links.txt
+cli_anything_scribus.egg-info/entry_points.txt
+cli_anything_scribus.egg-info/requires.txt
+cli_anything_scribus.egg-info/top_level.txt

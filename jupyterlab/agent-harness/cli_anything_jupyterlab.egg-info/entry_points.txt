@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-jupyterlab = cli_anything.jupyterlab:cli

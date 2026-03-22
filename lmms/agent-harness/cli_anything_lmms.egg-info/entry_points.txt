@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-lmms = cli_anything.lmms:cli

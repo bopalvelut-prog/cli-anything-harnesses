@@ -1,0 +1,8 @@
+setup.py
+cli_anything/kicad/__init__.py
+cli_anything_kicad.egg-info/PKG-INFO
+cli_anything_kicad.egg-info/SOURCES.txt
+cli_anything_kicad.egg-info/dependency_links.txt
+cli_anything_kicad.egg-info/entry_points.txt
+cli_anything_kicad.egg-info/requires.txt
+cli_anything_kicad.egg-info/top_level.txt

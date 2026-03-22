@@ -1,0 +1,8 @@
+setup.py
+cli_anything/freecad/__init__.py
+cli_anything_freecad.egg-info/PKG-INFO
+cli_anything_freecad.egg-info/SOURCES.txt
+cli_anything_freecad.egg-info/dependency_links.txt
+cli_anything_freecad.egg-info/entry_points.txt
+cli_anything_freecad.egg-info/requires.txt
+cli_anything_freecad.egg-info/top_level.txt

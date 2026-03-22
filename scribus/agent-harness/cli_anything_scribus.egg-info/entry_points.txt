@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-scribus = cli_anything.scribus:cli

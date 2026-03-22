@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kicad = cli_anything.kicad:cli

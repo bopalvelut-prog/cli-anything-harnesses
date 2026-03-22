@@ -1,0 +1,8 @@
+setup.py
+cli_anything/lmms/__init__.py
+cli_anything_lmms.egg-info/PKG-INFO
+cli_anything_lmms.egg-info/SOURCES.txt
+cli_anything_lmms.egg-info/dependency_links.txt
+cli_anything_lmms.egg-info/entry_points.txt
+cli_anything_lmms.egg-info/requires.txt
+cli_anything_lmms.egg-info/top_level.txt

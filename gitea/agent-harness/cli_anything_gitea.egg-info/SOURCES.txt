@@ -1,0 +1,8 @@
+setup.py
+cli_anything/gitea/__init__.py
+cli_anything_gitea.egg-info/PKG-INFO
+cli_anything_gitea.egg-info/SOURCES.txt
+cli_anything_gitea.egg-info/dependency_links.txt
+cli_anything_gitea.egg-info/entry_points.txt
+cli_anything_gitea.egg-info/requires.txt
+cli_anything_gitea.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-homeassistant = cli_anything.homeassistant:cli

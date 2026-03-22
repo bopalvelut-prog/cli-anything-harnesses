@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vscode = cli_anything.vscode:cli

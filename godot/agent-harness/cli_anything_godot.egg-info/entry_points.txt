@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-godot = cli_anything.godot:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/vscode/__init__.py
+cli_anything_vscode.egg-info/PKG-INFO
+cli_anything_vscode.egg-info/SOURCES.txt
+cli_anything_vscode.egg-info/dependency_links.txt
+cli_anything_vscode.egg-info/entry_points.txt
+cli_anything_vscode.egg-info/requires.txt
+cli_anything_vscode.egg-info/top_level.txt
