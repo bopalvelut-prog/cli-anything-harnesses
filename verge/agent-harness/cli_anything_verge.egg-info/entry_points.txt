@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-verge = cli_anything.verge:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ftx/__init__.py
+cli_anything_ftx.egg-info/PKG-INFO
+cli_anything_ftx.egg-info/SOURCES.txt
+cli_anything_ftx.egg-info/dependency_links.txt
+cli_anything_ftx.egg-info/entry_points.txt
+cli_anything_ftx.egg-info/requires.txt
+cli_anything_ftx.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-celo = cli_anything.celo:cli

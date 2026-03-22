@@ -1,0 +1,8 @@
+setup.py
+cli_anything/superrare/__init__.py
+cli_anything_superrare.egg-info/PKG-INFO
+cli_anything_superrare.egg-info/SOURCES.txt
+cli_anything_superrare.egg-info/dependency_links.txt
+cli_anything_superrare.egg-info/entry_points.txt
+cli_anything_superrare.egg-info/requires.txt
+cli_anything_superrare.egg-info/top_level.txt

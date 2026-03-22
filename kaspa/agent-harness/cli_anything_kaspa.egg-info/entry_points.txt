@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kaspa = cli_anything.kaspa:cli

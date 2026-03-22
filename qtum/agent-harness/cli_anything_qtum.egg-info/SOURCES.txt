@@ -1,0 +1,8 @@
+setup.py
+cli_anything/qtum/__init__.py
+cli_anything_qtum.egg-info/PKG-INFO
+cli_anything_qtum.egg-info/SOURCES.txt
+cli_anything_qtum.egg-info/dependency_links.txt
+cli_anything_qtum.egg-info/entry_points.txt
+cli_anything_qtum.egg-info/requires.txt
+cli_anything_qtum.egg-info/top_level.txt

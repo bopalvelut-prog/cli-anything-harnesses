@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-digibyte = cli_anything.digibyte:cli

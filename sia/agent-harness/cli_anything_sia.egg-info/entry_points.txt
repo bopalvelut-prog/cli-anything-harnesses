@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sia = cli_anything.sia:cli

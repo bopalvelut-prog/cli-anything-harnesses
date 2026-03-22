@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-elrond = cli_anything.elrond:cli

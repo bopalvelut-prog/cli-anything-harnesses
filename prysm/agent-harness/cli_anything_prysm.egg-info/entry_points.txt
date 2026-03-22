@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-prysm = cli_anything.prysm:cli

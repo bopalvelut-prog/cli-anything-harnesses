@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bch = cli_anything.bch:cli

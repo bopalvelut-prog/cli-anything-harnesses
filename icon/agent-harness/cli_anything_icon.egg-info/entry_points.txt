@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-icon = cli_anything.icon:cli

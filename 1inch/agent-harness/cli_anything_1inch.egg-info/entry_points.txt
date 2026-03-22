@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-1inch = cli_anything.1inch:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-near = cli_anything.near:cli

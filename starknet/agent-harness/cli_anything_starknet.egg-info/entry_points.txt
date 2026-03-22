@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-starknet = cli_anything.starknet:cli

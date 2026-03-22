@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-perpetual = cli_anything.perpetual:cli

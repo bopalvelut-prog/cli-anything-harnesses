@@ -1,0 +1,8 @@
+setup.py
+cli_anything/kucoin/__init__.py
+cli_anything_kucoin.egg-info/PKG-INFO
+cli_anything_kucoin.egg-info/SOURCES.txt
+cli_anything_kucoin.egg-info/dependency_links.txt
+cli_anything_kucoin.egg-info/entry_points.txt
+cli_anything_kucoin.egg-info/requires.txt
+cli_anything_kucoin.egg-info/top_level.txt

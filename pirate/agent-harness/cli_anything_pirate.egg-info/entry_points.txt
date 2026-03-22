@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pirate = cli_anything.pirate:cli

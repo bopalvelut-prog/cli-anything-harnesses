@@ -1,0 +1,8 @@
+setup.py
+cli_anything/zilliqa/__init__.py
+cli_anything_zilliqa.egg-info/PKG-INFO
+cli_anything_zilliqa.egg-info/SOURCES.txt
+cli_anything_zilliqa.egg-info/dependency_links.txt
+cli_anything_zilliqa.egg-info/entry_points.txt
+cli_anything_zilliqa.egg-info/requires.txt
+cli_anything_zilliqa.egg-info/top_level.txt

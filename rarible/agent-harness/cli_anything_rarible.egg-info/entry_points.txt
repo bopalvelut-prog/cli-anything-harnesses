@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rarible = cli_anything.rarible:cli

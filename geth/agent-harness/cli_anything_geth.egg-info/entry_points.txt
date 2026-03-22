@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-geth = cli_anything.geth:cli

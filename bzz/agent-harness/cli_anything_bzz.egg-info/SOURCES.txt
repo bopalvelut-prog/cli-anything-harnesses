@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bzz/__init__.py
+cli_anything_bzz.egg-info/PKG-INFO
+cli_anything_bzz.egg-info/SOURCES.txt
+cli_anything_bzz.egg-info/dependency_links.txt
+cli_anything_bzz.egg-info/entry_points.txt
+cli_anything_bzz.egg-info/requires.txt
+cli_anything_bzz.egg-info/top_level.txt

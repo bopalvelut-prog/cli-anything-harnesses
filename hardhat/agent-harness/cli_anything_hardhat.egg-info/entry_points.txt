@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hardhat = cli_anything.hardhat:cli

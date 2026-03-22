@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-iota = cli_anything.iota:cli

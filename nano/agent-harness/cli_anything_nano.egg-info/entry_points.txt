@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nano = cli_anything.nano:cli

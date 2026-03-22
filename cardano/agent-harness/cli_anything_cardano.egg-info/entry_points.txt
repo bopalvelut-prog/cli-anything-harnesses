@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cardano = cli_anything.cardano:cli

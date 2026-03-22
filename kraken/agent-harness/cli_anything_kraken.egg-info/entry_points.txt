@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kraken = cli_anything.kraken:cli

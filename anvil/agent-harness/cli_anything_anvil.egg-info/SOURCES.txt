@@ -1,0 +1,8 @@
+setup.py
+cli_anything/anvil/__init__.py
+cli_anything_anvil.egg-info/PKG-INFO
+cli_anything_anvil.egg-info/SOURCES.txt
+cli_anything_anvil.egg-info/dependency_links.txt
+cli_anything_anvil.egg-info/entry_points.txt
+cli_anything_anvil.egg-info/requires.txt
+cli_anything_anvil.egg-info/top_level.txt

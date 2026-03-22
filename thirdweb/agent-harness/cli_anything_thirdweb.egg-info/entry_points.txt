@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-thirdweb = cli_anything.thirdweb:cli

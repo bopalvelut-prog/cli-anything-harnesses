@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-grin = cli_anything.grin:cli

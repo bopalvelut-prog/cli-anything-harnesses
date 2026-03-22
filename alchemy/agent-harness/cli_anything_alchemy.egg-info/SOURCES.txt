@@ -1,0 +1,8 @@
+setup.py
+cli_anything/alchemy/__init__.py
+cli_anything_alchemy.egg-info/PKG-INFO
+cli_anything_alchemy.egg-info/SOURCES.txt
+cli_anything_alchemy.egg-info/dependency_links.txt
+cli_anything_alchemy.egg-info/entry_points.txt
+cli_anything_alchemy.egg-info/requires.txt
+cli_anything_alchemy.egg-info/top_level.txt

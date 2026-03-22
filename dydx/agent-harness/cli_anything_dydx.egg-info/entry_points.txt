@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dydx = cli_anything.dydx:cli

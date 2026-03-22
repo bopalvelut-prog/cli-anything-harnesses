@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-swarm = cli_anything.swarm:cli

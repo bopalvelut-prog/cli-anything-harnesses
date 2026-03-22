@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ronin = cli_anything.ronin:cli

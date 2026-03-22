@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sei = cli_anything.sei:cli

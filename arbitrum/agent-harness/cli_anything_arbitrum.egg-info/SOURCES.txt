@@ -1,0 +1,8 @@
+setup.py
+cli_anything/arbitrum/__init__.py
+cli_anything_arbitrum.egg-info/PKG-INFO
+cli_anything_arbitrum.egg-info/SOURCES.txt
+cli_anything_arbitrum.egg-info/dependency_links.txt
+cli_anything_arbitrum.egg-info/entry_points.txt
+cli_anything_arbitrum.egg-info/requires.txt
+cli_anything_arbitrum.egg-info/top_level.txt

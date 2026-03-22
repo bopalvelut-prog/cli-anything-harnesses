@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-klaytn = cli_anything.klaytn:cli

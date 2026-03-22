@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hyperledger = cli_anything.hyperledger:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-harmony = cli_anything.harmony:cli

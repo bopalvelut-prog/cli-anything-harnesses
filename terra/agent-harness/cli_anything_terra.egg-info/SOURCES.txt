@@ -1,0 +1,8 @@
+setup.py
+cli_anything/terra/__init__.py
+cli_anything_terra.egg-info/PKG-INFO
+cli_anything_terra.egg-info/SOURCES.txt
+cli_anything_terra.egg-info/dependency_links.txt
+cli_anything_terra.egg-info/entry_points.txt
+cli_anything_terra.egg-info/requires.txt
+cli_anything_terra.egg-info/top_level.txt

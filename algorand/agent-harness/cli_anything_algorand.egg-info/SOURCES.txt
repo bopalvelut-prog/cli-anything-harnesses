@@ -1,0 +1,8 @@
+setup.py
+cli_anything/algorand/__init__.py
+cli_anything_algorand.egg-info/PKG-INFO
+cli_anything_algorand.egg-info/SOURCES.txt
+cli_anything_algorand.egg-info/dependency_links.txt
+cli_anything_algorand.egg-info/entry_points.txt
+cli_anything_algorand.egg-info/requires.txt
+cli_anything_algorand.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/verge/__init__.py
+cli_anything_verge.egg-info/PKG-INFO
+cli_anything_verge.egg-info/SOURCES.txt
+cli_anything_verge.egg-info/dependency_links.txt
+cli_anything_verge.egg-info/entry_points.txt
+cli_anything_verge.egg-info/requires.txt
+cli_anything_verge.egg-info/top_level.txt

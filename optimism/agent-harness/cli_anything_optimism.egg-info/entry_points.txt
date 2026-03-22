@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-optimism = cli_anything.optimism:cli

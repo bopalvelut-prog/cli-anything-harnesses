@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zksync = cli_anything.zksync:cli

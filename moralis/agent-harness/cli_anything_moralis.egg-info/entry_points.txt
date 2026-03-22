@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-moralis = cli_anything.moralis:cli

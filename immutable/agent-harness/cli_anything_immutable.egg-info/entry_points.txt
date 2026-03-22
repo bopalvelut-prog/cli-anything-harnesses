@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-immutable = cli_anything.immutable:cli

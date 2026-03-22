@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ftx = cli_anything.ftx:cli

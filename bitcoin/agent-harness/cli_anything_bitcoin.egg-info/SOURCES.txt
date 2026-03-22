@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bitcoin/__init__.py
+cli_anything_bitcoin.egg-info/PKG-INFO
+cli_anything_bitcoin.egg-info/SOURCES.txt
+cli_anything_bitcoin.egg-info/dependency_links.txt
+cli_anything_bitcoin.egg-info/entry_points.txt
+cli_anything_bitcoin.egg-info/requires.txt
+cli_anything_bitcoin.egg-info/top_level.txt

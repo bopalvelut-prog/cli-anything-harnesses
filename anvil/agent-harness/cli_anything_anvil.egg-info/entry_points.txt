@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-anvil = cli_anything.anvil:cli

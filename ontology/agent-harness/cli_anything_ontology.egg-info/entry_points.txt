@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ontology = cli_anything.ontology:cli

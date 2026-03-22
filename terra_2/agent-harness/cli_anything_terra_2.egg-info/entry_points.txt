@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-terra_2 = cli_anything.terra_2:cli

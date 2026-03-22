@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hashgraph = cli_anything.hashgraph:cli

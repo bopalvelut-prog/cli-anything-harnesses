@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alchemy = cli_anything.alchemy:cli

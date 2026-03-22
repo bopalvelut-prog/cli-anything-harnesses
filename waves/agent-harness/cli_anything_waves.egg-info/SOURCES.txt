@@ -1,0 +1,8 @@
+setup.py
+cli_anything/waves/__init__.py
+cli_anything_waves.egg-info/PKG-INFO
+cli_anything_waves.egg-info/SOURCES.txt
+cli_anything_waves.egg-info/dependency_links.txt
+cli_anything_waves.egg-info/entry_points.txt
+cli_anything_waves.egg-info/requires.txt
+cli_anything_waves.egg-info/top_level.txt

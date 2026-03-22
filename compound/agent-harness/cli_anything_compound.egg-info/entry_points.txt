@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-compound = cli_anything.compound:cli

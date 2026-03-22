@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sei/__init__.py
+cli_anything_sei.egg-info/PKG-INFO
+cli_anything_sei.egg-info/SOURCES.txt
+cli_anything_sei.egg-info/dependency_links.txt
+cli_anything_sei.egg-info/entry_points.txt
+cli_anything_sei.egg-info/requires.txt
+cli_anything_sei.egg-info/top_level.txt

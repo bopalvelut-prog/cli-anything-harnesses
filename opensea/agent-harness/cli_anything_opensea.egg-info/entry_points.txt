@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-opensea = cli_anything.opensea:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kucoin = cli_anything.kucoin:cli

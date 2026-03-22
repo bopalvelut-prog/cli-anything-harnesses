@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ton = cli_anything.ton:cli

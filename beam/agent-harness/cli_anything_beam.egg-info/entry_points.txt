@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-beam = cli_anything.beam:cli

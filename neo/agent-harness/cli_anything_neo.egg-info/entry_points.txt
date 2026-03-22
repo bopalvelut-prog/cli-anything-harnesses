@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-neo = cli_anything.neo:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-avalanche = cli_anything.avalanche:cli

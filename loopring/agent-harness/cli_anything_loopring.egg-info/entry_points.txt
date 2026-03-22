@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-loopring = cli_anything.loopring:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-jupiter = cli_anything.jupiter:cli

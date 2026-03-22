@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-injective = cli_anything.injective:cli

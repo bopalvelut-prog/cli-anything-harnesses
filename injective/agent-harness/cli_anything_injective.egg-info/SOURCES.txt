@@ -1,0 +1,8 @@
+setup.py
+cli_anything/injective/__init__.py
+cli_anything_injective.egg-info/PKG-INFO
+cli_anything_injective.egg-info/SOURCES.txt
+cli_anything_injective.egg-info/dependency_links.txt
+cli_anything_injective.egg-info/entry_points.txt
+cli_anything_injective.egg-info/requires.txt
+cli_anything_injective.egg-info/top_level.txt

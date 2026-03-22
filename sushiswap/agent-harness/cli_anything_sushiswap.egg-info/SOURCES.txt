@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sushiswap/__init__.py
+cli_anything_sushiswap.egg-info/PKG-INFO
+cli_anything_sushiswap.egg-info/SOURCES.txt
+cli_anything_sushiswap.egg-info/dependency_links.txt
+cli_anything_sushiswap.egg-info/entry_points.txt
+cli_anything_sushiswap.egg-info/requires.txt
+cli_anything_sushiswap.egg-info/top_level.txt

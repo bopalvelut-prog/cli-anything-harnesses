@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-lido = cli_anything.lido:cli

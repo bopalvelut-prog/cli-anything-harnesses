@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cronos = cli_anything.cronos:cli

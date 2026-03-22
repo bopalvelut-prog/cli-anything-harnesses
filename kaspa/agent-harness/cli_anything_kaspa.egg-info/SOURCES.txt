@@ -1,0 +1,8 @@
+setup.py
+cli_anything/kaspa/__init__.py
+cli_anything_kaspa.egg-info/PKG-INFO
+cli_anything_kaspa.egg-info/SOURCES.txt
+cli_anything_kaspa.egg-info/dependency_links.txt
+cli_anything_kaspa.egg-info/entry_points.txt
+cli_anything_kaspa.egg-info/requires.txt
+cli_anything_kaspa.egg-info/top_level.txt

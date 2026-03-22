@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-base = cli_anything.base:cli

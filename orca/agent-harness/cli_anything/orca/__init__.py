@@ -2,7 +2,7 @@ import click, subprocess
 @click.group()
 def cli(): pass
 @cli.command()
-def scan(): click.echo('Orca scan')
+def swap(): click.echo('Orca swap')
 @cli.command()
-def alerts(): click.echo('Orca alerts')
+def pool(): click.echo('Orca pool')
 if __name__ == '__main__': cli()

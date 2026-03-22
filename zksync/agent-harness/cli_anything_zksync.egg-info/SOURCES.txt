@@ -1,0 +1,8 @@
+setup.py
+cli_anything/zksync/__init__.py
+cli_anything_zksync.egg-info/PKG-INFO
+cli_anything_zksync.egg-info/SOURCES.txt
+cli_anything_zksync.egg-info/dependency_links.txt
+cli_anything_zksync.egg-info/entry_points.txt
+cli_anything_zksync.egg-info/requires.txt
+cli_anything_zksync.egg-info/top_level.txt

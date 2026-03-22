@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sushiswap = cli_anything.sushiswap:cli

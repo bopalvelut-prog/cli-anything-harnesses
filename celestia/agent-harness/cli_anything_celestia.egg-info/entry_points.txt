@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-celestia = cli_anything.celestia:cli

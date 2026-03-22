@@ -1,0 +1,8 @@
+setup.py
+cli_anything/truffle/__init__.py
+cli_anything_truffle.egg-info/PKG-INFO
+cli_anything_truffle.egg-info/SOURCES.txt
+cli_anything_truffle.egg-info/dependency_links.txt
+cli_anything_truffle.egg-info/entry_points.txt
+cli_anything_truffle.egg-info/requires.txt
+cli_anything_truffle.egg-info/top_level.txt

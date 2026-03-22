@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-shiden = cli_anything.shiden:cli

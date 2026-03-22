@@ -1,0 +1,8 @@
+setup.py
+cli_anything/sia/__init__.py
+cli_anything_sia.egg-info/PKG-INFO
+cli_anything_sia.egg-info/SOURCES.txt
+cli_anything_sia.egg-info/dependency_links.txt
+cli_anything_sia.egg-info/entry_points.txt
+cli_anything_sia.egg-info/requires.txt
+cli_anything_sia.egg-info/top_level.txt

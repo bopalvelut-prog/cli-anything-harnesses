@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bzz = cli_anything.bzz:cli

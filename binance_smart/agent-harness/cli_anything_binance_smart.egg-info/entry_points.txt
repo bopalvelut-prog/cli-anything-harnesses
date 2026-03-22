@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-binance_smart = cli_anything.binance_smart:cli

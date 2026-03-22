@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-storj = cli_anything.storj:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-phantom = cli_anything.phantom:cli

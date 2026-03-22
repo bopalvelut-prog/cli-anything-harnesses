@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-coinbase = cli_anything.coinbase:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-thegraph = cli_anything.thegraph:cli

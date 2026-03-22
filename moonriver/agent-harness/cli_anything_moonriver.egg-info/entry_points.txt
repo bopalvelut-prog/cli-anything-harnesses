@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-moonriver = cli_anything.moonriver:cli

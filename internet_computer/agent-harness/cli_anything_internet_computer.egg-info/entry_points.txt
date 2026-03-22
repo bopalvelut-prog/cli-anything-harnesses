@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-internet_computer = cli_anything.internet_computer:cli

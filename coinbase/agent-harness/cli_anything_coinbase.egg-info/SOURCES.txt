@@ -1,0 +1,8 @@
+setup.py
+cli_anything/coinbase/__init__.py
+cli_anything_coinbase.egg-info/PKG-INFO
+cli_anything_coinbase.egg-info/SOURCES.txt
+cli_anything_coinbase.egg-info/dependency_links.txt
+cli_anything_coinbase.egg-info/entry_points.txt
+cli_anything_coinbase.egg-info/requires.txt
+cli_anything_coinbase.egg-info/top_level.txt

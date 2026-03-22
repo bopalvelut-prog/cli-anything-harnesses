@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-makerdao = cli_anything.makerdao:cli

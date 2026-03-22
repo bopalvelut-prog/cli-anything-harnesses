@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-quicknode = cli_anything.quicknode:cli

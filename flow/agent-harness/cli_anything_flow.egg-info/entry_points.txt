@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flow = cli_anything.flow:cli

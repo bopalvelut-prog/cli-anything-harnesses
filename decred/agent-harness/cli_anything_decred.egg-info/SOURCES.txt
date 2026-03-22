@@ -1,0 +1,8 @@
+setup.py
+cli_anything/decred/__init__.py
+cli_anything_decred.egg-info/PKG-INFO
+cli_anything_decred.egg-info/SOURCES.txt
+cli_anything_decred.egg-info/dependency_links.txt
+cli_anything_decred.egg-info/entry_points.txt
+cli_anything_decred.egg-info/requires.txt
+cli_anything_decred.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dogecoin = cli_anything.dogecoin:cli

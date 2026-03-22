@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ravencoin = cli_anything.ravencoin:cli

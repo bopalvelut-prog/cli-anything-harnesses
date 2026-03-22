@@ -1,0 +1,8 @@
+setup.py
+cli_anything/internet_computer/__init__.py
+cli_anything_internet_computer.egg-info/PKG-INFO
+cli_anything_internet_computer.egg-info/SOURCES.txt
+cli_anything_internet_computer.egg-info/dependency_links.txt
+cli_anything_internet_computer.egg-info/entry_points.txt
+cli_anything_internet_computer.egg-info/requires.txt
+cli_anything_internet_computer.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/starknet/__init__.py
+cli_anything_starknet.egg-info/PKG-INFO
+cli_anything_starknet.egg-info/SOURCES.txt
+cli_anything_starknet.egg-info/dependency_links.txt
+cli_anything_starknet.egg-info/entry_points.txt
+cli_anything_starknet.egg-info/requires.txt
+cli_anything_starknet.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-binance = cli_anything.binance:cli

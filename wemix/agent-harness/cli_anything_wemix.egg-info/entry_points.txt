@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-wemix = cli_anything.wemix:cli

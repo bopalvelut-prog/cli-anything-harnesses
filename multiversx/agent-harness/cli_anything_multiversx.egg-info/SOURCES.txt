@@ -1,0 +1,8 @@
+setup.py
+cli_anything/multiversx/__init__.py
+cli_anything_multiversx.egg-info/PKG-INFO
+cli_anything_multiversx.egg-info/SOURCES.txt
+cli_anything_multiversx.egg-info/dependency_links.txt
+cli_anything_multiversx.egg-info/entry_points.txt
+cli_anything_multiversx.egg-info/requires.txt
+cli_anything_multiversx.egg-info/top_level.txt

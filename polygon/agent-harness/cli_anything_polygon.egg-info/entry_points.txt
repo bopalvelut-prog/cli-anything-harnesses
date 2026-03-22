@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-polygon = cli_anything.polygon:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ipfs = cli_anything.ipfs:cli

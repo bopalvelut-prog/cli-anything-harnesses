@@ -1,0 +1,8 @@
+setup.py
+cli_anything/polygon/__init__.py
+cli_anything_polygon.egg-info/PKG-INFO
+cli_anything_polygon.egg-info/SOURCES.txt
+cli_anything_polygon.egg-info/dependency_links.txt
+cli_anything_polygon.egg-info/entry_points.txt
+cli_anything_polygon.egg-info/requires.txt
+cli_anything_polygon.egg-info/top_level.txt

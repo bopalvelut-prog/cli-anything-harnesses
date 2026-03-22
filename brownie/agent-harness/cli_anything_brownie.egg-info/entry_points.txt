@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-brownie = cli_anything.brownie:cli

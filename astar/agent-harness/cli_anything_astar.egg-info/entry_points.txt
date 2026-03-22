@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-astar = cli_anything.astar:cli

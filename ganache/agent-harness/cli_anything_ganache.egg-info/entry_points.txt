@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ganache = cli_anything.ganache:cli

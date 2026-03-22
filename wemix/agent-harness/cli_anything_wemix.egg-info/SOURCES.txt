@@ -1,0 +1,8 @@
+setup.py
+cli_anything/wemix/__init__.py
+cli_anything_wemix.egg-info/PKG-INFO
+cli_anything_wemix.egg-info/SOURCES.txt
+cli_anything_wemix.egg-info/dependency_links.txt
+cli_anything_wemix.egg-info/entry_points.txt
+cli_anything_wemix.egg-info/requires.txt
+cli_anything_wemix.egg-info/top_level.txt

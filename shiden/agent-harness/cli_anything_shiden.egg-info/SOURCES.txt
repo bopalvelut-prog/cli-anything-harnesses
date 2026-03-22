@@ -1,0 +1,8 @@
+setup.py
+cli_anything/shiden/__init__.py
+cli_anything_shiden.egg-info/PKG-INFO
+cli_anything_shiden.egg-info/SOURCES.txt
+cli_anything_shiden.egg-info/dependency_links.txt
+cli_anything_shiden.egg-info/entry_points.txt
+cli_anything_shiden.egg-info/requires.txt
+cli_anything_shiden.egg-info/top_level.txt

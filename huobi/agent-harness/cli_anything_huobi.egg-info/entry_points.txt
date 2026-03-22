@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-huobi = cli_anything.huobi:cli

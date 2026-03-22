@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-foundry = cli_anything.foundry:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/gmx/__init__.py
+cli_anything_gmx.egg-info/PKG-INFO
+cli_anything_gmx.egg-info/SOURCES.txt
+cli_anything_gmx.egg-info/dependency_links.txt
+cli_anything_gmx.egg-info/entry_points.txt
+cli_anything_gmx.egg-info/requires.txt
+cli_anything_gmx.egg-info/top_level.txt

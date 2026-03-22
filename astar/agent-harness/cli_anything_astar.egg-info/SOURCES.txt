@@ -1,0 +1,8 @@
+setup.py
+cli_anything/astar/__init__.py
+cli_anything_astar.egg-info/PKG-INFO
+cli_anything_astar.egg-info/SOURCES.txt
+cli_anything_astar.egg-info/dependency_links.txt
+cli_anything_astar.egg-info/entry_points.txt
+cli_anything_astar.egg-info/requires.txt
+cli_anything_astar.egg-info/top_level.txt

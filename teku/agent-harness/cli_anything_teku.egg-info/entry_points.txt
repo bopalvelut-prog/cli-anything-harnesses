@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-teku = cli_anything.teku:cli

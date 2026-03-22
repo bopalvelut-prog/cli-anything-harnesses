@@ -1,0 +1,8 @@
+setup.py
+cli_anything/grin/__init__.py
+cli_anything_grin.egg-info/PKG-INFO
+cli_anything_grin.egg-info/SOURCES.txt
+cli_anything_grin.egg-info/dependency_links.txt
+cli_anything_grin.egg-info/entry_points.txt
+cli_anything_grin.egg-info/requires.txt
+cli_anything_grin.egg-info/top_level.txt

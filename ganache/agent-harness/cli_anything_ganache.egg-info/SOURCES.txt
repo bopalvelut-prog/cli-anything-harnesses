@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ganache/__init__.py
+cli_anything_ganache.egg-info/PKG-INFO
+cli_anything_ganache.egg-info/SOURCES.txt
+cli_anything_ganache.egg-info/dependency_links.txt
+cli_anything_ganache.egg-info/entry_points.txt
+cli_anything_ganache.egg-info/requires.txt
+cli_anything_ganache.egg-info/top_level.txt

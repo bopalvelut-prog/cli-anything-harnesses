@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-waves = cli_anything.waves:cli

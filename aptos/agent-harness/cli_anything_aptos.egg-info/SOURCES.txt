@@ -1,0 +1,8 @@
+setup.py
+cli_anything/aptos/__init__.py
+cli_anything_aptos.egg-info/PKG-INFO
+cli_anything_aptos.egg-info/SOURCES.txt
+cli_anything_aptos.egg-info/dependency_links.txt
+cli_anything_aptos.egg-info/entry_points.txt
+cli_anything_aptos.egg-info/requires.txt
+cli_anything_aptos.egg-info/top_level.txt

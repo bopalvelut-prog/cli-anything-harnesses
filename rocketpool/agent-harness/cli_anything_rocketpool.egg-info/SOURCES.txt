@@ -1,0 +1,8 @@
+setup.py
+cli_anything/rocketpool/__init__.py
+cli_anything_rocketpool.egg-info/PKG-INFO
+cli_anything_rocketpool.egg-info/SOURCES.txt
+cli_anything_rocketpool.egg-info/dependency_links.txt
+cli_anything_rocketpool.egg-info/entry_points.txt
+cli_anything_rocketpool.egg-info/requires.txt
+cli_anything_rocketpool.egg-info/top_level.txt

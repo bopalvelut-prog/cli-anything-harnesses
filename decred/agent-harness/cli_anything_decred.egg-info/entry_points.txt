@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-decred = cli_anything.decred:cli

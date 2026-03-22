@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ledger = cli_anything.ledger:cli

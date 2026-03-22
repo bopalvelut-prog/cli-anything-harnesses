@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-tezos = cli_anything.tezos:cli

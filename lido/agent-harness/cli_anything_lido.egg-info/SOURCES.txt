@@ -1,0 +1,8 @@
+setup.py
+cli_anything/lido/__init__.py
+cli_anything_lido.egg-info/PKG-INFO
+cli_anything_lido.egg-info/SOURCES.txt
+cli_anything_lido.egg-info/dependency_links.txt
+cli_anything_lido.egg-info/entry_points.txt
+cli_anything_lido.egg-info/requires.txt
+cli_anything_lido.egg-info/top_level.txt

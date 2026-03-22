@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-anchor = cli_anything.anchor:cli

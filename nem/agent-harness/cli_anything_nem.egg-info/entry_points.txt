@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nem = cli_anything.nem:cli

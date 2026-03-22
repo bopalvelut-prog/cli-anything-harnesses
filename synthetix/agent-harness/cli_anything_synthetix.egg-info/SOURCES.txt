@@ -1,0 +1,8 @@
+setup.py
+cli_anything/synthetix/__init__.py
+cli_anything_synthetix.egg-info/PKG-INFO
+cli_anything_synthetix.egg-info/SOURCES.txt
+cli_anything_synthetix.egg-info/dependency_links.txt
+cli_anything_synthetix.egg-info/entry_points.txt
+cli_anything_synthetix.egg-info/requires.txt
+cli_anything_synthetix.egg-info/top_level.txt

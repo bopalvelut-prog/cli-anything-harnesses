@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-metamask = cli_anything.metamask:cli

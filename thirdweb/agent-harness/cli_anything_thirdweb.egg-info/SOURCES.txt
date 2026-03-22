@@ -1,0 +1,8 @@
+setup.py
+cli_anything/thirdweb/__init__.py
+cli_anything_thirdweb.egg-info/PKG-INFO
+cli_anything_thirdweb.egg-info/SOURCES.txt
+cli_anything_thirdweb.egg-info/dependency_links.txt
+cli_anything_thirdweb.egg-info/entry_points.txt
+cli_anything_thirdweb.egg-info/requires.txt
+cli_anything_thirdweb.egg-info/top_level.txt

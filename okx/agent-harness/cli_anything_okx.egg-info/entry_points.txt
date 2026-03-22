@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-okx = cli_anything.okx:cli

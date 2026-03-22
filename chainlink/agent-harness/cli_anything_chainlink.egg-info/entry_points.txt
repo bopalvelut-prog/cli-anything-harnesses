@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-chainlink = cli_anything.chainlink:cli
