@@ -1,0 +1,15 @@
+import click, subprocess
+@click.group()
+def cli(): pass
+@cli.command()
+@click.argument('env_name')
+def create(env_name): subprocess.run(['conda', 'create', '-n', env_name])
+@cli.command()
+@click.argument('env_name')
+def activate(env_name): subprocess.run(['conda', 'activate', env_name])
+@cli.command()
+def envs(): subprocess.run(['conda', 'env', 'list'])
+@cli.command()
+@click.argument('env_name')
+def remove(env_name): subprocess.run(['conda', 'env', 'remove', '-n', env_name])
+if __name__ == '__main__': cli()

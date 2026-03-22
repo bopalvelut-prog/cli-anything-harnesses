@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-svn = cli_anything.svn:cli

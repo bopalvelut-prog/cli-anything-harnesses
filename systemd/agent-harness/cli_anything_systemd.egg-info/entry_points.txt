@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-systemd = cli_anything.systemd:cli

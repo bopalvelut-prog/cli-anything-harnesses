@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ufw/__init__.py
+cli_anything_ufw.egg-info/PKG-INFO
+cli_anything_ufw.egg-info/SOURCES.txt
+cli_anything_ufw.egg-info/dependency_links.txt
+cli_anything_ufw.egg-info/entry_points.txt
+cli_anything_ufw.egg-info/requires.txt
+cli_anything_ufw.egg-info/top_level.txt

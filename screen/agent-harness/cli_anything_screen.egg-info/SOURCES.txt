@@ -1,0 +1,8 @@
+setup.py
+cli_anything/screen/__init__.py
+cli_anything_screen.egg-info/PKG-INFO
+cli_anything_screen.egg-info/SOURCES.txt
+cli_anything_screen.egg-info/dependency_links.txt
+cli_anything_screen.egg-info/entry_points.txt
+cli_anything_screen.egg-info/requires.txt
+cli_anything_screen.egg-info/top_level.txt

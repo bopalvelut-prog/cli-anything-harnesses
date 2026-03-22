@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-supervisor = cli_anything.supervisor:cli

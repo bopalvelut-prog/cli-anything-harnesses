@@ -1,0 +1,8 @@
+setup.py
+cli_anything/git/__init__.py
+cli_anything_git.egg-info/PKG-INFO
+cli_anything_git.egg-info/SOURCES.txt
+cli_anything_git.egg-info/dependency_links.txt
+cli_anything_git.egg-info/entry_points.txt
+cli_anything_git.egg-info/requires.txt
+cli_anything_git.egg-info/top_level.txt

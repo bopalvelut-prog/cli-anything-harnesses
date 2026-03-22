@@ -1,0 +1,8 @@
+setup.py
+cli_anything/timeshift/__init__.py
+cli_anything_timeshift.egg-info/PKG-INFO
+cli_anything_timeshift.egg-info/SOURCES.txt
+cli_anything_timeshift.egg-info/dependency_links.txt
+cli_anything_timeshift.egg-info/entry_points.txt
+cli_anything_timeshift.egg-info/requires.txt
+cli_anything_timeshift.egg-info/top_level.txt

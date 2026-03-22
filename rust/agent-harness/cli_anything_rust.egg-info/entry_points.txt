@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rust = cli_anything.rust:cli

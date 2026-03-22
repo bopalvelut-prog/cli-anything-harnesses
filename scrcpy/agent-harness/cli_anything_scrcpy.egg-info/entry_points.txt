@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-scrcpy = cli_anything.scrcpy:cli

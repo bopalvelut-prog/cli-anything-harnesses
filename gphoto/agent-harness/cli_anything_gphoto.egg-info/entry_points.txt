@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-gphoto = cli_anything.gphoto:cli

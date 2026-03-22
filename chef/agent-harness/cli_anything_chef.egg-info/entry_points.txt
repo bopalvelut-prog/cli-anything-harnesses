@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-chef = cli_anything.chef:cli

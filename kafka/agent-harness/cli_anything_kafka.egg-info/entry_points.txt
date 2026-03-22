@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kafka = cli_anything.kafka:cli

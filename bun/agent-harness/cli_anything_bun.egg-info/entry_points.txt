@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bun = cli_anything.bun:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rabbitmq = cli_anything.rabbitmq:cli

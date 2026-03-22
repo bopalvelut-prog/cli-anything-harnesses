@@ -1,0 +1,8 @@
+setup.py
+cli_anything/rawtherapee/__init__.py
+cli_anything_rawtherapee.egg-info/PKG-INFO
+cli_anything_rawtherapee.egg-info/SOURCES.txt
+cli_anything_rawtherapee.egg-info/dependency_links.txt
+cli_anything_rawtherapee.egg-info/entry_points.txt
+cli_anything_rawtherapee.egg-info/requires.txt
+cli_anything_rawtherapee.egg-info/top_level.txt

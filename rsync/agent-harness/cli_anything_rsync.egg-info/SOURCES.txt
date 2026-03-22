@@ -1,0 +1,8 @@
+setup.py
+cli_anything/rsync/__init__.py
+cli_anything_rsync.egg-info/PKG-INFO
+cli_anything_rsync.egg-info/SOURCES.txt
+cli_anything_rsync.egg-info/dependency_links.txt
+cli_anything_rsync.egg-info/entry_points.txt
+cli_anything_rsync.egg-info/requires.txt
+cli_anything_rsync.egg-info/top_level.txt

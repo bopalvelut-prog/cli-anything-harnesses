@@ -1,0 +1,8 @@
+setup.py
+cli_anything/restic/__init__.py
+cli_anything_restic.egg-info/PKG-INFO
+cli_anything_restic.egg-info/SOURCES.txt
+cli_anything_restic.egg-info/dependency_links.txt
+cli_anything_restic.egg-info/entry_points.txt
+cli_anything_restic.egg-info/requires.txt
+cli_anything_restic.egg-info/top_level.txt

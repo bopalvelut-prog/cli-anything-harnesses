@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adb = cli_anything.adb:cli

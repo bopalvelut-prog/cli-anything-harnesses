@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-neo4j = cli_anything.neo4j:cli

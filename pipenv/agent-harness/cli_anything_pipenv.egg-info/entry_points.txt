@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pipenv = cli_anything.pipenv:cli

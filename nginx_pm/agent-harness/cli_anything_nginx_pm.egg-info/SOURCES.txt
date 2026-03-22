@@ -1,0 +1,8 @@
+setup.py
+cli_anything/nginx_pm/__init__.py
+cli_anything_nginx_pm.egg-info/PKG-INFO
+cli_anything_nginx_pm.egg-info/SOURCES.txt
+cli_anything_nginx_pm.egg-info/dependency_links.txt
+cli_anything_nginx_pm.egg-info/entry_points.txt
+cli_anything_nginx_pm.egg-info/requires.txt
+cli_anything_nginx_pm.egg-info/top_level.txt

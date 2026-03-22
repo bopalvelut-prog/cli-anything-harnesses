@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ssh = cli_anything.ssh:cli

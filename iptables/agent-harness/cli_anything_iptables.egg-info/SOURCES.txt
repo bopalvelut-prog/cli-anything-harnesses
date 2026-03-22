@@ -1,0 +1,8 @@
+setup.py
+cli_anything/iptables/__init__.py
+cli_anything_iptables.egg-info/PKG-INFO
+cli_anything_iptables.egg-info/SOURCES.txt
+cli_anything_iptables.egg-info/dependency_links.txt
+cli_anything_iptables.egg-info/entry_points.txt
+cli_anything_iptables.egg-info/requires.txt
+cli_anything_iptables.egg-info/top_level.txt

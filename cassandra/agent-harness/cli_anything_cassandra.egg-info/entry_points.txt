@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cassandra = cli_anything.cassandra:cli

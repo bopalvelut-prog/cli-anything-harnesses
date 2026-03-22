@@ -1,0 +1,8 @@
+setup.py
+cli_anything/memcached/__init__.py
+cli_anything_memcached.egg-info/PKG-INFO
+cli_anything_memcached.egg-info/SOURCES.txt
+cli_anything_memcached.egg-info/dependency_links.txt
+cli_anything_memcached.egg-info/entry_points.txt
+cli_anything_memcached.egg-info/requires.txt
+cli_anything_memcached.egg-info/top_level.txt

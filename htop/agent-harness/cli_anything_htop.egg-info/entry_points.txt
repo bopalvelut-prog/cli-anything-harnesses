@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-htop = cli_anything.htop:cli

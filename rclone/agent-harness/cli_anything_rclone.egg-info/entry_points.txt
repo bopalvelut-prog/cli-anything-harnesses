@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-rclone = cli_anything.rclone:cli

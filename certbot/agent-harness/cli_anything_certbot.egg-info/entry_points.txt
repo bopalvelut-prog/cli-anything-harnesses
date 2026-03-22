@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-certbot = cli_anything.certbot:cli

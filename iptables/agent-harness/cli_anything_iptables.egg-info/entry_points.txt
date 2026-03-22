@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-iptables = cli_anything.iptables:cli

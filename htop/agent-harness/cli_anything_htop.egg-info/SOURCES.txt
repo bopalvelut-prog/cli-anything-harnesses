@@ -1,0 +1,8 @@
+setup.py
+cli_anything/htop/__init__.py
+cli_anything_htop.egg-info/PKG-INFO
+cli_anything_htop.egg-info/SOURCES.txt
+cli_anything_htop.egg-info/dependency_links.txt
+cli_anything_htop.egg-info/entry_points.txt
+cli_anything_htop.egg-info/requires.txt
+cli_anything_htop.egg-info/top_level.txt

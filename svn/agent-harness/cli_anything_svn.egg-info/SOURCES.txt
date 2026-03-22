@@ -1,0 +1,8 @@
+setup.py
+cli_anything/svn/__init__.py
+cli_anything_svn.egg-info/PKG-INFO
+cli_anything_svn.egg-info/SOURCES.txt
+cli_anything_svn.egg-info/dependency_links.txt
+cli_anything_svn.egg-info/entry_points.txt
+cli_anything_svn.egg-info/requires.txt
+cli_anything_svn.egg-info/top_level.txt

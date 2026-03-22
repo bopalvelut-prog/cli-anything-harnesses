@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-screen = cli_anything.screen:cli

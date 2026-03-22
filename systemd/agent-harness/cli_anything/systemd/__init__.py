@@ -1,0 +1,16 @@
+import click, subprocess
+@click.group()
+def cli(): pass
+@cli.command()
+@click.argument('service')
+def start(service): subprocess.run(['systemctl', 'start', service])
+@cli.command()
+@click.argument('service')
+def stop(service): subprocess.run(['systemctl', 'stop', service])
+@cli.command()
+@click.argument('service')
+def status(service): subprocess.run(['systemctl', 'status', service])
+@cli.command()
+@click.argument('service')
+def restart(service): subprocess.run(['systemctl', 'restart', service])
+if __name__ == '__main__': cli()

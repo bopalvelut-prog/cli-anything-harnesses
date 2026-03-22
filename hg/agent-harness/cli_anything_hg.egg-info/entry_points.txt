@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-hg = cli_anything.hg:cli

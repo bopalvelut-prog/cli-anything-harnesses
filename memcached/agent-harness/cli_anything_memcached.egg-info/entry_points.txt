@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-memcached = cli_anything.memcached:cli

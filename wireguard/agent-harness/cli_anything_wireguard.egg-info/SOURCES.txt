@@ -1,0 +1,8 @@
+setup.py
+cli_anything/wireguard/__init__.py
+cli_anything_wireguard.egg-info/PKG-INFO
+cli_anything_wireguard.egg-info/SOURCES.txt
+cli_anything_wireguard.egg-info/dependency_links.txt
+cli_anything_wireguard.egg-info/entry_points.txt
+cli_anything_wireguard.egg-info/requires.txt
+cli_anything_wireguard.egg-info/top_level.txt

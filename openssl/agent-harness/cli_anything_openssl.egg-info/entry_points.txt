@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-openssl = cli_anything.openssl:cli

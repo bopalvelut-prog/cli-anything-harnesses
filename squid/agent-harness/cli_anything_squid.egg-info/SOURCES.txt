@@ -1,0 +1,8 @@
+setup.py
+cli_anything/squid/__init__.py
+cli_anything_squid.egg-info/PKG-INFO
+cli_anything_squid.egg-info/SOURCES.txt
+cli_anything_squid.egg-info/dependency_links.txt
+cli_anything_squid.egg-info/entry_points.txt
+cli_anything_squid.egg-info/requires.txt
+cli_anything_squid.egg-info/top_level.txt

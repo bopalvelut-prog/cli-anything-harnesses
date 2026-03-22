@@ -1,0 +1,8 @@
+setup.py
+cli_anything/jq/__init__.py
+cli_anything_jq.egg-info/PKG-INFO
+cli_anything_jq.egg-info/SOURCES.txt
+cli_anything_jq.egg-info/dependency_links.txt
+cli_anything_jq.egg-info/entry_points.txt
+cli_anything_jq.egg-info/requires.txt
+cli_anything_jq.egg-info/top_level.txt

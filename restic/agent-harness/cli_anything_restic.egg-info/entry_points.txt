@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-restic = cli_anything.restic:cli

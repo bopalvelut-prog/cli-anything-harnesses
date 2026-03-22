@@ -1,0 +1,8 @@
+setup.py
+cli_anything/borg/__init__.py
+cli_anything_borg.egg-info/PKG-INFO
+cli_anything_borg.egg-info/SOURCES.txt
+cli_anything_borg.egg-info/dependency_links.txt
+cli_anything_borg.egg-info/entry_points.txt
+cli_anything_borg.egg-info/requires.txt
+cli_anything_borg.egg-info/top_level.txt

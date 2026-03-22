@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cron = cli_anything.cron:cli

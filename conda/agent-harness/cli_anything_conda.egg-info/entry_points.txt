@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-conda = cli_anything.conda:cli

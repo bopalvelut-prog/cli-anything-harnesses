@@ -1,0 +1,16 @@
+import click, subprocess
+@click.group()
+def cli(): pass
+@cli.command()
+@click.argument('url')
+def clone(url): subprocess.run(['git', 'clone', url])
+@cli.command()
+def status(): subprocess.run(['git', 'status'])
+@cli.command()
+@click.argument('branch')
+def checkout(branch): subprocess.run(['git', 'checkout', branch])
+@cli.command()
+def diff(): subprocess.run(['git', 'diff'])
+@cli.command()
+def log(): subprocess.run(['git', 'log', '--oneline', '-10'])
+if __name__ == '__main__': cli()

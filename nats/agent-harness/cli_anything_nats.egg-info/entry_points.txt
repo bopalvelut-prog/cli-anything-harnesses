@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-nats = cli_anything.nats:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-go = cli_anything.go:cli

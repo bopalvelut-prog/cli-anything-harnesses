@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fail2ban = cli_anything.fail2ban:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/fail2ban/__init__.py
+cli_anything_fail2ban.egg-info/PKG-INFO
+cli_anything_fail2ban.egg-info/SOURCES.txt
+cli_anything_fail2ban.egg-info/dependency_links.txt
+cli_anything_fail2ban.egg-info/entry_points.txt
+cli_anything_fail2ban.egg-info/requires.txt
+cli_anything_fail2ban.egg-info/top_level.txt

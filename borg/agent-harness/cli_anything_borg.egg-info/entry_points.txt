@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-borg = cli_anything.borg:cli

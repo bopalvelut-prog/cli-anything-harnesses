@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-tmux = cli_anything.tmux:cli

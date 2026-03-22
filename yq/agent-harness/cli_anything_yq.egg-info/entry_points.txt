@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-yq = cli_anything.yq:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-zeromq = cli_anything.zeromq:cli

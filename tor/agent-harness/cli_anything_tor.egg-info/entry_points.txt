@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-tor = cli_anything.tor:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-samba = cli_anything.samba:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/scrcpy/__init__.py
+cli_anything_scrcpy.egg-info/PKG-INFO
+cli_anything_scrcpy.egg-info/SOURCES.txt
+cli_anything_scrcpy.egg-info/dependency_links.txt
+cli_anything_scrcpy.egg-info/entry_points.txt
+cli_anything_scrcpy.egg-info/requires.txt
+cli_anything_scrcpy.egg-info/top_level.txt

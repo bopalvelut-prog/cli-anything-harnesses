@@ -1,0 +1,8 @@
+setup.py
+cli_anything/haproxy/__init__.py
+cli_anything_haproxy.egg-info/PKG-INFO
+cli_anything_haproxy.egg-info/SOURCES.txt
+cli_anything_haproxy.egg-info/dependency_links.txt
+cli_anything_haproxy.egg-info/entry_points.txt
+cli_anything_haproxy.egg-info/requires.txt
+cli_anything_haproxy.egg-info/top_level.txt

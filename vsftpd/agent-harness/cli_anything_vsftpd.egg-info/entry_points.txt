@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vsftpd = cli_anything.vsftpd:cli

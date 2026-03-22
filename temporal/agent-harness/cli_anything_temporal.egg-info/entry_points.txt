@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-temporal = cli_anything.temporal:cli

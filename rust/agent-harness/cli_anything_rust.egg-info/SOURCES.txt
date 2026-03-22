@@ -1,0 +1,8 @@
+setup.py
+cli_anything/rust/__init__.py
+cli_anything_rust.egg-info/PKG-INFO
+cli_anything_rust.egg-info/SOURCES.txt
+cli_anything_rust.egg-info/dependency_links.txt
+cli_anything_rust.egg-info/entry_points.txt
+cli_anything_rust.egg-info/requires.txt
+cli_anything_rust.egg-info/top_level.txt

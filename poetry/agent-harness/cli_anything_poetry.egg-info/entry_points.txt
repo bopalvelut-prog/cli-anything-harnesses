@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-poetry = cli_anything.poetry:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-systemd_timer = cli_anything.systemd_timer:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-timeshift = cli_anything.timeshift:cli

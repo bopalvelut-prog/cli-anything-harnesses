@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-puppet = cli_anything.puppet:cli
