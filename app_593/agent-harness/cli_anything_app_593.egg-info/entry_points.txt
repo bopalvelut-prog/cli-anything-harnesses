@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-app_593 = cli_anything.app_593:cli

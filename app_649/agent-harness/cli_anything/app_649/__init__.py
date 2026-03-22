@@ -1,0 +1,16 @@
+import click
+@click.group()
+def cli(): pass
+@cli.command()
+def status(): click.echo('app_649 running')
+@cli.command()
+def start(): click.echo('app_649 started')
+@cli.command()
+def stop(): click.echo('app_649 stopped')
+@cli.command()
+def restart(): click.echo('app_649 restarted')
+@cli.command()
+def config(): click.echo('app_649 config')
+@cli.command()
+def logs(): click.echo('app_649 logs')
+if __name__ == '__main__': cli()
