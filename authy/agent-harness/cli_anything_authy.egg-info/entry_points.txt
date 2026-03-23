@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-authy = cli_anything.authy:cli

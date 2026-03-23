@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-amazonec2 = cli_anything.amazonec2:cli

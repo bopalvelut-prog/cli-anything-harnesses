@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-argocd_v3 = cli_anything.argocd_v3:cli

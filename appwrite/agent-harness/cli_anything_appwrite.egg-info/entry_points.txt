@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-appwrite = cli_anything.appwrite:cli

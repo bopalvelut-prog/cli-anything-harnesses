@@ -1,0 +1,8 @@
+setup.py
+cli_anything/aqueduct/__init__.py
+cli_anything_aqueduct.egg-info/PKG-INFO
+cli_anything_aqueduct.egg-info/SOURCES.txt
+cli_anything_aqueduct.egg-info/dependency_links.txt
+cli_anything_aqueduct.egg-info/entry_points.txt
+cli_anything_aqueduct.egg-info/requires.txt
+cli_anything_aqueduct.egg-info/top_level.txt

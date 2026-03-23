@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-anbox = cli_anything.anbox:cli

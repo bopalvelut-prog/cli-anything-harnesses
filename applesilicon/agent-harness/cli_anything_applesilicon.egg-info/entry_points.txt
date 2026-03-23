@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-applesilicon = cli_anything.applesilicon:cli

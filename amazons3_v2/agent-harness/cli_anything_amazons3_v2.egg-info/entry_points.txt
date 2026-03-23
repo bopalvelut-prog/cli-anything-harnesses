@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-amazons3_v2 = cli_anything.amazons3_v2:cli

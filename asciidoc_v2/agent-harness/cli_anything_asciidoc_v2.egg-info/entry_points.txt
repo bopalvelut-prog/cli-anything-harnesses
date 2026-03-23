@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-asciidoc_v2 = cli_anything.asciidoc_v2:cli

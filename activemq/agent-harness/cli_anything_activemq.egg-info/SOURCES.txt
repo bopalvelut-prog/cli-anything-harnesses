@@ -1,0 +1,8 @@
+setup.py
+cli_anything/activemq/__init__.py
+cli_anything_activemq.egg-info/PKG-INFO
+cli_anything_activemq.egg-info/SOURCES.txt
+cli_anything_activemq.egg-info/dependency_links.txt
+cli_anything_activemq.egg-info/entry_points.txt
+cli_anything_activemq.egg-info/requires.txt
+cli_anything_activemq.egg-info/top_level.txt

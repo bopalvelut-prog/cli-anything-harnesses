@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aurora = cli_anything.aurora:cli

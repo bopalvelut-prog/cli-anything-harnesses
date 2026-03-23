@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ankr/__init__.py
+cli_anything_ankr.egg-info/PKG-INFO
+cli_anything_ankr.egg-info/SOURCES.txt
+cli_anything_ankr.egg-info/dependency_links.txt
+cli_anything_ankr.egg-info/entry_points.txt
+cli_anything_ankr.egg-info/requires.txt
+cli_anything_ankr.egg-info/top_level.txt

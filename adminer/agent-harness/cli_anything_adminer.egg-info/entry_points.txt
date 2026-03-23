@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adminer = cli_anything.adminer:cli

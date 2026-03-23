@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alcorn = cli_anything.alcorn:cli

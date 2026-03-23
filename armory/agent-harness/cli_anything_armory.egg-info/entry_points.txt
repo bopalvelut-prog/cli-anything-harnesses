@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-armory = cli_anything.armory:cli

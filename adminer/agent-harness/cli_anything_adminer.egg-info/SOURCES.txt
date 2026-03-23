@@ -1,0 +1,8 @@
+setup.py
+cli_anything/adminer/__init__.py
+cli_anything_adminer.egg-info/PKG-INFO
+cli_anything_adminer.egg-info/SOURCES.txt
+cli_anything_adminer.egg-info/dependency_links.txt
+cli_anything_adminer.egg-info/entry_points.txt
+cli_anything_adminer.egg-info/requires.txt
+cli_anything_adminer.egg-info/top_level.txt

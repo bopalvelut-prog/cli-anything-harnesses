@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-application_insights = cli_anything.application_insights:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/archiva/__init__.py
+cli_anything_archiva.egg-info/PKG-INFO
+cli_anything_archiva.egg-info/SOURCES.txt
+cli_anything_archiva.egg-info/dependency_links.txt
+cli_anything_archiva.egg-info/entry_points.txt
+cli_anything_archiva.egg-info/requires.txt
+cli_anything_archiva.egg-info/top_level.txt

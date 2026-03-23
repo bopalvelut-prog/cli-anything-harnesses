@@ -1,0 +1,8 @@
+setup.py
+cli_anything/autohotkey/__init__.py
+cli_anything_autohotkey.egg-info/PKG-INFO
+cli_anything_autohotkey.egg-info/SOURCES.txt
+cli_anything_autohotkey.egg-info/dependency_links.txt
+cli_anything_autohotkey.egg-info/entry_points.txt
+cli_anything_autohotkey.egg-info/requires.txt
+cli_anything_autohotkey.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-appbase = cli_anything.appbase:cli

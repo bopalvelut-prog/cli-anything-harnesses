@@ -1,0 +1,8 @@
+setup.py
+cli_anything/apache_tapestry/__init__.py
+cli_anything_apache_tapestry.egg-info/PKG-INFO
+cli_anything_apache_tapestry.egg-info/SOURCES.txt
+cli_anything_apache_tapestry.egg-info/dependency_links.txt
+cli_anything_apache_tapestry.egg-info/entry_points.txt
+cli_anything_apache_tapestry.egg-info/requires.txt
+cli_anything_apache_tapestry.egg-info/top_level.txt

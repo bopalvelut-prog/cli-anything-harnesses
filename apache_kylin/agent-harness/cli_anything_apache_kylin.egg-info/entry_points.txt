@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_kylin = cli_anything.apache_kylin:cli

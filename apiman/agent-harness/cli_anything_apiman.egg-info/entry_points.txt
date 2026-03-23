@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apiman = cli_anything.apiman:cli

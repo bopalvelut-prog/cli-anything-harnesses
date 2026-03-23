@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ats = cli_anything.ats:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-addthis = cli_anything.addthis:cli

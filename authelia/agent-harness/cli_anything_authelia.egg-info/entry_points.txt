@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-authelia = cli_anything.authelia:cli

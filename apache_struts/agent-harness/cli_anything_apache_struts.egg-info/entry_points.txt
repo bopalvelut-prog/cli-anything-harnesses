@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_struts = cli_anything.apache_struts:cli

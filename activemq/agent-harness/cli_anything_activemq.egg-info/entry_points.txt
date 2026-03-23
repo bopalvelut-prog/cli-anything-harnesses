@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-activemq = cli_anything.activemq:cli

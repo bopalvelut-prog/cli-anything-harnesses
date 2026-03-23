@@ -1,0 +1,8 @@
+setup.py
+cli_anything/airsonic/__init__.py
+cli_anything_airsonic.egg-info/PKG-INFO
+cli_anything_airsonic.egg-info/SOURCES.txt
+cli_anything_airsonic.egg-info/dependency_links.txt
+cli_anything_airsonic.egg-info/entry_points.txt
+cli_anything_airsonic.egg-info/requires.txt
+cli_anything_airsonic.egg-info/top_level.txt

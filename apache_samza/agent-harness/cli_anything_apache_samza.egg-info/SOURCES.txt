@@ -1,0 +1,8 @@
+setup.py
+cli_anything/apache_samza/__init__.py
+cli_anything_apache_samza.egg-info/PKG-INFO
+cli_anything_apache_samza.egg-info/SOURCES.txt
+cli_anything_apache_samza.egg-info/dependency_links.txt
+cli_anything_apache_samza.egg-info/entry_points.txt
+cli_anything_apache_samza.egg-info/requires.txt
+cli_anything_apache_samza.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alibaba_rds = cli_anything.alibaba_rds:cli

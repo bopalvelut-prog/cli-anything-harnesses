@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_jena = cli_anything.apache_jena:cli

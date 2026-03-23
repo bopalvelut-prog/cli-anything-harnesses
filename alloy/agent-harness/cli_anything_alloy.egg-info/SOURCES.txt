@@ -1,0 +1,8 @@
+setup.py
+cli_anything/alloy/__init__.py
+cli_anything_alloy.egg-info/PKG-INFO
+cli_anything_alloy.egg-info/SOURCES.txt
+cli_anything_alloy.egg-info/dependency_links.txt
+cli_anything_alloy.egg-info/entry_points.txt
+cli_anything_alloy.egg-info/requires.txt
+cli_anything_alloy.egg-info/top_level.txt

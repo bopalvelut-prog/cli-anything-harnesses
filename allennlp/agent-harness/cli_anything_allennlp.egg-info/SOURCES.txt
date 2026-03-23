@@ -1,0 +1,8 @@
+setup.py
+cli_anything/allennlp/__init__.py
+cli_anything_allennlp.egg-info/PKG-INFO
+cli_anything_allennlp.egg-info/SOURCES.txt
+cli_anything_allennlp.egg-info/dependency_links.txt
+cli_anything_allennlp.egg-info/entry_points.txt
+cli_anything_allennlp.egg-info/requires.txt
+cli_anything_allennlp.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/alibaba_rds/__init__.py
+cli_anything_alibaba_rds.egg-info/PKG-INFO
+cli_anything_alibaba_rds.egg-info/SOURCES.txt
+cli_anything_alibaba_rds.egg-info/dependency_links.txt
+cli_anything_alibaba_rds.egg-info/entry_points.txt
+cli_anything_alibaba_rds.egg-info/requires.txt
+cli_anything_alibaba_rds.egg-info/top_level.txt

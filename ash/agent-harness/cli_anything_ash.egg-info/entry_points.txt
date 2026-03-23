@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ash = cli_anything.ash:cli

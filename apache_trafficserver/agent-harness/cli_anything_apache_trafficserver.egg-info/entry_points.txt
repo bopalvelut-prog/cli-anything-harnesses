@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_trafficserver = cli_anything.apache_trafficserver:cli

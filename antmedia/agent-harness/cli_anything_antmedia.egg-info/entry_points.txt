@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-antmedia = cli_anything.antmedia:cli

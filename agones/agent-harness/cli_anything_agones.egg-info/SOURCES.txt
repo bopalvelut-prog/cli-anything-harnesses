@@ -1,0 +1,8 @@
+setup.py
+cli_anything/agones/__init__.py
+cli_anything_agones.egg-info/PKG-INFO
+cli_anything_agones.egg-info/SOURCES.txt
+cli_anything_agones.egg-info/dependency_links.txt
+cli_anything_agones.egg-info/entry_points.txt
+cli_anything_agones.egg-info/requires.txt
+cli_anything_agones.egg-info/top_level.txt

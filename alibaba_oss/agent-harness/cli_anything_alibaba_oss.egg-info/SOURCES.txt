@@ -1,0 +1,8 @@
+setup.py
+cli_anything/alibaba_oss/__init__.py
+cli_anything_alibaba_oss.egg-info/PKG-INFO
+cli_anything_alibaba_oss.egg-info/SOURCES.txt
+cli_anything_alibaba_oss.egg-info/dependency_links.txt
+cli_anything_alibaba_oss.egg-info/entry_points.txt
+cli_anything_alibaba_oss.egg-info/requires.txt
+cli_anything_alibaba_oss.egg-info/top_level.txt

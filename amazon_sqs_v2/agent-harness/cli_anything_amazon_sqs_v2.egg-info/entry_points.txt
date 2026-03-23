@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-amazon_sqs_v2 = cli_anything.amazon_sqs_v2:cli

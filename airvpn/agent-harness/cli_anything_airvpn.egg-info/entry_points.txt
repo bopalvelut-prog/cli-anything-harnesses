@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-airvpn = cli_anything.airvpn:cli

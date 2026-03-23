@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-accuweather = cli_anything.accuweather:cli

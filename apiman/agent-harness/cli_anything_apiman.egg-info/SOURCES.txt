@@ -1,0 +1,8 @@
+setup.py
+cli_anything/apiman/__init__.py
+cli_anything_apiman.egg-info/PKG-INFO
+cli_anything_apiman.egg-info/SOURCES.txt
+cli_anything_apiman.egg-info/dependency_links.txt
+cli_anything_apiman.egg-info/entry_points.txt
+cli_anything_apiman.egg-info/requires.txt
+cli_anything_apiman.egg-info/top_level.txt

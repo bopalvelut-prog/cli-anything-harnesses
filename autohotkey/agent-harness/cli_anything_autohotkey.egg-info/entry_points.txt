@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-autohotkey = cli_anything.autohotkey:cli

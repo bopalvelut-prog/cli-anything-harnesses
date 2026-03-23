@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_pinot = cli_anything.apache_pinot:cli

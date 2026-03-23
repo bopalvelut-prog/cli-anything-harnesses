@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adonis_v2 = cli_anything.adonis_v2:cli

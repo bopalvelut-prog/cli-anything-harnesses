@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-amazoneks_v2 = cli_anything.amazoneks_v2:cli

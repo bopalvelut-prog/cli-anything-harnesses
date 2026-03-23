@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-atlas = cli_anything.atlas:cli

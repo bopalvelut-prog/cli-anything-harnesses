@@ -1,0 +1,8 @@
+setup.py
+cli_anything/anbox/__init__.py
+cli_anything_anbox.egg-info/PKG-INFO
+cli_anything_anbox.egg-info/SOURCES.txt
+cli_anything_anbox.egg-info/dependency_links.txt
+cli_anything_anbox.egg-info/entry_points.txt
+cli_anything_anbox.egg-info/requires.txt
+cli_anything_anbox.egg-info/top_level.txt

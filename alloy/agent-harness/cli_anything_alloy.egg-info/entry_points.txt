@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alloy = cli_anything.alloy:cli

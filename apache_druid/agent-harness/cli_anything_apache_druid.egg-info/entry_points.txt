@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_druid = cli_anything.apache_druid:cli

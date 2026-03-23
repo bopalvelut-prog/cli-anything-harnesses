@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-angularjs = cli_anything.angularjs:cli

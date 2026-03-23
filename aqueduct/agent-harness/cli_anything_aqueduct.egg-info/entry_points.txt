@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aqueduct = cli_anything.aqueduct:cli

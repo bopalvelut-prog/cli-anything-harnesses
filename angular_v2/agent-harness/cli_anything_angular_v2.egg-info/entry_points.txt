@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-angular_v2 = cli_anything.angular_v2:cli

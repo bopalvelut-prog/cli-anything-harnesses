@@ -1,0 +1,8 @@
+setup.py
+cli_anything/apache_kylin/__init__.py
+cli_anything_apache_kylin.egg-info/PKG-INFO
+cli_anything_apache_kylin.egg-info/SOURCES.txt
+cli_anything_apache_kylin.egg-info/dependency_links.txt
+cli_anything_apache_kylin.egg-info/entry_points.txt
+cli_anything_apache_kylin.egg-info/requires.txt
+cli_anything_apache_kylin.egg-info/top_level.txt

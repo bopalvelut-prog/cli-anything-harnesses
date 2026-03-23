@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aspectj = cli_anything.aspectj:cli

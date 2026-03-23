@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-arangodb = cli_anything.arangodb:cli

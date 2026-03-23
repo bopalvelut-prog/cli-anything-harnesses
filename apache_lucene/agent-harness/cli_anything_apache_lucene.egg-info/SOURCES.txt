@@ -1,0 +1,8 @@
+setup.py
+cli_anything/apache_lucene/__init__.py
+cli_anything_apache_lucene.egg-info/PKG-INFO
+cli_anything_apache_lucene.egg-info/SOURCES.txt
+cli_anything_apache_lucene.egg-info/dependency_links.txt
+cli_anything_apache_lucene.egg-info/entry_points.txt
+cli_anything_apache_lucene.egg-info/requires.txt
+cli_anything_apache_lucene.egg-info/top_level.txt

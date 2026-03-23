@@ -1,0 +1,8 @@
+setup.py
+cli_anything/application_insights/__init__.py
+cli_anything_application_insights.egg-info/PKG-INFO
+cli_anything_application_insights.egg-info/SOURCES.txt
+cli_anything_application_insights.egg-info/dependency_links.txt
+cli_anything_application_insights.egg-info/entry_points.txt
+cli_anything_application_insights.egg-info/requires.txt
+cli_anything_application_insights.egg-info/top_level.txt

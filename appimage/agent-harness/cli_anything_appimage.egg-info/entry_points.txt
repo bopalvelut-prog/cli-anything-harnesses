@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-appimage = cli_anything.appimage:cli

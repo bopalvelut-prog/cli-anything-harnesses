@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-algernon = cli_anything.algernon:cli

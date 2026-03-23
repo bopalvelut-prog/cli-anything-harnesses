@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-archlinux = cli_anything.archlinux:cli

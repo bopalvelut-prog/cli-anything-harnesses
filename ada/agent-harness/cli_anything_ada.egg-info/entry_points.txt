@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ada = cli_anything.ada:cli

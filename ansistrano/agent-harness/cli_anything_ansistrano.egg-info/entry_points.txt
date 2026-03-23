@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ansistrano = cli_anything.ansistrano:cli

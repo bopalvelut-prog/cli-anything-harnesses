@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_tapestry = cli_anything.apache_tapestry:cli

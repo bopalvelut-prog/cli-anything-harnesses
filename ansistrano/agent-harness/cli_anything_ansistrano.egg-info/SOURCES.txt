@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ansistrano/__init__.py
+cli_anything_ansistrano.egg-info/PKG-INFO
+cli_anything_ansistrano.egg-info/SOURCES.txt
+cli_anything_ansistrano.egg-info/dependency_links.txt
+cli_anything_ansistrano.egg-info/entry_points.txt
+cli_anything_ansistrano.egg-info/requires.txt
+cli_anything_ansistrano.egg-info/top_level.txt

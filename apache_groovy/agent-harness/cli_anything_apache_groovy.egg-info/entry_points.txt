@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_groovy = cli_anything.apache_groovy:cli

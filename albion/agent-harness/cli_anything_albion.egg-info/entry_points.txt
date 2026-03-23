@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-albion = cli_anything.albion:cli

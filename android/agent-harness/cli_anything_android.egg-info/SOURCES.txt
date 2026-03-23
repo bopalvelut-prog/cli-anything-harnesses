@@ -1,0 +1,8 @@
+setup.py
+cli_anything/android/__init__.py
+cli_anything_android.egg-info/PKG-INFO
+cli_anything_android.egg-info/SOURCES.txt
+cli_anything_android.egg-info/dependency_links.txt
+cli_anything_android.egg-info/entry_points.txt
+cli_anything_android.egg-info/requires.txt
+cli_anything_android.egg-info/top_level.txt

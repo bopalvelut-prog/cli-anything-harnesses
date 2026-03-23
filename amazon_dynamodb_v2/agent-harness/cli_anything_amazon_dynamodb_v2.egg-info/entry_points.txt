@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-amazon_dynamodb_v2 = cli_anything.amazon_dynamodb_v2:cli

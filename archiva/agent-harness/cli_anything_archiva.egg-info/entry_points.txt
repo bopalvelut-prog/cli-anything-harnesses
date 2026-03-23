@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-archiva = cli_anything.archiva:cli

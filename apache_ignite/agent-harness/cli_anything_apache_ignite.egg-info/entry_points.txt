@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_ignite = cli_anything.apache_ignite:cli

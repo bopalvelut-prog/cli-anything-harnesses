@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-assembly = cli_anything.assembly:cli

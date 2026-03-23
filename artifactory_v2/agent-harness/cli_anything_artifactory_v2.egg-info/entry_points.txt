@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-artifactory_v2 = cli_anything.artifactory_v2:cli
