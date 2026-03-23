@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-apache_hadoop = cli_anything.apache_hadoop:cli

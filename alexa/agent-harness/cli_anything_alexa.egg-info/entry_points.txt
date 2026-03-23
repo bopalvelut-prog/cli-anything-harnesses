@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alexa = cli_anything.alexa:cli

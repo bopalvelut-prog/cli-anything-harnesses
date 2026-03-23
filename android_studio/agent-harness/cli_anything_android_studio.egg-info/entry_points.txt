@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-android_studio = cli_anything.android_studio:cli

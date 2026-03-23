@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alibaba_cloud = cli_anything.alibaba_cloud:cli

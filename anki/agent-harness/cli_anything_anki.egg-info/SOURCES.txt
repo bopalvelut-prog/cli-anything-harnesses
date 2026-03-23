@@ -1,0 +1,8 @@
+setup.py
+cli_anything/anki/__init__.py
+cli_anything_anki.egg-info/PKG-INFO
+cli_anything_anki.egg-info/SOURCES.txt
+cli_anything_anki.egg-info/dependency_links.txt
+cli_anything_anki.egg-info/entry_points.txt
+cli_anything_anki.egg-info/requires.txt
+cli_anything_anki.egg-info/top_level.txt

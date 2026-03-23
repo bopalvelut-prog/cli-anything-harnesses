@@ -1,0 +1,8 @@
+setup.py
+cli_anything/algolia/__init__.py
+cli_anything_algolia.egg-info/PKG-INFO
+cli_anything_algolia.egg-info/SOURCES.txt
+cli_anything_algolia.egg-info/dependency_links.txt
+cli_anything_algolia.egg-info/entry_points.txt
+cli_anything_algolia.egg-info/requires.txt
+cli_anything_algolia.egg-info/top_level.txt

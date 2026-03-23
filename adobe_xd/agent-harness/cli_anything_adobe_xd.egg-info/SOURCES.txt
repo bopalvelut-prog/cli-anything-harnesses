@@ -1,0 +1,8 @@
+setup.py
+cli_anything/adobe_xd/__init__.py
+cli_anything_adobe_xd.egg-info/PKG-INFO
+cli_anything_adobe_xd.egg-info/SOURCES.txt
+cli_anything_adobe_xd.egg-info/dependency_links.txt
+cli_anything_adobe_xd.egg-info/entry_points.txt
+cli_anything_adobe_xd.egg-info/requires.txt
+cli_anything_adobe_xd.egg-info/top_level.txt

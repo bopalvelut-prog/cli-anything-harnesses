@@ -1,0 +1,8 @@
+from setuptools import setup
+setup(
+    name='cli-anything-app_5737',
+    version='1.0.0',
+    packages=['cli_anything.app_5737'],
+    install_requires=['click'],
+    entry_points={'console_scripts': ['cli-anything-app_5737=cli_anything.app_5737:cli']},
+)

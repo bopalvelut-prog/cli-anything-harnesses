@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alpine = cli_anything.alpine:cli

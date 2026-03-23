@@ -1,0 +1,8 @@
+setup.py
+cli_anything/alpine/__init__.py
+cli_anything_alpine.egg-info/PKG-INFO
+cli_anything_alpine.egg-info/SOURCES.txt
+cli_anything_alpine.egg-info/dependency_links.txt
+cli_anything_alpine.egg-info/entry_points.txt
+cli_anything_alpine.egg-info/requires.txt
+cli_anything_alpine.egg-info/top_level.txt

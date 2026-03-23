@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alfresco = cli_anything.alfresco:cli

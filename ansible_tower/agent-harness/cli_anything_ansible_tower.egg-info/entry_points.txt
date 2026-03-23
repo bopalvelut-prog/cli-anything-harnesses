@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ansible_tower = cli_anything.ansible_tower:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aerospike = cli_anything.aerospike:cli

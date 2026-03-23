@@ -1,0 +1,8 @@
+setup.py
+cli_anything/app_5708/__init__.py
+cli_anything_app_5708.egg-info/PKG-INFO
+cli_anything_app_5708.egg-info/SOURCES.txt
+cli_anything_app_5708.egg-info/dependency_links.txt
+cli_anything_app_5708.egg-info/entry_points.txt
+cli_anything_app_5708.egg-info/requires.txt
+cli_anything_app_5708.egg-info/top_level.txt

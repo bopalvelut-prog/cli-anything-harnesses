@@ -1,0 +1,8 @@
+setup.py
+cli_anything/alfresco/__init__.py
+cli_anything_alfresco.egg-info/PKG-INFO
+cli_anything_alfresco.egg-info/SOURCES.txt
+cli_anything_alfresco.egg-info/dependency_links.txt
+cli_anything_alfresco.egg-info/entry_points.txt
+cli_anything_alfresco.egg-info/requires.txt
+cli_anything_alfresco.egg-info/top_level.txt

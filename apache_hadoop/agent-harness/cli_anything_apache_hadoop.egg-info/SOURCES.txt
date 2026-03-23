@@ -1,0 +1,8 @@
+setup.py
+cli_anything/apache_hadoop/__init__.py
+cli_anything_apache_hadoop.egg-info/PKG-INFO
+cli_anything_apache_hadoop.egg-info/SOURCES.txt
+cli_anything_apache_hadoop.egg-info/dependency_links.txt
+cli_anything_apache_hadoop.egg-info/entry_points.txt
+cli_anything_apache_hadoop.egg-info/requires.txt
+cli_anything_apache_hadoop.egg-info/top_level.txt
