@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adventure = cli_anything.adventure:cli

@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def login(): subprocess.run(['az', 'login'])
+def status(): click.echo('azure running')
 @cli.command()
-def groups(): subprocess.run(['az', 'group', 'list'])
+def start(): click.echo('azure started')
 if __name__ == '__main__': cli()

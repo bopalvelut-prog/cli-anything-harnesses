@@ -1,0 +1,8 @@
+setup.py
+cli_anything/alveo/__init__.py
+cli_anything_alveo.egg-info/PKG-INFO
+cli_anything_alveo.egg-info/SOURCES.txt
+cli_anything_alveo.egg-info/dependency_links.txt
+cli_anything_alveo.egg-info/entry_points.txt
+cli_anything_alveo.egg-info/requires.txt
+cli_anything_alveo.egg-info/top_level.txt

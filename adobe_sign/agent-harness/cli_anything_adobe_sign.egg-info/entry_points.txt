@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adobe_sign = cli_anything.adobe_sign:cli

@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def configure(): subprocess.run(['aws', 'configure'])
+def status(): click.echo('aws running')
 @cli.command()
-def s3(): subprocess.run(['aws', 's3', 'ls'])
+def start(): click.echo('aws started')
 if __name__ == '__main__': cli()

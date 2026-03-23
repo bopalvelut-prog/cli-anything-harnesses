@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ace = cli_anything.ace:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alibaba_oss_v2 = cli_anything.alibaba_oss_v2:cli

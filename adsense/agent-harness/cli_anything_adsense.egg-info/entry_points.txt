@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adsense = cli_anything.adsense:cli

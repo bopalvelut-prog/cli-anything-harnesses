@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-agora = cli_anything.agora:cli

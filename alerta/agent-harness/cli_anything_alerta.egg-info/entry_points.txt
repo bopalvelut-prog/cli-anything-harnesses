@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alerta = cli_anything.alerta:cli

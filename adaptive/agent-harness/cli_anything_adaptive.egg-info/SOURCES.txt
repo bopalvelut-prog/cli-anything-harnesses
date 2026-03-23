@@ -1,0 +1,8 @@
+setup.py
+cli_anything/adaptive/__init__.py
+cli_anything_adaptive.egg-info/PKG-INFO
+cli_anything_adaptive.egg-info/SOURCES.txt
+cli_anything_adaptive.egg-info/dependency_links.txt
+cli_anything_adaptive.egg-info/entry_points.txt
+cli_anything_adaptive.egg-info/requires.txt
+cli_anything_adaptive.egg-info/top_level.txt

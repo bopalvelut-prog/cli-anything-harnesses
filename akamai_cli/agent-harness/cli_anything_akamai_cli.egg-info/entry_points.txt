@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-akamai_cli = cli_anything.akamai_cli:cli

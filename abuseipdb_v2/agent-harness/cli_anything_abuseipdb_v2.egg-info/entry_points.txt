@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-abuseipdb_v2 = cli_anything.abuseipdb_v2:cli

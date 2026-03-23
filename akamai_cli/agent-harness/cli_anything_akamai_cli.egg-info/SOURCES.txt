@@ -1,0 +1,8 @@
+setup.py
+cli_anything/akamai_cli/__init__.py
+cli_anything_akamai_cli.egg-info/PKG-INFO
+cli_anything_akamai_cli.egg-info/SOURCES.txt
+cli_anything_akamai_cli.egg-info/dependency_links.txt
+cli_anything_akamai_cli.egg-info/entry_points.txt
+cli_anything_akamai_cli.egg-info/requires.txt
+cli_anything_akamai_cli.egg-info/top_level.txt

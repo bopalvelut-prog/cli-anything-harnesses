@@ -1,0 +1,8 @@
+setup.py
+cli_anything/adventure/__init__.py
+cli_anything_adventure.egg-info/PKG-INFO
+cli_anything_adventure.egg-info/SOURCES.txt
+cli_anything_adventure.egg-info/dependency_links.txt
+cli_anything_adventure.egg-info/entry_points.txt
+cli_anything_adventure.egg-info/requires.txt
+cli_anything_adventure.egg-info/top_level.txt

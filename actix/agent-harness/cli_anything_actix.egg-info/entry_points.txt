@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-actix = cli_anything.actix:cli

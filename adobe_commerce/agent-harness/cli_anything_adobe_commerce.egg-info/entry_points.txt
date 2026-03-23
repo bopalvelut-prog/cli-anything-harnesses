@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adobe_commerce = cli_anything.adobe_commerce:cli

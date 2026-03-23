@@ -1,0 +1,8 @@
+setup.py
+cli_anything/aeron/__init__.py
+cli_anything_aeron.egg-info/PKG-INFO
+cli_anything_aeron.egg-info/SOURCES.txt
+cli_anything_aeron.egg-info/dependency_links.txt
+cli_anything_aeron.egg-info/entry_points.txt
+cli_anything_aeron.egg-info/requires.txt
+cli_anything_aeron.egg-info/top_level.txt

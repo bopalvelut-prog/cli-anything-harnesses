@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aegis = cli_anything.aegis:cli

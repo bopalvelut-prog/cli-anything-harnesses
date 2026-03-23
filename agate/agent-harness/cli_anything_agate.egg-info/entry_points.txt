@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-agate = cli_anything.agate:cli

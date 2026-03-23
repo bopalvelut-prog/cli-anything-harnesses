@@ -1,0 +1,8 @@
+setup.py
+cli_anything/activestorage/__init__.py
+cli_anything_activestorage.egg-info/PKG-INFO
+cli_anything_activestorage.egg-info/SOURCES.txt
+cli_anything_activestorage.egg-info/dependency_links.txt
+cli_anything_activestorage.egg-info/entry_points.txt
+cli_anything_activestorage.egg-info/requires.txt
+cli_anything_activestorage.egg-info/top_level.txt

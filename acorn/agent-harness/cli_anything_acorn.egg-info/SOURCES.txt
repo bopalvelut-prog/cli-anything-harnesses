@@ -1,0 +1,8 @@
+setup.py
+cli_anything/acorn/__init__.py
+cli_anything_acorn.egg-info/PKG-INFO
+cli_anything_acorn.egg-info/SOURCES.txt
+cli_anything_acorn.egg-info/dependency_links.txt
+cli_anything_acorn.egg-info/entry_points.txt
+cli_anything_acorn.egg-info/requires.txt
+cli_anything_acorn.egg-info/top_level.txt

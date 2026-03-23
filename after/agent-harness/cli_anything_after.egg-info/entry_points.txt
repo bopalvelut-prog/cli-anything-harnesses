@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-after = cli_anything.after:cli

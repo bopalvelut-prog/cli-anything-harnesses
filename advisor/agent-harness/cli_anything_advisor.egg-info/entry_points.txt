@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-advisor = cli_anything.advisor:cli

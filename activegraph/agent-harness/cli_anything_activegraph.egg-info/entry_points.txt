@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-activegraph = cli_anything.activegraph:cli

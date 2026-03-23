@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aerogear = cli_anything.aerogear:cli

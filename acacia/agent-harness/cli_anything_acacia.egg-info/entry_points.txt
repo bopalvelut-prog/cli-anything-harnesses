@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-acacia = cli_anything.acacia:cli

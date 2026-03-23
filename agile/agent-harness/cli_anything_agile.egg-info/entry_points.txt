@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-agile = cli_anything.agile:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aftereffects = cli_anything.aftereffects:cli

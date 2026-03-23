@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-activecell = cli_anything.activecell:cli

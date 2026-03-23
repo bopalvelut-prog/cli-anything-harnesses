@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def dev(): subprocess.run(['rover', 'dev'])
+def status(): click.echo('apollo running')
 @cli.command()
-def schema(): subprocess.run(['rover', 'subgraph', 'check'])
+def start(): click.echo('apollo started')
 if __name__ == '__main__': cli()

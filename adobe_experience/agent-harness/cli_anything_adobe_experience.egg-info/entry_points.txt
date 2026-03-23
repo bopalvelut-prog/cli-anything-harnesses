@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adobe_experience = cli_anything.adobe_experience:cli

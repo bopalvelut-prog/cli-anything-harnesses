@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-amalgam = cli_anything.amalgam:cli

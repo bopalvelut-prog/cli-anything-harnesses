@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-aeron = cli_anything.aeron:cli

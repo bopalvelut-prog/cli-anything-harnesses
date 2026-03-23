@@ -1,0 +1,8 @@
+setup.py
+cli_anything/adobe_commerce/__init__.py
+cli_anything_adobe_commerce.egg-info/PKG-INFO
+cli_anything_adobe_commerce.egg-info/SOURCES.txt
+cli_anything_adobe_commerce.egg-info/dependency_links.txt
+cli_anything_adobe_commerce.egg-info/entry_points.txt
+cli_anything_adobe_commerce.egg-info/requires.txt
+cli_anything_adobe_commerce.egg-info/top_level.txt

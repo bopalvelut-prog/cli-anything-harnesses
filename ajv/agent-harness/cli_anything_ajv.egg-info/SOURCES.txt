@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ajv/__init__.py
+cli_anything_ajv.egg-info/PKG-INFO
+cli_anything_ajv.egg-info/SOURCES.txt
+cli_anything_ajv.egg-info/dependency_links.txt
+cli_anything_ajv.egg-info/entry_points.txt
+cli_anything_ajv.egg-info/requires.txt
+cli_anything_ajv.egg-info/top_level.txt

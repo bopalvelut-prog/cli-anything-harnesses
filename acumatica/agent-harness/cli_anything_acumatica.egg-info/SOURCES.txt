@@ -1,0 +1,8 @@
+setup.py
+cli_anything/acumatica/__init__.py
+cli_anything_acumatica.egg-info/PKG-INFO
+cli_anything_acumatica.egg-info/SOURCES.txt
+cli_anything_acumatica.egg-info/dependency_links.txt
+cli_anything_acumatica.egg-info/entry_points.txt
+cli_anything_acumatica.egg-info/requires.txt
+cli_anything_acumatica.egg-info/top_level.txt

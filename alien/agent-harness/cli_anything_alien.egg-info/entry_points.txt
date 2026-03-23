@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-alien = cli_anything.alien:cli

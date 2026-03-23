@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-academy = cli_anything.academy:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/agora/__init__.py
+cli_anything_agora.egg-info/PKG-INFO
+cli_anything_agora.egg-info/SOURCES.txt
+cli_anything_agora.egg-info/dependency_links.txt
+cli_anything_agora.egg-info/entry_points.txt
+cli_anything_agora.egg-info/requires.txt
+cli_anything_agora.egg-info/top_level.txt

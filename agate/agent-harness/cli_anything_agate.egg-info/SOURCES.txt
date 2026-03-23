@@ -1,0 +1,8 @@
+setup.py
+cli_anything/agate/__init__.py
+cli_anything_agate.egg-info/PKG-INFO
+cli_anything_agate.egg-info/SOURCES.txt
+cli_anything_agate.egg-info/dependency_links.txt
+cli_anything_agate.egg-info/entry_points.txt
+cli_anything_agate.egg-info/requires.txt
+cli_anything_agate.egg-info/top_level.txt

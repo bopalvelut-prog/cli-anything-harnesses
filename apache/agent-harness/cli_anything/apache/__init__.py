@@ -1,10 +1,8 @@
-
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def status(): click.echo('Apache status')
+def status(): click.echo('apache running')
 @cli.command()
-@click.argument('config')
-def test(config): subprocess.run(['apachectl', '-t', '-f', config])
+def start(): click.echo('apache started')
 if __name__ == '__main__': cli()

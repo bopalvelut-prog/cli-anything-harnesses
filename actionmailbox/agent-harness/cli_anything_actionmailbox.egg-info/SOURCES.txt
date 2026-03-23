@@ -1,0 +1,8 @@
+setup.py
+cli_anything/actionmailbox/__init__.py
+cli_anything_actionmailbox.egg-info/PKG-INFO
+cli_anything_actionmailbox.egg-info/SOURCES.txt
+cli_anything_actionmailbox.egg-info/dependency_links.txt
+cli_anything_actionmailbox.egg-info/entry_points.txt
+cli_anything_actionmailbox.egg-info/requires.txt
+cli_anything_actionmailbox.egg-info/top_level.txt

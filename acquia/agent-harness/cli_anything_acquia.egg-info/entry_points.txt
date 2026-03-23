@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-acquia = cli_anything.acquia:cli

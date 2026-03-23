@@ -1,0 +1,8 @@
+setup.py
+cli_anything/academy/__init__.py
+cli_anything_academy.egg-info/PKG-INFO
+cli_anything_academy.egg-info/SOURCES.txt
+cli_anything_academy.egg-info/dependency_links.txt
+cli_anything_academy.egg-info/entry_points.txt
+cli_anything_academy.egg-info/requires.txt
+cli_anything_academy.egg-info/top_level.txt

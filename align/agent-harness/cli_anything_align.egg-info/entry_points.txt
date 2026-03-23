@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-align = cli_anything.align:cli

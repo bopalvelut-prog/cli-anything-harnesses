@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adonisjs_v3 = cli_anything.adonisjs_v3:cli

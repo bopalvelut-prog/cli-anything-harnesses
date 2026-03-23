@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-adobe_marketing = cli_anything.adobe_marketing:cli

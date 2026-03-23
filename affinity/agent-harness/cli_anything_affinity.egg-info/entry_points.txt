@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-affinity = cli_anything.affinity:cli

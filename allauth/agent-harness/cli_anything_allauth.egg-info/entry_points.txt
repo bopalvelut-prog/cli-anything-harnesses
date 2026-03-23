@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-allauth = cli_anything.allauth:cli

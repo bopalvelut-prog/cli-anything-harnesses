@@ -1,0 +1,8 @@
+setup.py
+cli_anything/acrolinx/__init__.py
+cli_anything_acrolinx.egg-info/PKG-INFO
+cli_anything_acrolinx.egg-info/SOURCES.txt
+cli_anything_acrolinx.egg-info/dependency_links.txt
+cli_anything_acrolinx.egg-info/entry_points.txt
+cli_anything_acrolinx.egg-info/requires.txt
+cli_anything_acrolinx.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-agones_v2 = cli_anything.agones_v2:cli

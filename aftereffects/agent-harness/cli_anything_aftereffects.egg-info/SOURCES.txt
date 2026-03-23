@@ -1,0 +1,8 @@
+setup.py
+cli_anything/aftereffects/__init__.py
+cli_anything_aftereffects.egg-info/PKG-INFO
+cli_anything_aftereffects.egg-info/SOURCES.txt
+cli_anything_aftereffects.egg-info/dependency_links.txt
+cli_anything_aftereffects.egg-info/entry_points.txt
+cli_anything_aftereffects.egg-info/requires.txt
+cli_anything_aftereffects.egg-info/top_level.txt
