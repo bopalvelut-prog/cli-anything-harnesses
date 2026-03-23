@@ -1,0 +1,8 @@
+setup.py
+cli_anything/beast/__init__.py
+cli_anything_beast.egg-info/PKG-INFO
+cli_anything_beast.egg-info/SOURCES.txt
+cli_anything_beast.egg-info/dependency_links.txt
+cli_anything_beast.egg-info/entry_points.txt
+cli_anything_beast.egg-info/requires.txt
+cli_anything_beast.egg-info/top_level.txt

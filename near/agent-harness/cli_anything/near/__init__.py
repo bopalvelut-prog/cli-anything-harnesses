@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def node(): click.echo('NEAR node')
+def status(): click.echo('near running')
 @cli.command()
-def account(): click.echo('NEAR account')
+def start(): click.echo('near started')
 if __name__ == '__main__': cli()

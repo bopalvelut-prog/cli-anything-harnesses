@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def rooms(): click.echo('Element rooms')
+def status(): click.echo('element running')
 @cli.command()
-def send(): click.echo('Element message')
+def start(): click.echo('element started')
 if __name__ == '__main__': cli()

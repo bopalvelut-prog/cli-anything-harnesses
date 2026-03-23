@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-big = cli_anything.big:cli

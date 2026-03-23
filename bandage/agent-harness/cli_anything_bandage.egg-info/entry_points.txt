@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bandage = cli_anything.bandage:cli

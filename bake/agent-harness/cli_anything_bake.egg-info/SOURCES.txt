@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bake/__init__.py
+cli_anything_bake.egg-info/PKG-INFO
+cli_anything_bake.egg-info/SOURCES.txt
+cli_anything_bake.egg-info/dependency_links.txt
+cli_anything_bake.egg-info/entry_points.txt
+cli_anything_bake.egg-info/requires.txt
+cli_anything_bake.egg-info/top_level.txt

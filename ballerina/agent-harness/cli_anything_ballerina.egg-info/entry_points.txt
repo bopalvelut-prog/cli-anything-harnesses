@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ballerina = cli_anything.ballerina:cli

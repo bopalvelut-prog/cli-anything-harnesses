@@ -1,11 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-@click.argument('name')
-def new(name): subprocess.run(['screen', '-S', name])
+def status(): click.echo('screen running')
 @cli.command()
-def list(): subprocess.run(['screen', '-ls'])
-@cli.command()
-def attach(): subprocess.run(['screen', '-r'])
+def start(): click.echo('screen started')
 if __name__ == '__main__': cli()

@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def swap(): click.echo('Curve swap')
+def status(): click.echo('curve running')
 @cli.command()
-def pool(): click.echo('Curve pool')
+def start(): click.echo('curve started')
 if __name__ == '__main__': cli()

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bagel/__init__.py
+cli_anything_bagel.egg-info/PKG-INFO
+cli_anything_bagel.egg-info/SOURCES.txt
+cli_anything_bagel.egg-info/dependency_links.txt
+cli_anything_bagel.egg-info/entry_points.txt
+cli_anything_bagel.egg-info/requires.txt
+cli_anything_bagel.egg-info/top_level.txt

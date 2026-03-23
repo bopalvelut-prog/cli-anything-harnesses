@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bear/__init__.py
+cli_anything_bear.egg-info/PKG-INFO
+cli_anything_bear.egg-info/SOURCES.txt
+cli_anything_bear.egg-info/dependency_links.txt
+cli_anything_bear.egg-info/entry_points.txt
+cli_anything_bear.egg-info/requires.txt
+cli_anything_bear.egg-info/top_level.txt

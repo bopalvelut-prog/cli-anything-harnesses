@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bias = cli_anything.bias:cli

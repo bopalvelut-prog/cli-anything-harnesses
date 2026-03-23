@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-belong = cli_anything.belong:cli

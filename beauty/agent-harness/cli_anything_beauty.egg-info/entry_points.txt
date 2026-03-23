@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-beauty = cli_anything.beauty:cli

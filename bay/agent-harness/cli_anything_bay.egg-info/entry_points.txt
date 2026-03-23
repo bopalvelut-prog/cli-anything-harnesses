@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bay = cli_anything.bay:cli

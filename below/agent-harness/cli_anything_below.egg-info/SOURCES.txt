@@ -1,0 +1,8 @@
+setup.py
+cli_anything/below/__init__.py
+cli_anything_below.egg-info/PKG-INFO
+cli_anything_below.egg-info/SOURCES.txt
+cli_anything_below.egg-info/dependency_links.txt
+cli_anything_below.egg-info/entry_points.txt
+cli_anything_below.egg-info/requires.txt
+cli_anything_below.egg-info/top_level.txt

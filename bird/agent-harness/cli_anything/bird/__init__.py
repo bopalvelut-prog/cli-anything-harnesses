@@ -1,6 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def sms(): click.echo('Bird SMS sent')
+def status(): click.echo('bird running')
+@cli.command()
+def start(): click.echo('bird started')
 if __name__ == '__main__': cli()

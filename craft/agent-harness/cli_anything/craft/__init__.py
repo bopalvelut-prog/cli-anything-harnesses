@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def serve(): subprocess.run(['craft', 'serve'])
+def status(): click.echo('craft running')
 @cli.command()
-def migrate(): subprocess.run(['craft', 'migrate/all'])
+def start(): click.echo('craft started')
 if __name__ == '__main__': cli()

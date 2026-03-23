@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-begin = cli_anything.begin:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/barn/__init__.py
+cli_anything_barn.egg-info/PKG-INFO
+cli_anything_barn.egg-info/SOURCES.txt
+cli_anything_barn.egg-info/dependency_links.txt
+cli_anything_barn.egg-info/entry_points.txt
+cli_anything_barn.egg-info/requires.txt
+cli_anything_barn.egg-info/top_level.txt

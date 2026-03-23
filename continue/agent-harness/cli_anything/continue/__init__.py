@@ -2,7 +2,7 @@ import click
 @click.group()
 def cli(): pass
 @cli.command()
-def start(): click.echo('Continue start')
+def status(): click.echo('continue running')
 @cli.command()
-def config(): click.echo('Continue config')
+def start(): click.echo('continue started')
 if __name__ == '__main__': cli()

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bed = cli_anything.bed:cli

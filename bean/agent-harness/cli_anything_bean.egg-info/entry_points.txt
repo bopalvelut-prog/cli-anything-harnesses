@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bean = cli_anything.bean:cli

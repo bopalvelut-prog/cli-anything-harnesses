@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bar = cli_anything.bar:cli

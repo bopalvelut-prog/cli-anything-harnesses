@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bagel = cli_anything.bagel:cli

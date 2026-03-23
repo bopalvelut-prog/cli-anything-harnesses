@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def list(): click.echo('Foundation listings')
+def status(): click.echo('foundation running')
 @cli.command()
-def buy(): click.echo('Foundation buy')
+def start(): click.echo('foundation started')
 if __name__ == '__main__': cli()

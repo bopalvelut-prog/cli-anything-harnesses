@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-babylon = cli_anything.babylon:cli

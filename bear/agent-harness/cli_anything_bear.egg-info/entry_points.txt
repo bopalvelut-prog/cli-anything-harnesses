@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bear = cli_anything.bear:cli

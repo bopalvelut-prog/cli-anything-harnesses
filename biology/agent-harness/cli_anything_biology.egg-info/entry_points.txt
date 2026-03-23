@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-biology = cli_anything.biology:cli

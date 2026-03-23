@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bake = cli_anything.bake:cli

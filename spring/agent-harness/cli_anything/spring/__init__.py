@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def run(): subprocess.run(['./mvnw', 'spring-boot:run'])
+def status(): click.echo('spring running')
 @cli.command()
-def build(): subprocess.run(['./mvnw', 'package'])
+def start(): click.echo('spring started')
 if __name__ == '__main__': cli()

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/barrel/__init__.py
+cli_anything_barrel.egg-info/PKG-INFO
+cli_anything_barrel.egg-info/SOURCES.txt
+cli_anything_barrel.egg-info/dependency_links.txt
+cli_anything_barrel.egg-info/entry_points.txt
+cli_anything_barrel.egg-info/requires.txt
+cli_anything_barrel.egg-info/top_level.txt

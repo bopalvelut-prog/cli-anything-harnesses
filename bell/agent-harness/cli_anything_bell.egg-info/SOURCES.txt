@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bell/__init__.py
+cli_anything_bell.egg-info/PKG-INFO
+cli_anything_bell.egg-info/SOURCES.txt
+cli_anything_bell.egg-info/dependency_links.txt
+cli_anything_bell.egg-info/entry_points.txt
+cli_anything_bell.egg-info/requires.txt
+cli_anything_bell.egg-info/top_level.txt

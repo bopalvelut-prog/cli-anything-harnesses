@@ -1,0 +1,8 @@
+setup.py
+cli_anything/basket/__init__.py
+cli_anything_basket.egg-info/PKG-INFO
+cli_anything_basket.egg-info/SOURCES.txt
+cli_anything_basket.egg-info/dependency_links.txt
+cli_anything_basket.egg-info/entry_points.txt
+cli_anything_basket.egg-info/requires.txt
+cli_anything_basket.egg-info/top_level.txt

@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def status(): click.echo('Gallery status')
+def status(): click.echo('gallery running')
 @cli.command()
-def albums(): click.echo('Gallery albums')
+def start(): click.echo('gallery started')
 if __name__ == '__main__': cli()

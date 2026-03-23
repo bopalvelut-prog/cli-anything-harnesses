@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bam = cli_anything.bam:cli

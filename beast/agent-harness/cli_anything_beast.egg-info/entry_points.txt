@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-beast = cli_anything.beast:cli

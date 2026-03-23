@@ -1,0 +1,8 @@
+setup.py
+cli_anything/beauty/__init__.py
+cli_anything_beauty.egg-info/PKG-INFO
+cli_anything_beauty.egg-info/SOURCES.txt
+cli_anything_beauty.egg-info/dependency_links.txt
+cli_anything_beauty.egg-info/entry_points.txt
+cli_anything_beauty.egg-info/requires.txt
+cli_anything_beauty.egg-info/top_level.txt

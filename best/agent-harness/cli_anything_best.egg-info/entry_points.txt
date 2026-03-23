@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-best = cli_anything.best:cli

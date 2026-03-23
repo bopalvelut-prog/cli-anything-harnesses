@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-baggage = cli_anything.baggage:cli

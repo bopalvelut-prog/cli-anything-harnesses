@@ -1,0 +1,8 @@
+setup.py
+cli_anything/ballerina/__init__.py
+cli_anything_ballerina.egg-info/PKG-INFO
+cli_anything_ballerina.egg-info/SOURCES.txt
+cli_anything_ballerina.egg-info/dependency_links.txt
+cli_anything_ballerina.egg-info/entry_points.txt
+cli_anything_ballerina.egg-info/requires.txt
+cli_anything_ballerina.egg-info/top_level.txt

@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def swap(): click.echo('Balancer swap')
+def status(): click.echo('balancer running')
 @cli.command()
-def pool(): click.echo('Balancer pool')
+def start(): click.echo('balancer started')
 if __name__ == '__main__': cli()

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-better = cli_anything.better:cli

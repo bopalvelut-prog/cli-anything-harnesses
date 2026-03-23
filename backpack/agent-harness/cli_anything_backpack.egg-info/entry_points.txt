@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-backpack = cli_anything.backpack:cli

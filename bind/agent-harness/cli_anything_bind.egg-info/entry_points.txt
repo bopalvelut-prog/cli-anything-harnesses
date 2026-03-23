@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bind = cli_anything.bind:cli

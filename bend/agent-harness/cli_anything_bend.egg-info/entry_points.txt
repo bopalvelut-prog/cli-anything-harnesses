@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bend = cli_anything.bend:cli

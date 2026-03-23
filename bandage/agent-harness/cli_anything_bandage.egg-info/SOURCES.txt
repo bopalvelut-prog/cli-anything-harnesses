@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bandage/__init__.py
+cli_anything_bandage.egg-info/PKG-INFO
+cli_anything_bandage.egg-info/SOURCES.txt
+cli_anything_bandage.egg-info/dependency_links.txt
+cli_anything_bandage.egg-info/entry_points.txt
+cli_anything_bandage.egg-info/requires.txt
+cli_anything_bandage.egg-info/top_level.txt

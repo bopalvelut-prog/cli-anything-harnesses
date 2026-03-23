@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bench = cli_anything.bench:cli

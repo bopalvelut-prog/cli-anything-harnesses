@@ -1,0 +1,8 @@
+setup.py
+cli_anything/beacon/__init__.py
+cli_anything_beacon.egg-info/PKG-INFO
+cli_anything_beacon.egg-info/SOURCES.txt
+cli_anything_beacon.egg-info/dependency_links.txt
+cli_anything_beacon.egg-info/entry_points.txt
+cli_anything_beacon.egg-info/requires.txt
+cli_anything_beacon.egg-info/top_level.txt

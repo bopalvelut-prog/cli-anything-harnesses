@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ball = cli_anything.ball:cli

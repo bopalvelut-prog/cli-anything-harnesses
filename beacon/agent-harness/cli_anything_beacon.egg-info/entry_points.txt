@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-beacon = cli_anything.beacon:cli

@@ -1,9 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def client(): subprocess.run(['chef-client'])
+def status(): click.echo('chef running')
 @cli.command()
-@click.argument('cookbook')
-def generate(cookbook): subprocess.run(['chef', 'generate', 'cookbook', cookbook])
+def start(): click.echo('chef started')
 if __name__ == '__main__': cli()

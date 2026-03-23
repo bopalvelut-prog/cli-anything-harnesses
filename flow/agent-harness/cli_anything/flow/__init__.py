@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def account(): click.echo('Flow account')
+def status(): click.echo('flow running')
 @cli.command()
-def transfer(): click.echo('Flow transfer')
+def start(): click.echo('flow started')
 if __name__ == '__main__': cli()

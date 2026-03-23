@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bell = cli_anything.bell:cli

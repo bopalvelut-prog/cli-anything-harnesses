@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-beef = cli_anything.beef:cli

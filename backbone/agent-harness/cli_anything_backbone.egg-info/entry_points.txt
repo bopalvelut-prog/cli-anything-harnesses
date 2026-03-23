@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-backbone = cli_anything.backbone:cli

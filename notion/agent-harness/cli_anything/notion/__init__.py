@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def pages(): click.echo('Notion pages')
+def status(): click.echo('notion running')
 @cli.command()
-def search(): click.echo('Search Notion')
+def start(): click.echo('notion started')
 if __name__ == '__main__': cli()

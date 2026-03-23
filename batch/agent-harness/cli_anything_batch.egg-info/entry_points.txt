@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-batch = cli_anything.batch:cli

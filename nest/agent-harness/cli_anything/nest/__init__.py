@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def start(): subprocess.run(['nest', 'start'])
+def status(): click.echo('nest running')
 @cli.command()
-def build(): subprocess.run(['nest', 'build'])
+def start(): click.echo('nest started')
 if __name__ == '__main__': cli()

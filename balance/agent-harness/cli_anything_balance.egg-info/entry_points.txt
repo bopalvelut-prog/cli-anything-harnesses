@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-balance = cli_anything.balance:cli

@@ -1,8 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def node(): click.echo('Base node')
+def status(): click.echo('base running')
 @cli.command()
-def bridge(): click.echo('Base bridge')
+def start(): click.echo('base started')
 if __name__ == '__main__': cli()

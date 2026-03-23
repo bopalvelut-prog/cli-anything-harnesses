@@ -2,7 +2,7 @@ import click
 @click.group()
 def cli(): pass
 @cli.command()
-def status(): click.echo('app_1555 running')
+def status(): click.echo('brave running')
 @cli.command()
-def start(): click.echo('app_1555 started')
+def start(): click.echo('brave started')
 if __name__ == '__main__': cli()

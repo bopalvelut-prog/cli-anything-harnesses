@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bash_v3 = cli_anything.bash_v3:cli

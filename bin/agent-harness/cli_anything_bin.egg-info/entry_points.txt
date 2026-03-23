@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bin = cli_anything.bin:cli

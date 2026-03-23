@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-between = cli_anything.between:cli

@@ -1,12 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-@click.argument('name')
-def get(name): subprocess.run(['pass', name])
+def status(): click.echo('pass running')
 @cli.command()
-@click.argument('name')
-def insert(name): subprocess.run(['pass', 'insert', name])
-@cli.command()
-def list(): subprocess.run(['pass', 'ls'])
+def start(): click.echo('pass started')
 if __name__ == '__main__': cli()

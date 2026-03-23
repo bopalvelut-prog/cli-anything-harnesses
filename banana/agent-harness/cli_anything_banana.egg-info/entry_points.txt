@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-banana = cli_anything.banana:cli

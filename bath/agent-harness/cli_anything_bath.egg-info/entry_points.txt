@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bath = cli_anything.bath:cli

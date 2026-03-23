@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bike/__init__.py
+cli_anything_bike.egg-info/PKG-INFO
+cli_anything_bike.egg-info/SOURCES.txt
+cli_anything_bike.egg-info/dependency_links.txt
+cli_anything_bike.egg-info/entry_points.txt
+cli_anything_bike.egg-info/requires.txt
+cli_anything_bike.egg-info/top_level.txt

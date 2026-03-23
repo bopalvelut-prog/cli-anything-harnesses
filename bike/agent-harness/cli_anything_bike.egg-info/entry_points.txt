@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bike = cli_anything.bike:cli

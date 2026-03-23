@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-binary = cli_anything.binary:cli

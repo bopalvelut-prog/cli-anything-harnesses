@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-barrel = cli_anything.barrel:cli
