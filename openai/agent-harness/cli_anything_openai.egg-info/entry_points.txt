@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-openai = cli_anything.openai:cli

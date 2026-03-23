@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-anythingllm = cli_anything.anythingllm:cli

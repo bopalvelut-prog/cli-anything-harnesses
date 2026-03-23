@@ -1,0 +1,8 @@
+setup.py
+cli_anything/bentoml/__init__.py
+cli_anything_bentoml.egg-info/PKG-INFO
+cli_anything_bentoml.egg-info/SOURCES.txt
+cli_anything_bentoml.egg-info/dependency_links.txt
+cli_anything_bentoml.egg-info/entry_points.txt
+cli_anything_bentoml.egg-info/requires.txt
+cli_anything_bentoml.egg-info/top_level.txt

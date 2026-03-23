@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flowise = cli_anything.flowise:cli

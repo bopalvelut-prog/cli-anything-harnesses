@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-onnx = cli_anything.onnx:cli

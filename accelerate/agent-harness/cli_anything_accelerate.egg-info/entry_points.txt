@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-accelerate = cli_anything.accelerate:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-sglang = cli_anything.sglang:cli

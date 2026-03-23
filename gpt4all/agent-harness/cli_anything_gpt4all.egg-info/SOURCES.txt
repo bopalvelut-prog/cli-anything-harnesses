@@ -1,0 +1,8 @@
+setup.py
+cli_anything/gpt4all/__init__.py
+cli_anything_gpt4all.egg-info/PKG-INFO
+cli_anything_gpt4all.egg-info/SOURCES.txt
+cli_anything_gpt4all.egg-info/dependency_links.txt
+cli_anything_gpt4all.egg-info/entry_points.txt
+cli_anything_gpt4all.egg-info/requires.txt
+cli_anything_gpt4all.egg-info/top_level.txt

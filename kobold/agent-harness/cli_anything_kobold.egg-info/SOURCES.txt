@@ -1,0 +1,8 @@
+setup.py
+cli_anything/kobold/__init__.py
+cli_anything_kobold.egg-info/PKG-INFO
+cli_anything_kobold.egg-info/SOURCES.txt
+cli_anything_kobold.egg-info/dependency_links.txt
+cli_anything_kobold.egg-info/entry_points.txt
+cli_anything_kobold.egg-info/requires.txt
+cli_anything_kobold.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-kobold = cli_anything.kobold:cli

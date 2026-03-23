@@ -1,0 +1,8 @@
+setup.py
+cli_anything/accelerate/__init__.py
+cli_anything_accelerate.egg-info/PKG-INFO
+cli_anything_accelerate.egg-info/SOURCES.txt
+cli_anything_accelerate.egg-info/dependency_links.txt
+cli_anything_accelerate.egg-info/entry_points.txt
+cli_anything_accelerate.egg-info/requires.txt
+cli_anything_accelerate.egg-info/top_level.txt

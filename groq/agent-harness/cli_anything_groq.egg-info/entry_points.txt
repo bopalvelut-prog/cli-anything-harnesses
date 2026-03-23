@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-groq = cli_anything.groq:cli

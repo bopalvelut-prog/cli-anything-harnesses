@@ -1,0 +1,8 @@
+setup.py
+cli_anything/cloudflare_kv/__init__.py
+cli_anything_cloudflare_kv.egg-info/PKG-INFO
+cli_anything_cloudflare_kv.egg-info/SOURCES.txt
+cli_anything_cloudflare_kv.egg-info/dependency_links.txt
+cli_anything_cloudflare_kv.egg-info/entry_points.txt
+cli_anything_cloudflare_kv.egg-info/requires.txt
+cli_anything_cloudflare_kv.egg-info/top_level.txt

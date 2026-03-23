@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-tflite = cli_anything.tflite:cli

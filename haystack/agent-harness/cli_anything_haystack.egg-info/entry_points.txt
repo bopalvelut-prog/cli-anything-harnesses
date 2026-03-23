@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-haystack = cli_anything.haystack:cli

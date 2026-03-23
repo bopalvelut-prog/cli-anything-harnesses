@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-crewai = cli_anything.crewai:cli

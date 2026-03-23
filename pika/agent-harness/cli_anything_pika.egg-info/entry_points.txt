@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pika = cli_anything.pika:cli

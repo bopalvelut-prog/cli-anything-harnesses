@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cursor = cli_anything.cursor:cli

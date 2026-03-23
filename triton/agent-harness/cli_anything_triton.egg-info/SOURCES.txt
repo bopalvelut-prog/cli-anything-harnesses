@@ -1,0 +1,8 @@
+setup.py
+cli_anything/triton/__init__.py
+cli_anything_triton.egg-info/PKG-INFO
+cli_anything_triton.egg-info/SOURCES.txt
+cli_anything_triton.egg-info/dependency_links.txt
+cli_anything_triton.egg-info/entry_points.txt
+cli_anything_triton.egg-info/requires.txt
+cli_anything_triton.egg-info/top_level.txt

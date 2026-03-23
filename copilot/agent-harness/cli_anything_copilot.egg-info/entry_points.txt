@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-copilot = cli_anything.copilot:cli

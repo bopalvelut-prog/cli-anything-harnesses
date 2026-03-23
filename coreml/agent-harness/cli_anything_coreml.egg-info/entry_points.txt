@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-coreml = cli_anything.coreml:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-continue = cli_anything.continue:cli

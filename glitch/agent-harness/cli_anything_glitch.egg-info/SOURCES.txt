@@ -1,0 +1,8 @@
+setup.py
+cli_anything/glitch/__init__.py
+cli_anything_glitch.egg-info/PKG-INFO
+cli_anything_glitch.egg-info/SOURCES.txt
+cli_anything_glitch.egg-info/dependency_links.txt
+cli_anything_glitch.egg-info/entry_points.txt
+cli_anything_glitch.egg-info/requires.txt
+cli_anything_glitch.egg-info/top_level.txt

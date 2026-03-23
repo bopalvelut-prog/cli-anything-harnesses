@@ -1,0 +1,8 @@
+setup.py
+cli_anything/cohere/__init__.py
+cli_anything_cohere.egg-info/PKG-INFO
+cli_anything_cohere.egg-info/SOURCES.txt
+cli_anything_cohere.egg-info/dependency_links.txt
+cli_anything_cohere.egg-info/entry_points.txt
+cli_anything_cohere.egg-info/requires.txt
+cli_anything_cohere.egg-info/top_level.txt

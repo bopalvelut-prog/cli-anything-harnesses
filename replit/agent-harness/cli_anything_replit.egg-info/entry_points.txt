@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-replit = cli_anything.replit:cli

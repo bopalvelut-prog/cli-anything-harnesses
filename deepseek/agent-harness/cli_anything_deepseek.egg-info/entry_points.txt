@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-deepseek = cli_anything.deepseek:cli

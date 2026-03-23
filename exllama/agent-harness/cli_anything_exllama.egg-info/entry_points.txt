@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-exllama = cli_anything.exllama:cli

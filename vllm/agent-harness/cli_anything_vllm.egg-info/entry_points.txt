@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-vllm = cli_anything.vllm:cli

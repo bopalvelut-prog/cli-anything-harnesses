@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-bunny = cli_anything.bunny:cli

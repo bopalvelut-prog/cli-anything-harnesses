@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-jan = cli_anything.jan:cli

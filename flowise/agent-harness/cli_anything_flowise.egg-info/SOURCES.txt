@@ -1,0 +1,8 @@
+setup.py
+cli_anything/flowise/__init__.py
+cli_anything_flowise.egg-info/PKG-INFO
+cli_anything_flowise.egg-info/SOURCES.txt
+cli_anything_flowise.egg-info/dependency_links.txt
+cli_anything_flowise.egg-info/entry_points.txt
+cli_anything_flowise.egg-info/requires.txt
+cli_anything_flowise.egg-info/top_level.txt

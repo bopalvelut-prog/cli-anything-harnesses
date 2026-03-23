@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-runway = cli_anything.runway:cli

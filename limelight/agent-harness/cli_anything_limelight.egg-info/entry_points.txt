@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-limelight = cli_anything.limelight:cli

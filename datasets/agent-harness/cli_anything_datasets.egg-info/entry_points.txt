@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-datasets = cli_anything.datasets:cli

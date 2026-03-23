@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-udio = cli_anything.udio:cli

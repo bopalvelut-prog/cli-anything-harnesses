@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-gpt4all = cli_anything.gpt4all:cli

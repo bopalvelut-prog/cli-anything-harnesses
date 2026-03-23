@@ -1,0 +1,8 @@
+setup.py
+cli_anything/tflite/__init__.py
+cli_anything_tflite.egg-info/PKG-INFO
+cli_anything_tflite.egg-info/SOURCES.txt
+cli_anything_tflite.egg-info/dependency_links.txt
+cli_anything_tflite.egg-info/entry_points.txt
+cli_anything_tflite.egg-info/requires.txt
+cli_anything_tflite.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/onnx/__init__.py
+cli_anything_onnx.egg-info/PKG-INFO
+cli_anything_onnx.egg-info/SOURCES.txt
+cli_anything_onnx.egg-info/dependency_links.txt
+cli_anything_onnx.egg-info/entry_points.txt
+cli_anything_onnx.egg-info/requires.txt
+cli_anything_onnx.egg-info/top_level.txt

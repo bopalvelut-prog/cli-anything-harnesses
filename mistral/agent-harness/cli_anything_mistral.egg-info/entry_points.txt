@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-mistral = cli_anything.mistral:cli

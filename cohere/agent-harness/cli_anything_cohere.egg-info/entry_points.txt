@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cohere = cli_anything.cohere:cli

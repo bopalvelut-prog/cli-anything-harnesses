@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-stability = cli_anything.stability:cli

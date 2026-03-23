@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-glitch = cli_anything.glitch:cli

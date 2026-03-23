@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-transformers = cli_anything.transformers:cli

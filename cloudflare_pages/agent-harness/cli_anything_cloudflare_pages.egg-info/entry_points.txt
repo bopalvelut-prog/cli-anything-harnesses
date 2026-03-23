@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cloudflare_pages = cli_anything.cloudflare_pages:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/suno/__init__.py
+cli_anything_suno.egg-info/PKG-INFO
+cli_anything_suno.egg-info/SOURCES.txt
+cli_anything_suno.egg-info/dependency_links.txt
+cli_anything_suno.egg-info/entry_points.txt
+cli_anything_suno.egg-info/requires.txt
+cli_anything_suno.egg-info/top_level.txt

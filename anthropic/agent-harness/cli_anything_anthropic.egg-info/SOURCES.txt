@@ -1,0 +1,8 @@
+setup.py
+cli_anything/anthropic/__init__.py
+cli_anything_anthropic.egg-info/PKG-INFO
+cli_anything_anthropic.egg-info/SOURCES.txt
+cli_anything_anthropic.egg-info/dependency_links.txt
+cli_anything_anthropic.egg-info/entry_points.txt
+cli_anything_anthropic.egg-info/requires.txt
+cli_anything_anthropic.egg-info/top_level.txt

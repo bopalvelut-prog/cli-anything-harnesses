@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-peft = cli_anything.peft:cli

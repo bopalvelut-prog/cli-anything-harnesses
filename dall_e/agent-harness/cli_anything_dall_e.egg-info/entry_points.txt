@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dall_e = cli_anything.dall_e:cli

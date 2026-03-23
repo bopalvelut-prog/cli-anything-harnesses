@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fastly = cli_anything.fastly:cli

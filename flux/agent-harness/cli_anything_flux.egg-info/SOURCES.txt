@@ -1,0 +1,8 @@
+setup.py
+cli_anything/flux/__init__.py
+cli_anything_flux.egg-info/PKG-INFO
+cli_anything_flux.egg-info/SOURCES.txt
+cli_anything_flux.egg-info/dependency_links.txt
+cli_anything_flux.egg-info/entry_points.txt
+cli_anything_flux.egg-info/requires.txt
+cli_anything_flux.egg-info/top_level.txt

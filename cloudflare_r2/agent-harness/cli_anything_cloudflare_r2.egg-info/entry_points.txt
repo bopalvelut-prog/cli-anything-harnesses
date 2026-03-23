@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-cloudflare_r2 = cli_anything.cloudflare_r2:cli

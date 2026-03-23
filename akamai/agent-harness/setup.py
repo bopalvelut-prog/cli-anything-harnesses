@@ -1,0 +1,8 @@
+from setuptools import setup
+setup(
+    name='cli-anything-akamai',
+    version='1.0.0',
+    packages=['cli_anything.akamai'],
+    install_requires=['click'],
+    entry_points={'console_scripts': ['cli-anything-akamai=cli_anything.akamai:cli']},
+)
