@@ -1,0 +1,8 @@
+setup.py
+cli_anything/app_1530/__init__.py
+cli_anything_app_1530.egg-info/PKG-INFO
+cli_anything_app_1530.egg-info/SOURCES.txt
+cli_anything_app_1530.egg-info/dependency_links.txt
+cli_anything_app_1530.egg-info/entry_points.txt
+cli_anything_app_1530.egg-info/requires.txt
+cli_anything_app_1530.egg-info/top_level.txt
