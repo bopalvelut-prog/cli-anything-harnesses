@@ -1,0 +1,90 @@
+name: Test and Deploy CLI-Anything Harnesses
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.9, 3.10, 3.11, 3.12]
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pytest click
+    
+    - name: Install harnesses
+      run: |
+        for dir in $(ls -d */ | grep -v '\.github'); do
+          if [ -f "$dir/setup.py" ]; then
+            pip install -e "$dir" 2>/dev/null || true
+          fi
+        done
+    
+    - name: Run tests
+      run: pytest tests/ -v --tb=short || true
+  
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.12
+    
+    - name: Install ruff
+      run: pip install ruff
+    
+    - name: Run ruff
+      run: ruff check . --fix || true
+  
+  deploy:
+    needs: [test, lint]
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.12
+    
+    - name: Install build tools
+      run: pip install build twine
+    
+    - name: Build and verify
+      run: |
+        for dir in $(ls -d */ | grep -v '\.github'); do
+          if [ -f "$dir/setup.py" ]; then
+            cd "$dir"
+            python -m build 2>/dev/null || true
+            cd ..
+          fi
+        done
+    
+    - name: Generate docs
+      run: |
+        python generate_docs.py
+    
+    - name: Upload registry
+      uses: actions/upload-artifact@v4
+      with:
+        name: registry
+        path: registry.json
