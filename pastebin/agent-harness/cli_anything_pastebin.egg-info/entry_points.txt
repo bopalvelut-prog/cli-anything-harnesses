@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pastebin = cli_anything.pastebin:cli

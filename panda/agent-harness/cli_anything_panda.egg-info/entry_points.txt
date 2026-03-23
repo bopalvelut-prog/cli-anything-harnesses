@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-panda = cli_anything.panda:cli

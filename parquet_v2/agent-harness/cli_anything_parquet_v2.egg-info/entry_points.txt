@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-parquet_v2 = cli_anything.parquet_v2:cli

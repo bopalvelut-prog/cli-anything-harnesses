@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pagerduty = cli_anything.pagerduty:cli

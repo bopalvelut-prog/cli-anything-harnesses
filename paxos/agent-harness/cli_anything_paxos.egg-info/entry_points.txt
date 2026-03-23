@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-paxos = cli_anything.paxos:cli

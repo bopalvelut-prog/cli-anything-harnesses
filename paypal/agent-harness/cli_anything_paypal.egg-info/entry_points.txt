@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-paypal = cli_anything.paypal:cli

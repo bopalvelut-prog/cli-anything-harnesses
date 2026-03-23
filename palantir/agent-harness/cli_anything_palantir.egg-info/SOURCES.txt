@@ -1,0 +1,8 @@
+setup.py
+cli_anything/palantir/__init__.py
+cli_anything_palantir.egg-info/PKG-INFO
+cli_anything_palantir.egg-info/SOURCES.txt
+cli_anything_palantir.egg-info/dependency_links.txt
+cli_anything_palantir.egg-info/entry_points.txt
+cli_anything_palantir.egg-info/requires.txt
+cli_anything_palantir.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/partition/__init__.py
+cli_anything_partition.egg-info/PKG-INFO
+cli_anything_partition.egg-info/SOURCES.txt
+cli_anything_partition.egg-info/dependency_links.txt
+cli_anything_partition.egg-info/entry_points.txt
+cli_anything_partition.egg-info/requires.txt
+cli_anything_partition.egg-info/top_level.txt

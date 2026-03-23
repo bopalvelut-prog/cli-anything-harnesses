@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-perl_v2 = cli_anything.perl_v2:cli

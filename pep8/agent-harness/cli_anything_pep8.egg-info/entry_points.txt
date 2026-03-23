@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pep8 = cli_anything.pep8:cli

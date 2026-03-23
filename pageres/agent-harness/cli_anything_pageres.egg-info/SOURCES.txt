@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pageres/__init__.py
+cli_anything_pageres.egg-info/PKG-INFO
+cli_anything_pageres.egg-info/SOURCES.txt
+cli_anything_pageres.egg-info/dependency_links.txt
+cli_anything_pageres.egg-info/entry_points.txt
+cli_anything_pageres.egg-info/requires.txt
+cli_anything_pageres.egg-info/top_level.txt

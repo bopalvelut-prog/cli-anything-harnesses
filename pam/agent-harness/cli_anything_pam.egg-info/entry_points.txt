@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pam = cli_anything.pam:cli

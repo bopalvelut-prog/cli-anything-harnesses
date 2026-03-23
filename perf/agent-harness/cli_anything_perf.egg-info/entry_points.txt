@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-perf = cli_anything.perf:cli

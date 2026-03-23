@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-parseable = cli_anything.parseable:cli

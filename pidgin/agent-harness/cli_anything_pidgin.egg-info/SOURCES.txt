@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pidgin/__init__.py
+cli_anything_pidgin.egg-info/PKG-INFO
+cli_anything_pidgin.egg-info/SOURCES.txt
+cli_anything_pidgin.egg-info/dependency_links.txt
+cli_anything_pidgin.egg-info/entry_points.txt
+cli_anything_pidgin.egg-info/requires.txt
+cli_anything_pidgin.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-peering = cli_anything.peering:cli

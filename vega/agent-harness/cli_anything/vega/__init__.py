@@ -1,0 +1,8 @@
+import click
+@click.group()
+def cli(): pass
+@cli.command()
+def status(): click.echo('vega running')
+@cli.command()
+def start(): click.echo('vega started')
+if __name__ == '__main__': cli()

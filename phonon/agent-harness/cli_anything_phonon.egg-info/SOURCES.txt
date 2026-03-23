@@ -1,0 +1,8 @@
+setup.py
+cli_anything/phonon/__init__.py
+cli_anything_phonon.egg-info/PKG-INFO
+cli_anything_phonon.egg-info/SOURCES.txt
+cli_anything_phonon.egg-info/dependency_links.txt
+cli_anything_phonon.egg-info/entry_points.txt
+cli_anything_phonon.egg-info/requires.txt
+cli_anything_phonon.egg-info/top_level.txt

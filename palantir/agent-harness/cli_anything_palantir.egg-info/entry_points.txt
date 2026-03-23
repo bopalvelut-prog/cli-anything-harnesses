@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-palantir = cli_anything.palantir:cli

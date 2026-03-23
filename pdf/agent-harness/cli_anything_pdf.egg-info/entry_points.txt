@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pdf = cli_anything.pdf:cli

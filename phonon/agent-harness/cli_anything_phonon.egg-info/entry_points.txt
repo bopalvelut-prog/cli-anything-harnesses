@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-phonon = cli_anything.phonon:cli

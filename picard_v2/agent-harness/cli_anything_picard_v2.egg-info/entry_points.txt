@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-picard_v2 = cli_anything.picard_v2:cli

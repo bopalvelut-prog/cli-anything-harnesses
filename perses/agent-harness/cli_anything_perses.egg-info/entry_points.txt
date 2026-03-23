@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-perses = cli_anything.perses:cli

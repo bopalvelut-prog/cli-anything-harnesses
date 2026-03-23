@@ -1,0 +1,8 @@
+setup.py
+cli_anything/papertrail/__init__.py
+cli_anything_papertrail.egg-info/PKG-INFO
+cli_anything_papertrail.egg-info/SOURCES.txt
+cli_anything_papertrail.egg-info/dependency_links.txt
+cli_anything_papertrail.egg-info/entry_points.txt
+cli_anything_papertrail.egg-info/requires.txt
+cli_anything_papertrail.egg-info/top_level.txt

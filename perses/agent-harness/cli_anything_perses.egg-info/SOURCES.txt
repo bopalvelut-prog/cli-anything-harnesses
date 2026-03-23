@@ -1,0 +1,8 @@
+setup.py
+cli_anything/perses/__init__.py
+cli_anything_perses.egg-info/PKG-INFO
+cli_anything_perses.egg-info/SOURCES.txt
+cli_anything_perses.egg-info/dependency_links.txt
+cli_anything_perses.egg-info/entry_points.txt
+cli_anything_perses.egg-info/requires.txt
+cli_anything_perses.egg-info/top_level.txt

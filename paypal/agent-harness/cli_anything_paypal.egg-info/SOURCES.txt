@@ -1,0 +1,8 @@
+setup.py
+cli_anything/paypal/__init__.py
+cli_anything_paypal.egg-info/PKG-INFO
+cli_anything_paypal.egg-info/SOURCES.txt
+cli_anything_paypal.egg-info/dependency_links.txt
+cli_anything_paypal.egg-info/entry_points.txt
+cli_anything_paypal.egg-info/requires.txt
+cli_anything_paypal.egg-info/top_level.txt

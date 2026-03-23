@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-paste = cli_anything.paste:cli

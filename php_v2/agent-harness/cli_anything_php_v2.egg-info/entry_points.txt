@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-php_v2 = cli_anything.php_v2:cli

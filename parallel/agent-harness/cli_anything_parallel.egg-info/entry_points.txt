@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-parallel = cli_anything.parallel:cli

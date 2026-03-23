@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pharos/__init__.py
+cli_anything_pharos.egg-info/PKG-INFO
+cli_anything_pharos.egg-info/SOURCES.txt
+cli_anything_pharos.egg-info/dependency_links.txt
+cli_anything_pharos.egg-info/entry_points.txt
+cli_anything_pharos.egg-info/requires.txt
+cli_anything_pharos.egg-info/top_level.txt

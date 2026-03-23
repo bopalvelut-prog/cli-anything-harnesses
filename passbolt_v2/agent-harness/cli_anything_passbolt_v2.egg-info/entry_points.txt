@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-passbolt_v2 = cli_anything.passbolt_v2:cli

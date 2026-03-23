@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pico/__init__.py
+cli_anything_pico.egg-info/PKG-INFO
+cli_anything_pico.egg-info/SOURCES.txt
+cli_anything_pico.egg-info/dependency_links.txt
+cli_anything_pico.egg-info/entry_points.txt
+cli_anything_pico.egg-info/requires.txt
+cli_anything_pico.egg-info/top_level.txt

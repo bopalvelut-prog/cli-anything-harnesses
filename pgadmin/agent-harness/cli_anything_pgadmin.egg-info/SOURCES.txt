@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pgadmin/__init__.py
+cli_anything_pgadmin.egg-info/PKG-INFO
+cli_anything_pgadmin.egg-info/SOURCES.txt
+cli_anything_pgadmin.egg-info/dependency_links.txt
+cli_anything_pgadmin.egg-info/entry_points.txt
+cli_anything_pgadmin.egg-info/requires.txt
+cli_anything_pgadmin.egg-info/top_level.txt

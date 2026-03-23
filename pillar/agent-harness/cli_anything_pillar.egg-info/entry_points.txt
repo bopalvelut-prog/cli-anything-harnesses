@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pillar = cli_anything.pillar:cli

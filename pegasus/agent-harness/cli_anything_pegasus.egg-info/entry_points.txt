@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pegasus = cli_anything.pegasus:cli

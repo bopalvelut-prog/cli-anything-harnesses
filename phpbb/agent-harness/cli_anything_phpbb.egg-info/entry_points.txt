@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-phpbb = cli_anything.phpbb:cli

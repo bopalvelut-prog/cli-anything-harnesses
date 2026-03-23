@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pelias = cli_anything.pelias:cli

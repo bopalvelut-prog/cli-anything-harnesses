@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pihole = cli_anything.pihole:cli

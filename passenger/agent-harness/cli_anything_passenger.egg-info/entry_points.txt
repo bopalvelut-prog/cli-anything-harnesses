@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-passenger = cli_anything.passenger:cli

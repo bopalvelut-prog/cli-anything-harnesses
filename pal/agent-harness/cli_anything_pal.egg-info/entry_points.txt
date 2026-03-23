@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pal = cli_anything.pal:cli

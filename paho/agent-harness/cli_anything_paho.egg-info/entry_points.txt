@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-paho = cli_anything.paho:cli

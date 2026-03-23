@@ -1,0 +1,8 @@
+setup.py
+cli_anything/phpbb/__init__.py
+cli_anything_phpbb.egg-info/PKG-INFO
+cli_anything_phpbb.egg-info/SOURCES.txt
+cli_anything_phpbb.egg-info/dependency_links.txt
+cli_anything_phpbb.egg-info/entry_points.txt
+cli_anything_phpbb.egg-info/requires.txt
+cli_anything_phpbb.egg-info/top_level.txt

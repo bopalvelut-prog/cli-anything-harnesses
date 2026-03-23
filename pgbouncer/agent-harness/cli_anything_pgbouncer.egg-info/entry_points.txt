@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pgbouncer = cli_anything.pgbouncer:cli

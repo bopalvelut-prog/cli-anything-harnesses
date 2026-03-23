@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pam/__init__.py
+cli_anything_pam.egg-info/PKG-INFO
+cli_anything_pam.egg-info/SOURCES.txt
+cli_anything_pam.egg-info/dependency_links.txt
+cli_anything_pam.egg-info/entry_points.txt
+cli_anything_pam.egg-info/requires.txt
+cli_anything_pam.egg-info/top_level.txt

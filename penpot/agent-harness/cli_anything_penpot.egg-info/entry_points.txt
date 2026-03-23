@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-penpot = cli_anything.penpot:cli

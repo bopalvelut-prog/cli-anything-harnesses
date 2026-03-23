@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pantheon = cli_anything.pantheon:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/phpfpm/__init__.py
+cli_anything_phpfpm.egg-info/PKG-INFO
+cli_anything_phpfpm.egg-info/SOURCES.txt
+cli_anything_phpfpm.egg-info/dependency_links.txt
+cli_anything_phpfpm.egg-info/entry_points.txt
+cli_anything_phpfpm.egg-info/requires.txt
+cli_anything_phpfpm.egg-info/top_level.txt

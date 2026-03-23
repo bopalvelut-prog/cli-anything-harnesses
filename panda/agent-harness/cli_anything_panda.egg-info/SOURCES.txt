@@ -1,0 +1,8 @@
+setup.py
+cli_anything/panda/__init__.py
+cli_anything_panda.egg-info/PKG-INFO
+cli_anything_panda.egg-info/SOURCES.txt
+cli_anything_panda.egg-info/dependency_links.txt
+cli_anything_panda.egg-info/entry_points.txt
+cli_anything_panda.egg-info/requires.txt
+cli_anything_panda.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pep8/__init__.py
+cli_anything_pep8.egg-info/PKG-INFO
+cli_anything_pep8.egg-info/SOURCES.txt
+cli_anything_pep8.egg-info/dependency_links.txt
+cli_anything_pep8.egg-info/entry_points.txt
+cli_anything_pep8.egg-info/requires.txt
+cli_anything_pep8.egg-info/top_level.txt

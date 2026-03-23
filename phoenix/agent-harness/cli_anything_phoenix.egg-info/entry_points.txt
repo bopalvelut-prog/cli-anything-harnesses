@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-phoenix = cli_anything.phoenix:cli

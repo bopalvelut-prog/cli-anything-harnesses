@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-peloton = cli_anything.peloton:cli

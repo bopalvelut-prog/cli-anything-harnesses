@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pica = cli_anything.pica:cli

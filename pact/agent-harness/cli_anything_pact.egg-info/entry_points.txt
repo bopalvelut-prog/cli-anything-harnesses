@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pact = cli_anything.pact:cli

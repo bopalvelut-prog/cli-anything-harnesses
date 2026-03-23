@@ -1,0 +1,8 @@
+setup.py
+cli_anything/passport/__init__.py
+cli_anything_passport.egg-info/PKG-INFO
+cli_anything_passport.egg-info/SOURCES.txt
+cli_anything_passport.egg-info/dependency_links.txt
+cli_anything_passport.egg-info/entry_points.txt
+cli_anything_passport.egg-info/requires.txt
+cli_anything_passport.egg-info/top_level.txt

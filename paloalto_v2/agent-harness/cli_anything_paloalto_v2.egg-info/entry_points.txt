@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-paloalto_v2 = cli_anything.paloalto_v2:cli

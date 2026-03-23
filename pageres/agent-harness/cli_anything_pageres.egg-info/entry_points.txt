@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pageres = cli_anything.pageres:cli

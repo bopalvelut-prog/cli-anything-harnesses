@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pharos = cli_anything.pharos:cli

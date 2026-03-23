@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-paddle = cli_anything.paddle:cli

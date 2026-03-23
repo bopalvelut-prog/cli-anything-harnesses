@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-partition = cli_anything.partition:cli

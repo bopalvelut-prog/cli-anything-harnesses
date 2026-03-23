@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-packer_v2 = cli_anything.packer_v2:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-pico = cli_anything.pico:cli

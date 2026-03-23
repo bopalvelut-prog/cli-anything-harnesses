@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-passport = cli_anything.passport:cli

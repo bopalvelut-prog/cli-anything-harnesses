@@ -1,0 +1,8 @@
+setup.py
+cli_anything/pdf/__init__.py
+cli_anything_pdf.egg-info/PKG-INFO
+cli_anything_pdf.egg-info/SOURCES.txt
+cli_anything_pdf.egg-info/dependency_links.txt
+cli_anything_pdf.egg-info/entry_points.txt
+cli_anything_pdf.egg-info/requires.txt
+cli_anything_pdf.egg-info/top_level.txt
