@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-doppler = cli_anything.doppler:cli

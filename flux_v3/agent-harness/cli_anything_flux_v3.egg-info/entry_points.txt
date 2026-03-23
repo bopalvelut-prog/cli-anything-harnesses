@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flux_v3 = cli_anything.flux_v3:cli

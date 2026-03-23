@@ -1,0 +1,8 @@
+setup.py
+cli_anything/firecracker/__init__.py
+cli_anything_firecracker.egg-info/PKG-INFO
+cli_anything_firecracker.egg-info/SOURCES.txt
+cli_anything_firecracker.egg-info/dependency_links.txt
+cli_anything_firecracker.egg-info/entry_points.txt
+cli_anything_firecracker.egg-info/requires.txt
+cli_anything_firecracker.egg-info/top_level.txt

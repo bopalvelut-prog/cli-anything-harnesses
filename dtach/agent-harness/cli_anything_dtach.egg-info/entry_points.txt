@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dtach = cli_anything.dtach:cli

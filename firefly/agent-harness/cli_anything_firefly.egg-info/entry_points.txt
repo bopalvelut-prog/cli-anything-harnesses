@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-firefly = cli_anything.firefly:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flex = cli_anything.flex:cli

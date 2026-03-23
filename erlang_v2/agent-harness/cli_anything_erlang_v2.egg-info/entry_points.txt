@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-erlang_v2 = cli_anything.erlang_v2:cli

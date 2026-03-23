@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dxpy = cli_anything.dxpy:cli

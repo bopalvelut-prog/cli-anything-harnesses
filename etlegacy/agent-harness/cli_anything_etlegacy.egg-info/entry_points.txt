@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-etlegacy = cli_anything.etlegacy:cli

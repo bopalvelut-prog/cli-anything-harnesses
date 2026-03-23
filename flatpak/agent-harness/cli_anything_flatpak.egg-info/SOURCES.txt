@@ -1,0 +1,8 @@
+setup.py
+cli_anything/flatpak/__init__.py
+cli_anything_flatpak.egg-info/PKG-INFO
+cli_anything_flatpak.egg-info/SOURCES.txt
+cli_anything_flatpak.egg-info/dependency_links.txt
+cli_anything_flatpak.egg-info/entry_points.txt
+cli_anything_flatpak.egg-info/requires.txt
+cli_anything_flatpak.egg-info/top_level.txt

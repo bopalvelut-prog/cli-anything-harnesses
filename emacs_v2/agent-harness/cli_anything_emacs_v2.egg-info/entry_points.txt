@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-emacs_v2 = cli_anything.emacs_v2:cli

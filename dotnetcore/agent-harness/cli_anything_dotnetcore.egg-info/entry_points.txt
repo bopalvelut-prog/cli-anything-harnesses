@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dotnetcore = cli_anything.dotnetcore:cli

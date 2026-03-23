@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flink = cli_anything.flink:cli

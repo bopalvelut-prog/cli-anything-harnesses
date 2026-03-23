@@ -1,0 +1,8 @@
+setup.py
+cli_anything/druid/__init__.py
+cli_anything_druid.egg-info/PKG-INFO
+cli_anything_druid.egg-info/SOURCES.txt
+cli_anything_druid.egg-info/dependency_links.txt
+cli_anything_druid.egg-info/entry_points.txt
+cli_anything_druid.egg-info/requires.txt
+cli_anything_druid.egg-info/top_level.txt

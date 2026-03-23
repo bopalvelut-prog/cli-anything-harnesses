@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-elasticsearch_v3 = cli_anything.elasticsearch_v3:cli

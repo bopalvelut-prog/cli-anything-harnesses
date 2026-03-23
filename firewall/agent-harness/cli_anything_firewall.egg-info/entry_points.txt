@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-firewall = cli_anything.firewall:cli

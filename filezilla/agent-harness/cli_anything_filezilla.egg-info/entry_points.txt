@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-filezilla = cli_anything.filezilla:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/fabric/__init__.py
+cli_anything_fabric.egg-info/PKG-INFO
+cli_anything_fabric.egg-info/SOURCES.txt
+cli_anything_fabric.egg-info/dependency_links.txt
+cli_anything_fabric.egg-info/entry_points.txt
+cli_anything_fabric.egg-info/requires.txt
+cli_anything_fabric.egg-info/top_level.txt

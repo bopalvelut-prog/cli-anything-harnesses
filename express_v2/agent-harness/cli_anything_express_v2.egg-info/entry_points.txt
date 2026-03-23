@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-express_v2 = cli_anything.express_v2:cli

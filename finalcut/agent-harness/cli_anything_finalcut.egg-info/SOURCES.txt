@@ -1,0 +1,8 @@
+setup.py
+cli_anything/finalcut/__init__.py
+cli_anything_finalcut.egg-info/PKG-INFO
+cli_anything_finalcut.egg-info/SOURCES.txt
+cli_anything_finalcut.egg-info/dependency_links.txt
+cli_anything_finalcut.egg-info/entry_points.txt
+cli_anything_finalcut.egg-info/requires.txt
+cli_anything_finalcut.egg-info/top_level.txt

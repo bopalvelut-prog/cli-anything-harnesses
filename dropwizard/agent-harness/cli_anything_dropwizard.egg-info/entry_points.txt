@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dropwizard = cli_anything.dropwizard:cli

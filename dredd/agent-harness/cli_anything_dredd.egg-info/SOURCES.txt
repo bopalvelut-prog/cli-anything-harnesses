@@ -1,0 +1,8 @@
+setup.py
+cli_anything/dredd/__init__.py
+cli_anything_dredd.egg-info/PKG-INFO
+cli_anything_dredd.egg-info/SOURCES.txt
+cli_anything_dredd.egg-info/dependency_links.txt
+cli_anything_dredd.egg-info/entry_points.txt
+cli_anything_dredd.egg-info/requires.txt
+cli_anything_dredd.egg-info/top_level.txt

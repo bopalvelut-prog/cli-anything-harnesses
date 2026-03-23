@@ -1,0 +1,8 @@
+setup.py
+cli_anything/firejail/__init__.py
+cli_anything_firejail.egg-info/PKG-INFO
+cli_anything_firejail.egg-info/SOURCES.txt
+cli_anything_firejail.egg-info/dependency_links.txt
+cli_anything_firejail.egg-info/entry_points.txt
+cli_anything_firejail.egg-info/requires.txt
+cli_anything_firejail.egg-info/top_level.txt

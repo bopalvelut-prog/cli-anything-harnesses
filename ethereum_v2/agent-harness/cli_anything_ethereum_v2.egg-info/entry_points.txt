@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ethereum_v2 = cli_anything.ethereum_v2:cli

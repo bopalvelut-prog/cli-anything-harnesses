@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fluentbit = cli_anything.fluentbit:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/dspace/__init__.py
+cli_anything_dspace.egg-info/PKG-INFO
+cli_anything_dspace.egg-info/SOURCES.txt
+cli_anything_dspace.egg-info/dependency_links.txt
+cli_anything_dspace.egg-info/entry_points.txt
+cli_anything_dspace.egg-info/requires.txt
+cli_anything_dspace.egg-info/top_level.txt

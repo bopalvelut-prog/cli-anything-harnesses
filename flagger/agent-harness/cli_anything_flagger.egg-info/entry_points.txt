@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flagger = cli_anything.flagger:cli

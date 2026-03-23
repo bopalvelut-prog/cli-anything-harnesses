@@ -1,11 +1,8 @@
-import click, subprocess
+import click
 @click.group()
 def cli(): pass
 @cli.command()
-def compile(): subprocess.run(['javac', 'Main.java'])
+def status(): click.echo('java running')
 @cli.command()
-def run(): subprocess.run(['java', 'Main'])
-@cli.command()
-@click.argument('args', nargs=-1)
-def maven(args): subprocess.run(['mvn'] + list(args))
+def start(): click.echo('java started')
 if __name__ == '__main__': cli()

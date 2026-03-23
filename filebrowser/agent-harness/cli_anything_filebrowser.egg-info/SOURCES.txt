@@ -1,0 +1,8 @@
+setup.py
+cli_anything/filebrowser/__init__.py
+cli_anything_filebrowser.egg-info/PKG-INFO
+cli_anything_filebrowser.egg-info/SOURCES.txt
+cli_anything_filebrowser.egg-info/dependency_links.txt
+cli_anything_filebrowser.egg-info/entry_points.txt
+cli_anything_filebrowser.egg-info/requires.txt
+cli_anything_filebrowser.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dredd = cli_anything.dredd:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/elixir/__init__.py
+cli_anything_elixir.egg-info/PKG-INFO
+cli_anything_elixir.egg-info/SOURCES.txt
+cli_anything_elixir.egg-info/dependency_links.txt
+cli_anything_elixir.egg-info/entry_points.txt
+cli_anything_elixir.egg-info/requires.txt
+cli_anything_elixir.egg-info/top_level.txt

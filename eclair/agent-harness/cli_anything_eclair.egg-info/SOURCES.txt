@@ -1,0 +1,8 @@
+setup.py
+cli_anything/eclair/__init__.py
+cli_anything_eclair.egg-info/PKG-INFO
+cli_anything_eclair.egg-info/SOURCES.txt
+cli_anything_eclair.egg-info/dependency_links.txt
+cli_anything_eclair.egg-info/entry_points.txt
+cli_anything_eclair.egg-info/requires.txt
+cli_anything_eclair.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/firefly/__init__.py
+cli_anything_firefly.egg-info/PKG-INFO
+cli_anything_firefly.egg-info/SOURCES.txt
+cli_anything_firefly.egg-info/dependency_links.txt
+cli_anything_firefly.egg-info/entry_points.txt
+cli_anything_firefly.egg-info/requires.txt
+cli_anything_firefly.egg-info/top_level.txt

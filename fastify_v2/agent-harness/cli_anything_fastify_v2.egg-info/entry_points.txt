@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fastify_v2 = cli_anything.fastify_v2:cli

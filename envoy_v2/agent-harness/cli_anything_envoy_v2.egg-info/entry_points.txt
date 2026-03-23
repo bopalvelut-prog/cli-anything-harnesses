@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-envoy_v2 = cli_anything.envoy_v2:cli

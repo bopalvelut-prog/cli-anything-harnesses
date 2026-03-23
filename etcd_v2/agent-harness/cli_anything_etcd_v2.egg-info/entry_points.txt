@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-etcd_v2 = cli_anything.etcd_v2:cli

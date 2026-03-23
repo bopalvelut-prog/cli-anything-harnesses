@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fleet = cli_anything.fleet:cli

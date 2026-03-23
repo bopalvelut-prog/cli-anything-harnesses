@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-druid = cli_anything.druid:cli

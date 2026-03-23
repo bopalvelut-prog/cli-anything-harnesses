@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fabric = cli_anything.fabric:cli

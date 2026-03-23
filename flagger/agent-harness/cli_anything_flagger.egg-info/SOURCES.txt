@@ -1,0 +1,8 @@
+setup.py
+cli_anything/flagger/__init__.py
+cli_anything_flagger.egg-info/PKG-INFO
+cli_anything_flagger.egg-info/SOURCES.txt
+cli_anything_flagger.egg-info/dependency_links.txt
+cli_anything_flagger.egg-info/entry_points.txt
+cli_anything_flagger.egg-info/requires.txt
+cli_anything_flagger.egg-info/top_level.txt

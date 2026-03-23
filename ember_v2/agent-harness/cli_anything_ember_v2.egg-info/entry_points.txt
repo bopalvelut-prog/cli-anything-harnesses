@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-ember_v2 = cli_anything.ember_v2:cli

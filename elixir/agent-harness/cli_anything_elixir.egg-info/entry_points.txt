@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-elixir = cli_anything.elixir:cli

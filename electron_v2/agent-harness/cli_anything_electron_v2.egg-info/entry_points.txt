@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-electron_v2 = cli_anything.electron_v2:cli

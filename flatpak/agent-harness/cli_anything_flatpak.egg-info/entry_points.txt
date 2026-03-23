@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-flatpak = cli_anything.flatpak:cli

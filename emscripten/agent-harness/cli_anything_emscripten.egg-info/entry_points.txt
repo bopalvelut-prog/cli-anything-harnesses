@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-emscripten = cli_anything.emscripten:cli

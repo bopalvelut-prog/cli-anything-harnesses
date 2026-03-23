@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-filebrowser = cli_anything.filebrowser:cli

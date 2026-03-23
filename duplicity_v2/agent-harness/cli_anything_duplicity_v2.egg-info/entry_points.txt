@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-duplicity_v2 = cli_anything.duplicity_v2:cli

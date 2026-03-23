@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-drone_v2 = cli_anything.drone_v2:cli

@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fish = cli_anything.fish:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/flex/__init__.py
+cli_anything_flex.egg-info/PKG-INFO
+cli_anything_flex.egg-info/SOURCES.txt
+cli_anything_flex.egg-info/dependency_links.txt
+cli_anything_flex.egg-info/entry_points.txt
+cli_anything_flex.egg-info/requires.txt
+cli_anything_flex.egg-info/top_level.txt

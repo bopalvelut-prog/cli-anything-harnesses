@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-elasticmq = cli_anything.elasticmq:cli

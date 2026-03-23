@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dumbinit = cli_anything.dumbinit:cli

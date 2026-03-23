@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dpkg = cli_anything.dpkg:cli

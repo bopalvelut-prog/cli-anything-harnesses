@@ -1,0 +1,8 @@
+setup.py
+cli_anything/eucalyptus/__init__.py
+cli_anything_eucalyptus.egg-info/PKG-INFO
+cli_anything_eucalyptus.egg-info/SOURCES.txt
+cli_anything_eucalyptus.egg-info/dependency_links.txt
+cli_anything_eucalyptus.egg-info/entry_points.txt
+cli_anything_eucalyptus.egg-info/requires.txt
+cli_anything_eucalyptus.egg-info/top_level.txt

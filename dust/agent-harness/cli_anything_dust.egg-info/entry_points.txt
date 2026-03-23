@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dust = cli_anything.dust:cli

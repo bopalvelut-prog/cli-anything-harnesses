@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dotenv = cli_anything.dotenv:cli

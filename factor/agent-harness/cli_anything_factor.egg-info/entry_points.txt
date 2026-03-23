@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-factor = cli_anything.factor:cli

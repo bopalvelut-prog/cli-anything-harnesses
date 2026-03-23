@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-filebeat_v2 = cli_anything.filebeat_v2:cli

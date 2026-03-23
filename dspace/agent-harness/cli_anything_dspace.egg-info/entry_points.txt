@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dspace = cli_anything.dspace:cli

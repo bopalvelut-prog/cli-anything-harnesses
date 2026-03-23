@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-f5_v2 = cli_anything.f5_v2:cli

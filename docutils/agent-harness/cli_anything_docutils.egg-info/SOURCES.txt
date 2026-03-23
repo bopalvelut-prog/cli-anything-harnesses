@@ -1,0 +1,8 @@
+setup.py
+cli_anything/docutils/__init__.py
+cli_anything_docutils.egg-info/PKG-INFO
+cli_anything_docutils.egg-info/SOURCES.txt
+cli_anything_docutils.egg-info/dependency_links.txt
+cli_anything_docutils.egg-info/entry_points.txt
+cli_anything_docutils.egg-info/requires.txt
+cli_anything_docutils.egg-info/top_level.txt

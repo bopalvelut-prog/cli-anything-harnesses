@@ -1,0 +1,8 @@
+setup.py
+cli_anything/docker_machine/__init__.py
+cli_anything_docker_machine.egg-info/PKG-INFO
+cli_anything_docker_machine.egg-info/SOURCES.txt
+cli_anything_docker_machine.egg-info/dependency_links.txt
+cli_anything_docker_machine.egg-info/entry_points.txt
+cli_anything_docker_machine.egg-info/requires.txt
+cli_anything_docker_machine.egg-info/top_level.txt

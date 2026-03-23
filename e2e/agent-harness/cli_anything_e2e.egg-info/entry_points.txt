@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-e2e = cli_anything.e2e:cli

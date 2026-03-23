@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-fedora_v2 = cli_anything.fedora_v2:cli

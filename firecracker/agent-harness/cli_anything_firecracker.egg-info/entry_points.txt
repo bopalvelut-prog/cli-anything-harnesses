@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-firecracker = cli_anything.firecracker:cli

@@ -1,0 +1,8 @@
+setup.py
+cli_anything/dotnet/__init__.py
+cli_anything_dotnet.egg-info/PKG-INFO
+cli_anything_dotnet.egg-info/SOURCES.txt
+cli_anything_dotnet.egg-info/dependency_links.txt
+cli_anything_dotnet.egg-info/entry_points.txt
+cli_anything_dotnet.egg-info/requires.txt
+cli_anything_dotnet.egg-info/top_level.txt

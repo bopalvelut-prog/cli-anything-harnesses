@@ -1,0 +1,8 @@
+setup.py
+cli_anything/dumbinit/__init__.py
+cli_anything_dumbinit.egg-info/PKG-INFO
+cli_anything_dumbinit.egg-info/SOURCES.txt
+cli_anything_dumbinit.egg-info/dependency_links.txt
+cli_anything_dumbinit.egg-info/entry_points.txt
+cli_anything_dumbinit.egg-info/requires.txt
+cli_anything_dumbinit.egg-info/top_level.txt

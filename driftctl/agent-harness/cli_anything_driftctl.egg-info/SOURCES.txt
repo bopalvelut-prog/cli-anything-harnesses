@@ -1,0 +1,8 @@
+setup.py
+cli_anything/driftctl/__init__.py
+cli_anything_driftctl.egg-info/PKG-INFO
+cli_anything_driftctl.egg-info/SOURCES.txt
+cli_anything_driftctl.egg-info/dependency_links.txt
+cli_anything_driftctl.egg-info/entry_points.txt
+cli_anything_driftctl.egg-info/requires.txt
+cli_anything_driftctl.egg-info/top_level.txt

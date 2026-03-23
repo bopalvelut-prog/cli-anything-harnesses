@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-docker_swarm = cli_anything.docker_swarm:cli

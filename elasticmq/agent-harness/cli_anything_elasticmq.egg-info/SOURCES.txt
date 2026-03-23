@@ -1,0 +1,8 @@
+setup.py
+cli_anything/elasticmq/__init__.py
+cli_anything_elasticmq.egg-info/PKG-INFO
+cli_anything_elasticmq.egg-info/SOURCES.txt
+cli_anything_elasticmq.egg-info/dependency_links.txt
+cli_anything_elasticmq.egg-info/entry_points.txt
+cli_anything_elasticmq.egg-info/requires.txt
+cli_anything_elasticmq.egg-info/top_level.txt

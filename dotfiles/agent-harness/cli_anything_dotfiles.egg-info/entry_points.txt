@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-dotfiles = cli_anything.dotfiles:cli
