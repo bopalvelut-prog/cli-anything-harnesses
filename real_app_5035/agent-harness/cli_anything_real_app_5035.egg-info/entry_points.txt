@@ -1,0 +1,2 @@
+[console_scripts]
+cli-anything-real_app_5035 = cli_anything.real_app_5035:cli

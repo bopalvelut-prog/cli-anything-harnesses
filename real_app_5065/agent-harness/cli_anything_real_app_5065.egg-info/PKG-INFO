@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: cli-anything-real_app_5065
+Version: 1.0.0
+Requires-Dist: click
+Dynamic: requires-dist
