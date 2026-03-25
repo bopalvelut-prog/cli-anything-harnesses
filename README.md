@@ -5,7 +5,7 @@ Total: **7407** CLI harnesses
 ## Installation
 
 ```bash
-source /home/m/apps/bin/activate
+source ~/venv/bin/activate
 pip install cli-anything-<name>
 ```
 
